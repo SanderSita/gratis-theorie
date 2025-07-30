@@ -1,0 +1,2261 @@
+[
+    {
+        "id": 1,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 2,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 3,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 4,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 5,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 6,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 7,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 8,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 9,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 10,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 11,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 12,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 13,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 14,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 15,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 16,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 17,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 18,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 19,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 20,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 21,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 22,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 23,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 24,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 25,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 26,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 27,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 28,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 29,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 30,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 31,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 32,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 33,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 34,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 35,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 36,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 37,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 38,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 39,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 40,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 41,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 42,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 43,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 44,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 45,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 46,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 47,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 48,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 49,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 50,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 51,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 52,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 53,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 54,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 55,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 56,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 57,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 58,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 59,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 60,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 61,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 62,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 63,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 64,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 65,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 66,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 67,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 68,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 69,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 70,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 71,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 72,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 73,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 74,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 75,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 76,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 77,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 78,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 79,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 80,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 81,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 82,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 83,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 84,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 85,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 86,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 87,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 88,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 89,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 90,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 91,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 92,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 93,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 94,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 95,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 96,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 97,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 98,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 99,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 100,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 101,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 102,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 103,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 104,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 105,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 106,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 107,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 108,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 109,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 110,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 111,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 112,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 113,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 114,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 115,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 116,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 117,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 118,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 119,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 120,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 121,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 122,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 123,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 124,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 125,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 126,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 127,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 128,
+        "type": "multiple_response",
+        "question": "Welke factoren beïnvloeden de maximumsnelheid?",
+        "options": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig",
+            "Leeftijd van de bestuurder"
+        ],
+        "answer": [
+            "Weertype",
+            "Type weg",
+            "Soort voertuig"
+        ],
+        "image": {
+            "description": "Afbeelding met verschillende wegen en weersomstandigheden",
+            "url": null
+        }
+    },
+    {
+        "id": 129,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 130,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 131,
+        "type": "ja/nee",
+        "question": "Mag je 80 km/u rijden binnen de bebouwde kom?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Nee",
+        "image": {
+            "description": "Afbeelding van een straat binnen de bebouwde kom met een bord '50 km/u'",
+            "url": null
+        }
+    },
+    {
+        "id": 132,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 133,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 134,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    },
+    {
+        "id": 135,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de situaties naar de juiste maximumsnelheid.",
+        "options": [
+            "Erf",
+            "Autoweg",
+            "Bebouwde kom",
+            "Autosnelweg"
+        ],
+        "answer": {
+            "Erf": "15",
+            "Autoweg": "100",
+            "Bebouwde kom": "50",
+            "Autosnelweg": "100"
+        },
+        "image": {
+            "description": "Afbeelding met verschillende soorten wegen: erf, autoweg, stad en snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 136,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 137,
+        "type": "invulvraag",
+        "question": "Wat is de toegestane maximumsnelheid op een autoweg buiten de bebouwde kom?",
+        "answer": "100",
+        "image": {
+            "description": "Afbeelding van een autoweg met weinig verkeer en een 100 km/u bord",
+            "url": null
+        }
+    },
+    {
+        "id": 138,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 139,
+        "type": "hotspotvraag",
+        "question": "Klik op het bord dat de juiste maximumsnelheid aangeeft voor een autosnelweg.",
+        "options": [
+            "bord_1",
+            "bord_2",
+            "bord_3",
+            "bord_4"
+        ],
+        "answer": "bord_3",
+        "image": {
+            "description": "Afbeelding met verschillende snelheidsborden langs een snelweg",
+            "url": null
+        }
+    },
+    {
+        "id": 140,
+        "type": "meerkeuze",
+        "question": "Wat is de maximumsnelheid op een autosnelweg in Nederland, tenzij anders aangegeven?",
+        "options": [
+            "100 km/u",
+            "120 km/u",
+            "130 km/u",
+            "90 km/u"
+        ],
+        "answer": "100 km/u",
+        "image": {
+            "description": "Afbeelding van een autosnelweg met verkeersbord dat 100 km/u aangeeft",
+            "url": null
+        }
+    }
+]

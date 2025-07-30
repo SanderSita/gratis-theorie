@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "type": "drag_order",
+        "question": "Zet de weggebruikers in de juiste volgorde van voorrang op dit kruispunt.",
+        "items": [
+            {
+                "id": "auto_rechts",
+                "label": "Auto van rechts",
+                "image": null,
+                "style": {
+                    "top": "20%",
+                    "left": "70%"
+                }
+            },
+            {
+                "id": "loper",
+                "label": "Fiets van links",
+                "image": null,
+                "style": {
+                    "top": "50%",
+                    "left": "10%"
+                }
+            },
+            {
+                "id": "auto_onder",
+                "label": "Tram van voren",
+                "image": null,
+                "style": {
+                    "top": "80%",
+                    "left": "50%"
+                }
+            }
+        ],
+        "correct_order": ["loper", "auto_rechts", "auto_onder"],
+        "image": {
+            "description": "Kruispunt met auto, fiets en tram",
+            "url": "1.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "why": "het is omdat de bestuurder van rechts voorrang heeft op een gelijkwaardig kruispunt.",
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 3,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "why": "je moet voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt.",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 4,
+        "type": "ja/nee",
+        "question": "test ja nee vraag",
+        "options": [
+            "Ja",
+            "Nee",
+            "fuck you"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 5,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 6,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 7,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 8,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 9,
+        "type": "ja/nee",
+        "question": "test ja nee vraag",
+        "options": [
+            "Ja",
+            "Nee",
+            "fuck you"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 10,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 11,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    }
+]

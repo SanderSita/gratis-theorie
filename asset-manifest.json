@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gratis-theorie/static/css/main.e1caa8c8.css",
+    "main.js": "/gratis-theorie/static/js/main.605422ed.js",
+    "static/js/453.bec01f6f.chunk.js": "/gratis-theorie/static/js/453.bec01f6f.chunk.js",
+    "index.html": "/gratis-theorie/index.html",
+    "main.e1caa8c8.css.map": "/gratis-theorie/static/css/main.e1caa8c8.css.map",
+    "main.605422ed.js.map": "/gratis-theorie/static/js/main.605422ed.js.map",
+    "453.bec01f6f.chunk.js.map": "/gratis-theorie/static/js/453.bec01f6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1caa8c8.css",
+    "static/js/main.605422ed.js"
+  ]
+}
