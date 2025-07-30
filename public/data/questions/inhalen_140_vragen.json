@@ -1,0 +1,2182 @@
+[
+    {
+        "id": 1,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 2,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 3,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 4,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 5,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 6,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 7,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 8,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 9,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 10,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 11,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 12,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 13,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 14,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 15,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 16,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 17,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 18,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 19,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 20,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 21,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 22,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 23,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 24,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 25,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 26,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 27,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 28,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 29,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 30,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 31,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 32,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 33,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 34,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 35,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 36,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 37,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 38,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 39,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 40,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 41,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 42,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 43,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 44,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 45,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 46,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 47,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 48,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 49,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 50,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 51,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 52,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 53,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 54,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 55,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 56,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 57,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 58,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 59,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 60,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 61,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 62,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 63,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 64,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 65,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 66,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 67,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 68,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 69,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 70,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 71,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 72,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 73,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 74,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 75,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 76,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 77,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 78,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 79,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 80,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 81,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 82,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 83,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 84,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 85,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 86,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 87,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 88,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 89,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 90,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 91,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 92,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 93,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 94,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 95,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 96,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 97,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 98,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 99,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 100,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 101,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 102,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 103,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 104,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 105,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 106,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 107,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 108,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 109,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 110,
+        "type": "multiple_response",
+        "question": "In welke situaties is rechts inhalen toegestaan?",
+        "options": [
+            "Bij het rijden naast een tram",
+            "Als je voor een verkeerslicht staat en iemand links afslaat",
+            "In een file",
+            "Op een rotonde"
+        ],
+        "answer": [
+            "Bij het rijden naast een tram",
+            "In een file"
+        ],
+        "image": {
+            "description": "Afbeelding van een auto die rechts een tram inhaalt en auto's in een file passeert",
+            "url": null
+        }
+    },
+    {
+        "id": 111,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 112,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 113,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 114,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 115,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 116,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 117,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 118,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 119,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 120,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 121,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 122,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 123,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 124,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 125,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 126,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 127,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 128,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 129,
+        "type": "meerkeuze",
+        "question": "Wanneer is inhalen verboden?",
+        "options": [
+            "Op een rotonde",
+            "Op een kruispunt zonder borden",
+            "Op een weg met een onderbroken streep",
+            "Op een autoweg"
+        ],
+        "answer": "Op een kruispunt zonder borden",
+        "image": {
+            "description": "Afbeelding van een kruispunt zonder verkeersborden waar een auto probeert in te halen",
+            "url": null
+        }
+    },
+    {
+        "id": 130,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 131,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 132,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 133,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 134,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 135,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 136,
+        "type": "invulvraag",
+        "question": "Hoeveel meter afstand moet je minimaal houden tot een fietser bij het inhalen?",
+        "answer": "1.5",
+        "image": {
+            "description": "Afbeelding van een auto die een fietser inhaalt met een afstand van 1,5 meter",
+            "url": null
+        }
+    },
+    {
+        "id": 137,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat onveilig wordt ingehaald.",
+        "options": [
+            "voertuig_1",
+            "voertuig_2",
+            "voertuig_3",
+            "voertuig_4"
+        ],
+        "answer": "voertuig_2",
+        "image": {
+            "description": "Afbeelding met meerdere voertuigen, één wordt ingehaald vlak voor een bocht",
+            "url": null
+        }
+    },
+    {
+        "id": 138,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    },
+    {
+        "id": 139,
+        "type": "ja/nee",
+        "question": "Mag je rechts inhalen op een weg met fileverkeer?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Afbeelding van een file op de linkerbaan terwijl auto's rechts passeren",
+            "url": null
+        }
+    },
+    {
+        "id": 140,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de stappen in de juiste volgorde voor veilig inhalen.",
+        "options": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "answer": [
+            "Spiegels controleren",
+            "Richting aangeven",
+            "Inhalen",
+            "Terugkeren naar rijstrook"
+        ],
+        "image": {
+            "description": "Afbeelding met een sequentie van een auto die veilig inhaalt",
+            "url": null
+        }
+    }
+]

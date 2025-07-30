@@ -1,0 +1,2262 @@
+[
+    {
+        "id": 1,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 2,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 3,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 4,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 5,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 6,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 7,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 8,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 9,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 10,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 11,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 12,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 13,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 14,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 15,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 16,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 17,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 18,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 19,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 20,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 21,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 22,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 23,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 24,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 25,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 26,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 27,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 28,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 29,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 30,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 31,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 32,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 33,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 34,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 35,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 36,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 37,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 38,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 39,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 40,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 41,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 42,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 43,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 44,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 45,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 46,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 47,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 48,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 49,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 50,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 51,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 52,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 53,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 54,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 55,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 56,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 57,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 58,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 59,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 60,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 61,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 62,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 63,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 64,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 65,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 66,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 67,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 68,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 69,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 70,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 71,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 72,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 73,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 74,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 75,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 76,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 77,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 78,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 79,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 80,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 81,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 82,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 83,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 84,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 85,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 86,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 87,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 88,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 89,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 90,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 91,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 92,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 93,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 94,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 95,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 96,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 97,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 98,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 99,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 100,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 101,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 102,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 103,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 104,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 105,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 106,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 107,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 108,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 109,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 110,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 111,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 112,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 113,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 114,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 115,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 116,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 117,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 118,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 119,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 120,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 121,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 122,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 123,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 124,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 125,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 126,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 127,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 128,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 129,
+        "type": "single-sleep-vraag",
+        "question": "Sleep de voertuigen in de juiste voorrang volgorde.",
+        "options": [
+            "Auto van links",
+            "Auto van rechts",
+            "Tram van voren",
+            "Fiets van achter"
+        ],
+        "answer": [
+            "Tram van voren",
+            "Auto van rechts",
+            "Fiets van achter",
+            "Auto van links"
+        ],
+        "image": {
+            "description": "Kruispunt met tram, auto’s en fiets op verschillende posities",
+            "url": null
+        }
+    },
+    {
+        "id": 130,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 131,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 132,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 133,
+        "type": "invulvraag",
+        "question": "Vul in: wie heeft er voorrang op een gelijkwaardig kruispunt?",
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "Vier auto’s op een gelijkwaardig kruispunt",
+            "url": null
+        }
+    },
+    {
+        "id": 134,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 135,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    },
+    {
+        "id": 136,
+        "type": "multiple_response",
+        "question": "Wie hebben voorrang op een gelijkwaardig kruispunt?",
+        "options": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Voetganger van rechts",
+            "Tram van links"
+        ],
+        "answer": [
+            "Auto van rechts",
+            "Fiets van rechts",
+            "Tram van links"
+        ],
+        "image": {
+            "description": "Overzicht van kruispunt met auto, fiets, tram en voetganger",
+            "url": null
+        }
+    },
+    {
+        "id": 137,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 138,
+        "type": "ja/nee",
+        "question": "Moet je voorrang geven aan een tram van rechts op een gelijkwaardig kruispunt?",
+        "options": [
+            "Ja",
+            "Nee"
+        ],
+        "answer": "Ja",
+        "image": {
+            "description": "Kruispunt waar een tram van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 139,
+        "type": "meerkeuze",
+        "question": "Wie heeft er voorrang op dit kruispunt?",
+        "options": [
+            "Bestuurder van rechts",
+            "Bestuurder van links",
+            "Voetganger",
+            "Fiets die rechtdoor rijdt"
+        ],
+        "answer": "Bestuurder van rechts",
+        "image": {
+            "description": "T-kruispunt zonder verkeersborden of tekens, auto van rechts nadert",
+            "url": null
+        }
+    },
+    {
+        "id": 140,
+        "type": "hotspotvraag",
+        "question": "Klik op het voertuig dat voorrang moet krijgen.",
+        "options": [
+            "auto_links",
+            "auto_rechts",
+            "fiets_rechtdoor",
+            "voetganger"
+        ],
+        "answer": "auto_rechts",
+        "image": {
+            "description": "Situatie met meerdere voertuigen op een kruispunt zonder voorrangsborden",
+            "url": null
+        }
+    }
+]
