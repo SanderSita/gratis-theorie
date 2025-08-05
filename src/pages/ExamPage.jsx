@@ -23,6 +23,7 @@ export default function ExamPage() {
   const [finishedExam, setFinishedExam] = useState(null);
   const [topQuestion, setTopQuestion] = useState(null);
   const [wrongAnswers, setWrongAnswers] = useState([]);
+  const [isCategory, setIsCategory] = useState(null);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -45,7 +46,14 @@ export default function ExamPage() {
   }, [startTime]);
 
   useEffect(() => {
-    fetch(`/data/questions/examen_${examId}.json`)
+    let examPath = `/data/questions/examen_${examId}/exam_questions.json`
+    // If examId is not a number, it means it's a category
+    if (!examId || isNaN(examId)) {
+      examPath = `/data/questions/examen_${examId}/exam_questions.json`;
+      setIsCategory(true);
+    }
+    
+    fetch(examPath)
       .then(res => res.json())
       .then(questionData => {
         setTotalQuestions(questionData.length)
@@ -78,15 +86,15 @@ export default function ExamPage() {
           setQuestions(questionData)
 
           if (questionData.length == examData.answers.length) {
-            setCurrentQuestion(examData.answers.length);
-            setCurrentQuestionData(questionData[examData.answers.length - 1])
-            setSelectedAnswer(examData.answers[examData.answers.length - 1]);
-            setTopQuestion(examData.answers.length)
+            setCurrentQuestion(1);
+            setCurrentQuestionData(questionData[0]);
+            setSelectedAnswer(examData.answers[0]);
+            setTopQuestion(examData.answers.length);
           } else {
             setCurrentQuestion(examData.answers.length + 1);
-            setCurrentQuestionData(questionData[examData.answers.length])
+            setCurrentQuestionData(questionData[examData.answers.length]);
             setSelectedAnswer(null);
-            setTopQuestion(examData.answers.length + 1)
+            setTopQuestion(examData.answers.length + 1);
           }
         } else {
           // randomize the questions
@@ -156,8 +164,9 @@ export default function ExamPage() {
   }
 
   const handleSelectAnswer = (type, data) => {
+    console.log("aa")
     if (finishedExam) return;
-
+    console.log("bbb")
     if (type === 'multiple_response') {
       // If multiple response, toggle the selection
       setSelectedAnswer(prev => {
@@ -196,22 +205,6 @@ export default function ExamPage() {
     return false;
   }
 
-  // function 
-  function getCorrectAnswer(question) {
-    console.log(question)
-    if (question.type === 'ja/nee') {
-      console.log(question.answer)
-      return question.answer;
-    } else if (question.type === 'invulvraag') {
-      return question.answer;
-    } else if (question.type === 'multiple_response') {
-      return question.answer.map(ans => question.options[ans]);
-    } else if (question.type === 'drag_order') {
-      return question.correct_order
-    }
-    return null;
-  }
-
   function updateAnswerInLocalStorage(answer) {
     console.log("Updating answer in local storage", answer, currentQuestionData);
     const examData = JSON.parse(localStorage.getItem(`exam_${examId}`));
@@ -240,7 +233,9 @@ export default function ExamPage() {
             const examData = JSON.parse(localStorage.getItem(`exam_${examId}`));
             const answers = examData.answers;
             let wrongAnswers = [];
+
             const correctAnswers = questions.reduce((count, question, index) => {
+              console.log(question)
               if (question.type === 'ja/nee' && question.answer === question.options[answers[index]?.data]) {
                 return count + 1;
               } else if (question.type === 'invulvraag' && question.answer.toLowerCase() === answers[index]?.data.toLowerCase()) {
@@ -269,6 +264,10 @@ export default function ExamPage() {
                   .map(item => item?.draggedItemId)
 
                 if (JSON.stringify(correctOrder) === JSON.stringify(draggedItemIds)) {
+                  return count + 1;
+                }
+              } else if (question.type === 'multiple_choice_images') {
+                if (question.answer === answers[index]?.data) {
                   return count + 1;
                 }
               }
@@ -326,18 +325,18 @@ export default function ExamPage() {
               </div>
             }
             {finishedExam && 
-              <div className="bg-gray-500 text-white font-medium py-1 px-3 rounded-full cursor-pointer" onClick={() => window.location.assign('/overzicht')}>
+              <div className="bg-gray-500 text-white text-center font-medium py-1 px-3 rounded-full cursor-pointer" onClick={() => window.location.assign('/overzicht')}>
                 Naar Overzicht
               </div>
             }
-            <div className="bg-orange-100 text-orange-800 font-medium py-1 px-3 rounded-full">
+            <div className="bg-orange-100 text-orange-800 font-medium py-1 px-3 rounded-full md:block hidden">
               {currentQuestion} van {totalQuestions}
             </div>
           </div>
         </div>
       </header>
       {/* Main exam content */}
-      <main className="flex-grow py-8 px-4">
+      <main className="flex-grow md:py-8 md:px-4">
         <div className="max-w-7xl mx-auto">
           {/* Question */}
           <div
@@ -359,14 +358,54 @@ export default function ExamPage() {
             {/* Question content - Image and answers */}
             <div className="grid md:grid-cols-2 gap-6 p-6">
               {/* Left side - Image */}
-              <div className="bg-gray-100 rounded-xl overflow-hidden flex items-center justify-center min-h-[400px]">
+              <div className="rounded-xl overflow-hidden flex justify-center md:min-h-[400px]">
                 {(currentQuestionData && currentQuestionData.image.url) ? (
                   <div className="relative w-full max-w-[800px]">
-                    <img
-                      src={"/assets/img/questions/" + currentQuestionData.image.url}
-                      alt="Verkeerssituatie"
-                      className="w-full h-auto object-contain"
-                    />
+                    {currentQuestionData.type != 'multiple_choice_images' && 
+                      (currentQuestionData.image.url.endsWith('.mp4') ? (
+                      <video controls muted autoPlay className="w-full h-auto object-contain rounded-lg">
+                        <source src={"/data/questions/examen_" + examId + '/question_' + currentQuestionData.image.url} />
+                      </video>
+                      ) : (
+                      <img
+                        src={"/data/questions/examen_" + examId + '/question_' + currentQuestionData.image.url}
+                        alt="Verkeerssituatie"
+                        className="w-full h-auto object-contain rounded-lg"
+                      />
+                      ))
+                    }
+
+                    {/* for multiple_choice_images question type, show the options as images in a grid */}
+                    {currentQuestionData && currentQuestionData.type === 'multiple_choice_images' && (
+                      <div className="grid grid-cols-2 gap-4 md:mt-4">
+                      {currentQuestionData.options.map((option, index) => {
+                        const isSelected = selectedAnswer?.data === index;
+                        const baseClasses = 'p-4 rounded-xl border-2 text-left transition-all';
+                        const hoverClasses = finishedExam
+                        ? ''
+                        : 'hover:border-orange-300 hover:bg-orange-50';
+                        const selectedClasses = isSelected
+                        ? 'border-orange-500 bg-orange-50 text-orange-900'
+                        : 'border-gray-200';
+                        const isCorrect = finishedExam && currentQuestionData.answer === index ? 'border-green-500 bg-green-50' : '';
+
+                        return (
+                        <button
+                          key={index}
+                          className={`${baseClasses} ${selectedClasses} ${hoverClasses} ${isCorrect}`}
+                          onClick={() => handleSelectAnswer('multiple_choice_images', index)}
+                          disabled={finishedExam}
+                        >
+                          <img
+                          src={`/data/questions/examen_${examId}/${option}`}
+                          alt={`Option ${index + 1}`}
+                          className="w-full max-h-32 rounded-lg"
+                          />
+                        </button>
+                        );
+                      })}
+                      </div>
+                    )}
 
                     {/* De rode cirkels */}
                     {currentQuestionData.type === 'drag_order' && currentQuestionData.items ? (
@@ -388,42 +427,42 @@ export default function ExamPage() {
                             isFilled = true;
                           }
                         }
-                return (
-                  <div
-                    key={dropIndex}
-                    className={`absolute size-0 p-5 z-50 rounded-full flex items-center justify-center text-black font-bold transition-all ${
-                      isFilled ? 'bg-orange-500 text-white' : 'bg-orange-200 cursor-pointer hover:bg-orange-300'
-                    }`}
-                    style={{
-                      top: option.style.top,
-                      left: option.style.left,
-                      transform: 'translate(-50%, -50%)',
-                    }}
-                    onClick={() => {
-                      if (!finishedExam && selectedAnswer?.data?.[dropIndex] !== undefined) {
-                        const updated = { ...selectedAnswer.data };
-                        delete updated[dropIndex];
-                        setSelectedAnswer({ data: updated });
-                      }
-                    }}
-                    onDragOver={(e) => !finishedExam && e.preventDefault()}
-                    onDrop={(e) => {
-                      if (finishedExam) return;
+                        return (
+                          <div
+                            key={dropIndex}
+                            className={`absolute border border-black size-0 opacity-80 p-5 z-50 rounded-full flex items-center justify-center text-black font-bold transition-all ${
+                              isFilled ? 'bg-orange-500 text-white' : 'bg-orange-200 cursor-pointer hover:bg-orange-300'
+                            }`}
+                            style={{
+                              top: option.style.top,
+                              left: option.style.left,
+                              transform: 'translate(-50%, -50%)',
+                            }}
+                            onClick={() => {
+                              if (!finishedExam && selectedAnswer?.data?.[dropIndex] !== undefined) {
+                                const updated = { ...selectedAnswer.data };
+                                delete updated[dropIndex];
+                                setSelectedAnswer({ data: updated });
+                              }
+                            }}
+                            onDragOver={(e) => !finishedExam && e.preventDefault()}
+                            onDrop={(e) => {
+                              if (finishedExam) return;
 
-                      const draggedIndex = e.dataTransfer.getData('text/plain');
-                      if (!draggedIndex || selectedAnswer?.data?.[dropIndex] !== undefined) return;
+                              const draggedIndex = e.dataTransfer.getData('text/plain');
+                              if (!draggedIndex || selectedAnswer?.data?.[dropIndex] !== undefined) return;
 
-                      const draggedItemId = currentQuestionData.items[dropIndex]?.id;
-                      if (!draggedItemId) return;
+                              const draggedItemId = currentQuestionData.items[dropIndex]?.id;
+                              if (!draggedItemId) return;
 
-                      const updated = {
-                        ...(selectedAnswer?.data || {}),
-                        [dropIndex]: { draggedItemId, order_index: draggedIndex },
-                      };
+                              const updated = {
+                                ...(selectedAnswer?.data || {}),
+                                [dropIndex]: { draggedItemId, order_index: draggedIndex },
+                              };
 
-                      setSelectedAnswer({ data: updated });
-                    }}
-                  >
+                              setSelectedAnswer({ data: updated });
+                            }}
+                          >
                             {displayIndex}
                           </div>
                         );
@@ -431,7 +470,7 @@ export default function ExamPage() {
                     ) : null}
                   </div>
                 ) : (
-                  <img src="/assets/svg/gray-car.svg" className="size-24" />
+                  <img src="/assets/svg/gray-car.svg" className="size-32 my-auto" />
                 )}
               </div>
 
@@ -440,7 +479,10 @@ export default function ExamPage() {
                 {!finishedExam ? (
                   <p className="text-gray-600 mb-2">{currentQuestionData && currentQuestionData.type == 'drag_order' ? 'Kies de juiste volgorde:' : 'Kies het juiste antwoord:'}</p>
                 ) : (
-                  <p className="text-gray-600 mb-2">Jouw antwoord</p>
+                  // if exam is finished and its not a ja/nee question or a multiple_choice question, dont show the "Jouw antwoord" text
+                  currentQuestionData && (currentQuestionData.type == 'ja/nee' || currentQuestionData.type == 'multiple_response') && (
+                    <p className="text-gray-600 mb-2">Jouw antwoord:</p>
+                  )
                 )}
                 {
                   currentQuestionData ? (
@@ -451,10 +493,14 @@ export default function ExamPage() {
                           const isCorrect = currentQuestionData.answer === option;
                           const isFinished = finishedExam === true;
 
-                          let borderClass = 'border-gray-200 hover:border-orange-300 hover:bg-orange-50';
+                          let borderClass = 'border-gray-200';
                           let backgroundClass = '';
                           let textClass = 'text-gray-800';
                           let letterClass = 'bg-gray-100 text-gray-500';
+
+                          if (!finishedExam) {
+                            borderClass += ' hover:border-orange-300 hover:bg-orange-50'
+                          }
 
                           if (isFinished) {
                             if (isCorrect) {
@@ -483,7 +529,7 @@ export default function ExamPage() {
                               onClick={() => handleSelectAnswer('ja/nee', index)}
                             >
                               <div className="flex items-center gap-3">
-                                <div className={`w-6 h-6 rounded-full flex items-center justify-center ${letterClass}`}>
+                                <div className={`w-6 h-6 rounded-full flex items-center justify-center flex-shrink-0 ${letterClass}`}>
                                   {String.fromCharCode(65 + index)}
                                 </div>
                                 <span>{option}</span>
@@ -559,6 +605,9 @@ export default function ExamPage() {
                           })}
                         </div>
                       ),
+                      'multipe_choice_images': (
+                        <></>
+                      ),
                       'multiple_response': (
                         currentQuestionData.type == 'multiple_response' &&
                         currentQuestionData.options.map((option, index) => {
@@ -618,15 +667,23 @@ export default function ExamPage() {
                     <p className="text-red-500 font-bold">
                       Fout!{' '}
                       <span className="font-normal">
-                        {currentQuestionData.type === 'drag_order'
-                          ? 'Juiste volgorde ziet je in de afbeelding'
-                          : currentQuestionData.type === 'invulvraag'
-                            ? (
-                              <span>
-                                Het goede antwoord is: <span className="underline">{currentQuestionData.answer}</span>
-                              </span>
-                            )
-                            : currentQuestionData.why}
+                        {currentQuestionData.type === 'drag_order' ? (
+                          <>
+                            Juiste volgorde zie je in de afbeelding.
+                            <br />
+                            Jouw antwoord was:{' '}
+                            {Object.values(selectedAnswer?.data)
+                              .sort((a, b) => parseInt(a.order_index) - parseInt(b.order_index))
+                              .map((item) => item.draggedItemId)
+                              .join(', ')}
+                          </>
+                        ) : currentQuestionData.type === 'invulvraag' ? (
+                          <>
+                            Het goede antwoord is: <span className="underline">{currentQuestionData.answer}</span>
+                          </>
+                        ) : (
+                          currentQuestionData.why
+                        )}
                       </span>
                     </p>
                   ) : (
@@ -643,6 +700,8 @@ export default function ExamPage() {
                       ? "Selecteer een antwoord om door te gaan"
                       : currentQuestionData.type === 'invulvraag'
                       ? "Typ je antwoord in het veld"
+                      : currentQuestionData.type === 'multiple_choice_images'
+                      ? "Selecteer één afbeelding om door te gaan"
                       : currentQuestionData.type === 'drag_order'
                       ? "Kies de juiste volgorde door de items te slepen"
                       : currentQuestionData.type === 'multiple_response'
@@ -655,7 +714,7 @@ export default function ExamPage() {
             </div>
           </div>
           {/* Navigation */}
-          <div className="flex justify-between items-center">
+          <div className="flex justify-between items-center px-2 md:px-0">
             <button
               onClick={handlePreviousQuestion}
               disabled={currentQuestion === 1}
@@ -664,7 +723,8 @@ export default function ExamPage() {
               <ArrowLeftIcon className="w-4 h-4" />
               Vorige vraag
             </button>
-            <div className="flex gap-1">
+
+            <div className="grid-cols-10 hidden md:grid gap-1">
               {[...Array(totalQuestions)].map((_, i) => (
                 <div
                   onClick={() => {
@@ -683,17 +743,22 @@ export default function ExamPage() {
                   className={`pb-1 cursor-pointer ${
                     finishedExam === true
                       ? currentQuestionData && wrongAnswers.includes(i + 1)
-                        ? 'border-b-2 border-red-500'   // wrong answer
-                        : 'border-b-2 border-green-500' // correct answer
+                        ? 'border-b-2 border-red-500'
+                        : 'border-b-2 border-green-500'
                       : ''
                   }`}
-                                  >
-                  <span className={`w-4 h-4 rounded-full flex justify-center items-center text-center text-[10px] text-white ${(i+1) == currentQuestion ? 'bg-orange-200' : 'bg-gray-200'}  ${i + 1 <= topQuestion || finishedExam ? 'bg-orange-500' : 'bg-gray-200'}`}>
-                    {i+1}
+                >
+                  <span
+                    className={`w-4 h-4 rounded-full flex justify-center items-center text-center text-[10px] text-white ${
+                      i + 1 === currentQuestion ? 'bg-orange-200' : 'bg-gray-200'
+                    } ${i + 1 <= topQuestion || finishedExam ? 'bg-orange-500' : 'bg-gray-200'}`}
+                  >
+                    {i + 1}
                   </span>
                 </div>
               ))}
             </div>
+
             <button
               onClick={handleNextQuestion}
               disabled={!isAnswerComplete(selectedAnswer, currentQuestionData)}
@@ -710,6 +775,41 @@ export default function ExamPage() {
               <ArrowRightIcon className="w-4 h-4" />
             </button>
           </div>
+          {/* Question navigation for small screens */}
+          <div className="grid-cols-5 gap-1 grid p-2 mt-2 md:hidden">
+              {[...Array(totalQuestions)].map((_, i) => (
+                <div
+                  onClick={() => {
+                    if (i + 1 <= topQuestion || finishedExam) {
+                      setCurrentQuestion(i + 1);
+                      setCurrentQuestionData(questions[i]);
+                      const examData = JSON.parse(localStorage.getItem(`exam_${examId}`));
+                      if (examData && examData.answers && examData.answers.length > i) {
+                        setSelectedAnswer(examData.answers[i]);
+                      } else {
+                        setSelectedAnswer(null);
+                      }
+                    }
+                  }}
+                  key={i}
+                  className={`pb-1 cursor-pointer ${
+                    finishedExam === true
+                      ? currentQuestionData && wrongAnswers.includes(i + 1)
+                        ? 'border-b-2 border-red-500'
+                        : 'border-b-2 border-green-500'
+                      : ''
+                  }`}
+                >
+                  <span
+                    className={`w-6 h-6 rounded-full flex justify-center items-center text-center mx-auto text-[10px] text-white ${
+                      i + 1 === currentQuestion ? 'bg-orange-200' : 'bg-gray-200'
+                    } ${i + 1 <= topQuestion || finishedExam ? 'bg-orange-500' : 'bg-gray-200'}`}
+                  >
+                    {i + 1}
+                  </span>
+                </div>
+              ))}
+            </div>
         </div>
       </main>
       {/* Progress bar */}
