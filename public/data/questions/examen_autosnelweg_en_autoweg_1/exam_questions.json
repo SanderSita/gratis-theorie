@@ -1,0 +1,140 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Pijl B",
+      "Pijl A",
+      "Pijl C"
+    ],
+    "id": 1,
+    "question": "Welke pijl geeft de uitrijstrook aan?",
+    "answer": "Pijl A",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "In situatie B",
+      "In geen van beide situaties",
+      "In situatie A"
+    ],
+    "id": 2,
+    "question": "Je rijdt op de snelweg met een aanhangwagen. De combinatie heeft een lengte van 8 meter. In welke situatie mag je inhalen?",
+    "answer": "In situatie B",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Over de vluchtstrook",
+      "Tussen de rijstroken door",
+      "Over de linkerrijstrook"
+    ],
+    "id": 3,
+    "question": "Je rijdt in een file. Je hoort ver weg sirenes. Waar verwacht je dat de hulpdiensten zullen rijden?",
+    "answer": "Over de vluchtstrook",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je geeft pas richting aan op het moment dat je gaat invoegen",
+      "Je geeft richting aan zodra je de invoegstrook bent opgereden",
+      "Je geeft aan het einde van de invoegstrook richting aan"
+    ],
+    "id": 4,
+    "question": "Je rijdt op de invoegstrook. Wanneer geef je richting aan om in te voegen?",
+    "answer": "Je geeft pas richting aan op het moment dat je gaat invoegen",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Mag een brommobiel deze weg inrijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 6,
+    "question": "Je haalt de vrachtauto hier in. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Pijl C",
+      "Pijl A",
+      "Pijl B"
+    ],
+    "id": 7,
+    "question": "Welke pijl geeft de vluchtstrook aan?",
+    "answer": "Pijl B",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Motorrijders kunnen jou dan rechts inhalen",
+      "De vrachtauto gaat ook naar de linkerrijstrook",
+      "Deze rijstrook eindigt straks"
+    ],
+    "id": 8,
+    "question": "Je wilt naar de linkerrijstrook gaan. Waar moet je rekening mee houden?",
+    "answer": "Motorrijders kunnen jou dan rechts inhalen",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Pijl A",
+      "Pijl B",
+      "Pijl C"
+    ],
+    "id": 9,
+    "question": "Welke pijl geeft de rijbaan aan?",
+    "answer": "Pijl C",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De route via de S103 en S106",
+      "Beide routes zijn waarschijnlijk even snel",
+      "De route via de S116"
+    ],
+    "id": 10,
+    "question": "Je rijdt naar de A8. Welke route is waarschijnlijk het snelst?",
+    "answer": "De route via de S116",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

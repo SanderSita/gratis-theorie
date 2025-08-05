@@ -1,0 +1,139 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aanhangwagens met een maximale toegestane massa van meer dan 1500 kilo",
+      "Aanhangwagens met een maximale toegestane massa van meer dan 750 kilo",
+      "Aanhangwagens met een maximale toegestane massa van meer dan 3000 kilo"
+    ],
+    "id": 1,
+    "question": "Welke aanhangwagens moeten een eigen kentekenbewijs hebben?",
+    "answer": "Aanhangwagens met een maximale toegestane massa van meer dan 750 kilo",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 2,
+    "question": "Is een fietser een bestuurder?",
+    "answer": "Ja",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Er kan een Educatieve Maatregel Alcohol en verkeer (EMA) worden opgelegd",
+      "Er kan geen educatieve maatregel worden opgelegd",
+      "Er kan een Lichte Educatieve Maatregel Alcohol en verkeer (LEMA) worden opgelegd"
+    ],
+    "id": 3,
+    "question": "Bij een beginnend bestuurder wordt een ademalcoholgehalte van 400 μg/l (0,92‰) geconstateerd. Welke bewering is waar?",
+    "answer": "Er kan een Educatieve Maatregel Alcohol en verkeer (EMA) worden opgelegd",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "APK keuringsrapport",
+      "Europees schadeformulier",
+      "Kentekenbewijs",
+      "Rijbewijs"
+    ],
+    "id": 4,
+    "question": "Welke documenten moet je bij je hebben als je gaat rijden?",
+    "answer": ["Kentekenbewijs", "Rijbewijs"],
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "3 meter",
+      "2,45 meter",
+      "2,55 meter"
+    ],
+    "id": 5,
+    "question": "Wat is de maximale toegestane breedte van een voertuig inclusief ondeelbare lading?",
+    "answer": "3 meter",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Gevaarlijk kruispunt",
+      "Verkeerslichten",
+      "Gevaar"
+    ],
+    "id": 6,
+    "question": "Wat betekent dit bord?",
+    "answer": "Verkeerslichten",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 7,
+    "question": "Kun je ruiters op deze weg verwachten?",
+    "answer": "Ja",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Is een elektrische auto een motorvoertuig?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 9,
+    "question": "Mag je overdag met een defecte kentekenplaatverlichting rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Mistlicht voor",
+      "Groot licht",
+      "Achteruitrijlicht"
+    ],
+    "id": 10,
+    "question": "Welke verlichting hoeft niet op een personenauto aanwezig te zijn?",
+    "answer": "Mistlicht voor",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

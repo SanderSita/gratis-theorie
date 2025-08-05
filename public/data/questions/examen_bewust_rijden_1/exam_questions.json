@@ -1,0 +1,139 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Zo vroeg mogelijk schakelen naar de hoogst mogelijke versnelling en snel naar de gewenste eindsnelheid gaan",
+      "Zo laat mogelijk schakelen en langzaam naar de gewenste eindsnelheid gaan",
+      "Zo laat mogelijk schakelen naar de hoogst mogelijke versnelling en snel naar de gewenste eindsnelheid gaan"
+    ],
+    "id": 1,
+    "question": "Het verkeerslicht gaat op groen. Hoe kun je het beste wegrijden?",
+    "answer": "Zo vroeg mogelijk schakelen naar de hoogst mogelijke versnelling en snel naar de gewenste eindsnelheid gaan",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een te lage bandenspanning verhoogt de kans op slipgevaar",
+      "Een te lage bandenspanning verlaagt de rolweerstand",
+      "Een te lage bandenspanning leidt tot minder brandstofverbruik"
+    ],
+    "id": 2,
+    "question": "Welke bewering is waar?",
+    "answer": "Een te lage bandenspanning verhoogt de kans op slipgevaar",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 3,
+    "question": "Gebruikt je auto in de stad minder brandstof dan op een autoweg?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het systeem zorgt ervoor dat je auto minder brandstof verbruikt",
+      "Het systeem zorgt ervoor dat je beter kunt remmen",
+      "Het systeem zorgt ervoor dat je auto sneller opstart"
+    ],
+    "id": 4,
+    "question": "Waarvoor dient een start-stopsysteem?",
+    "answer": "Het systeem zorgt ervoor dat je auto minder brandstof verbruikt",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Kun je een dieselmotor beter eerst op temperatuur laten komen voordat je wegrijdt?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij lage toerentallen",
+      "Bij hoge toerentallen"
+    ],
+    "id": 6,
+    "question": "Wanneer is het brandstofverbruik hoger?",
+    "answer": "Bij hoge toerentallen",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dat heeft weinig invloed op het brandstofverbruik",
+      "Dat heeft geen invloed op het brandstofverbruik",
+      "Dat heeft veel invloed op het brandstofverbruik"
+    ],
+    "id": 7,
+    "question": "Hoeveel invloed heeft het rijden met een skibox op het brandstofverbruik?",
+    "answer": "Dat heeft veel invloed op het brandstofverbruik",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_8_option_1.jpg",
+      "question_8_option_2.jpg",
+      "question_8_option_3.jpg"
+    ],
+    "id": 8,
+    "question": "Wanneer gebruik je het meeste brandstof?",
+    "answer": 0,
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 9,
+    "question": "Je rijdt met de ramen open. Leidt dat tot een hoger brandstofverbruik?",
+    "answer": "Ja",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_10_option_1.jpg",
+      "question_10_option_2.jpg",
+      "question_10_option_3.jpg",
+      "question_10_option_4.jpg"
+    ],
+    "id": 10,
+    "question": "Je rijdt in een benzineauto. Wanneer kun je het beste schakelen als je brandstof wilt besparen?",
+    "answer": 0,
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

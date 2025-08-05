@@ -1,0 +1,137 @@
+[
+  {
+    "type": "invulvraag",
+    "id": 1,
+    "question": "Hoeveel meter nog tot de spoorwegovergang?",
+    "why": "Elke streep staat voor 80 meter. Je bent dus 240 meter van de spoorwegovergang verwijderd.",
+    "answer": [],
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Markering A",
+      "Markering B",
+      "Markering C"
+    ],
+    "id": 2,
+    "question": "Welke markering is geplaatst op een voertuig met een beperkte snelheid?",
+    "answer": "Markering C",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aan beide kanten van de weg",
+      "Aan de linkerkant",
+      "Aan de rechterkant"
+    ],
+    "id": 3,
+    "question": "Aan welke kant van de weg staan bermpaaltjes met rode reflectoren?",
+    "answer": "Aan de rechterkant",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voertuig A",
+      "Voertuig B"
+    ],
+    "id": 4,
+    "question": "Welk voertuig is hoogstwaarschijnlijk het langst?",
+    "answer": "Voertuig B",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "18,75 meter",
+      "12 meter",
+      "16,5 meter"
+    ],
+    "id": 5,
+    "question": "Hoeveel meter mag een vrachtauto met aanhangwagen maximaal zijn?",
+    "answer": "18,75 meter",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "4 meter",
+      "3,5 meter",
+      "3 meter"
+    ],
+    "id": 6,
+    "question": "Wat is de maximale toegestane hoogte van een motorvoertuig?",
+    "answer": "4 meter",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "2,35 meter",
+      "2,20 meter",
+      "2,15 meter"
+    ],
+    "id": 7,
+    "question": "Wat is de maximale toegestane breedte van een personenauto op een onverharde weg?",
+    "answer": "2,20 meter",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_8_option_1.jpg",
+      "question_8_option_2.jpg",
+      "question_8_option_3.jpg",
+      "question_8_option_4.jpg"
+    ],
+    "id": 8,
+    "question": "Welk voertuig is het laatste voertuig van een militaire colonne?",
+    "answer": 2,
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dit is de achterkant van een vrachtauto",
+      "Dit is de achterkant van een oplegger"
+    ],
+    "id": 9,
+    "question": "Welke bewering is waar?",
+    "answer": "Dit is de achterkant van een oplegger",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "18 meter",
+      "15 meter",
+      "16 meter"
+    ],
+    "id": 10,
+    "question": "Wat is de maximale toegestane lengte van een personenauto met aanhanger?",
+    "answer": "18 meter",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

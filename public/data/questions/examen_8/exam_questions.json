@@ -1,0 +1,692 @@
+[
+  {
+    "type": "invulvraag",
+    "id": 1,
+    "question": "Het is half zeven s'avonds. Hoe snel mag je nu rijden?",
+    "why": "De verkeersborden geven aan dat de maximumsnelheid 100 kilometer per uur is tussen 06:00 en 19:00. Er geldt geen afwijkende maximumsnelheid voor het rijden met dakdragers. Het is wel belangrijk om de fietsen juist te monteren en de aanbevelingen van de fabrikant van de dakdragers op te volgen.",
+    "answer": "100",
+    "image": {
+      "url": "1.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Niet-motorvoertuig",
+      "Motorvoertuig"
+    ],
+    "id": 2,
+    "question": "Wat is een gehandicaptenvoertuig volgens de wet?",
+    "answer": "Niet-motorvoertuig",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Rijbewijs C",
+      "Rijbewijs B+ of rijbewijs BE",
+      "Rijbewijs B"
+    ],
+    "id": 3,
+    "question": "Je auto weegt 2000 kilo. Je wilt een aanhangwagen van 2000 kilo trekken. Welk rijbewijs heb je nodig?",
+    "answer": "Rijbewijs B+ of rijbewijs BE",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen aan de linkerkant",
+      "Alleen aan de rechterkant",
+      "Hier mag je aan allebei de kanten van de berm inrijden"
+    ],
+    "id": 4,
+    "question": "Welke kanten van de berm mag je inrijden?",
+    "answer": "Alleen aan de rechterkant",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_5_option_1.jpg",
+      "question_5_option_2.png",
+      "question_5_option_3.jpg",
+      "question_5_option_4.jpg"
+    ],
+    "id": 5,
+    "question": "Welk symbool heeft te maken met de cruisecontrol?",
+    "answer": 0,
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 6,
+    "question": "Je rijdt voor een langere tijd niet in je auto en hij staat langs de kant van de weg geparkeerd. Is een verzekering verplicht?",
+    "answer": "Ja",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je laat het gas los, benut de uitloopsnelheid en schakelt niet",
+      "Je laat het gas los en remt ruim op tijd",
+      "Je laat het gas los, benut de uitloopsnelheid en schakelt terug naar een lagere versnelling"
+    ],
+    "id": 7,
+    "question": "Je nadert een rood verkeerslicht. Wat kun je het beste doen?",
+    "answer": "Je laat het gas los, benut de uitloopsnelheid en schakelt niet",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 8,
+    "question": "Moet je bij het kruispunt stoppen?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.mp4"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_9_option_1.png",
+      "question_9_option_2.png",
+      "question_9_option_3.png",
+      "question_9_option_4.png"
+    ],
+    "id": 9,
+    "question": "Welk bord geeft het einde van de vluchtstrook aan?",
+    "answer": 0,
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 10,
+    "question": "Dit lampje staat aan. Neemt hierdoor het verbruik toe?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De bromfietser zal de weg niet oprijden",
+      "De bromfietser kijkt eerst goed voordat hij de weg op rijdt",
+      "De bromfietser rijdt zonder te kijken vlak voor je de weg op"
+    ],
+    "id": 11,
+    "question": "Waar houd je rekening mee?",
+    "answer": "De bromfietser rijdt zonder te kijken vlak voor je de weg op",
+    "image": {
+      "url": "11.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 12,
+    "question": "Je wilt rechtsaf slaan. Moet je de fietser voor laten gaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "12.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 13,
+    "question": "Je wilt rechtsaf slaan. Moet je de fietser voor laten gaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "13.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je moet stoppen",
+      "Je moet stoppen indien redelijkerwijs mogelijk",
+      "Als er geen ander verkeer is mag je doorrijden"
+    ],
+    "id": 14,
+    "question": "Het verkeerslicht is rood. Welke bewering is waar?",
+    "answer": "Je moet stoppen",
+    "image": {
+      "url": "14.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 15,
+    "question": "Na hoeveel jaar moet een nieuwe personenauto die op diesel rijdt voor het eerst APK gekeurd worden?",
+    "why": "Personenauto's die op LPG of diesel rijden, of die voor 1 jan 2005 in gebruik zijn genomen en op benzine rijden, moeten voor het eerst na 3 jaar gekeurd worden.",
+    "answer": "3",
+    "image": {
+      "url": "15.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "3 seconden",
+      "2 seconden",
+      "1 seconde"
+    ],
+    "id": 16,
+    "question": "Hoeveel seconden afstand moet je ongeveer van je voorligger houden?",
+    "answer": "2 seconden",
+    "image": {
+      "url": "16.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 17,
+    "question": "Je parkeert hier met een parkeerschijf. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "17.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 18,
+    "question": "Je wilt rechtdoor. Moet je de oranje auto voor laten gaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "18.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 19,
+    "question": "Een kind draagt een driepuntsgordel als heupgordel en is 1,45 meter lang. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "19.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Band B",
+      "Band A",
+      "Band C"
+    ],
+    "id": 20,
+    "question": "Welke band heeft de juiste bandenspanning?",
+    "answer": "Band B",
+    "image": {
+      "url": "20.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Vrachtauto's en autobussen",
+      "Alle motorvoertuigen zwaarder dan 3500 kilogram",
+      "Alleen vrachtauto's"
+    ],
+    "id": 21,
+    "question": "Wie mogen jou niet meer inhalen?",
+    "answer": "Alleen vrachtauto's",
+    "image": {
+      "url": "21.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voor de rotonde",
+      "Alleen bij het verlaten van de rotonde",
+      "Alleen bij het wisselen van rijstrook"
+    ],
+    "id": 22,
+    "question": "Je nadert een rotonde en wilt op de rotonde rechts afslaan. Wanneer geef je richting aan?",
+    "answer": "Voor de rotonde",
+    "image": {
+      "url": "22.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 23,
+    "question": "Wat is de maximumsnelheid voor een vrachtauto op een autoweg?",
+    "why": "Een vrachtauto mag buiten de bebouwde kom niet sneller dan 80 km/uur rijden. Ook op een autoweg of een autosnelweg mag een vrachtauto maximaal 80 km/uur.",
+    "answer": "80",
+    "image": {
+      "url": "23.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Snorfietsen",
+      "Bromfietsen",
+      "Fietsen",
+      "Motorfietsen"
+    ],
+    "id": 24,
+    "question": "Welke voertuigen mag je besturen als je rijbewijs is ontzegd?",
+    "answer": ["Fietsen"],
+    "image": {
+      "url": "24.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 25,
+    "question": "Je wilt hier parkeren. Heb je een parkeerschijf nodig?",
+    "answer": "Ja",
+    "image": {
+      "url": "25.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_26_option_1.png",
+      "question_26_option_2.png",
+      "question_26_option_3.png",
+      "question_26_option_4.png"
+    ],
+    "id": 26,
+    "question": "Op welk bord kun je een afritnummer zien?",
+    "answer": 3,
+    "image": {
+      "url": "26.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 27,
+    "question": "Verhoogt een te lage bandenspanning de kans op een klapband?",
+    "answer": "Ja",
+    "image": {
+      "url": "27.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 28,
+    "question": "Wat is de reactiesnelheid in seconden van een gemiddelde bestuurder?",
+    "why": "De reactietijd van een alerte bestuurder is ongeveer 1 seconde. De reactietijd is de tijd die een bestuurder nodig heeft om een ontwikkeling in het verkeer (bijv. een stopsignaal) te verwerken en daarop te reageren (bijv. remmen).",
+    "answer": "1",
+    "image": {
+      "url": "28.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 29,
+    "question": "Moet je de in- en uitstappende passagiers voor laten gaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "29.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 30,
+    "question": "Mag je zo inhalen?",
+    "answer": "Nee",
+    "image": {
+      "url": "30.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Twee of meer sporen",
+      "Dat kun je niet weten",
+      "Eén spoor"
+    ],
+    "id": 31,
+    "question": "Hoeveel sporen heeft deze overweg?",
+    "answer": "Twee of meer sporen",
+    "image": {
+      "url": "31.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "In de berm van een voorrangsweg buiten de bebouwde kom",
+      "Op de rijbaan naast een fietsstrook",
+      "Bij een gele onderbroken streep"
+    ],
+    "id": 32,
+    "question": "Waar mag je niet stilstaan?",
+    "answer": "Op de rijbaan naast een fietsstrook",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 33,
+    "question": "Je hebt in een dronken toestand een ongeluk veroorzaakt. Kan de verzekeraar ervoor zorgen dat je de schade zelf moet betalen?",
+    "answer": "Ja",
+    "image": {
+      "url": "33.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Auto's",
+      "Brommobielen",
+      "Speed-pedelecs",
+      "Motorfietsen"
+    ],
+    "id": 34,
+    "question": "Welke voertuigen mag je besturen als je je autorijbewijs hebt gehaald?",
+    "answer": [
+      "Auto's",
+      "Brommobielen",
+      "Speed-pedelecs"
+    ],
+    "image": {
+      "url": "34.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 35,
+    "question": "Je wilt hier een passagier afzetten. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "35.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag niet op deze weg parkeren",
+      "Je mag op deze weg parkeren",
+      "Je mag op deze weg parkeren als je het verkeer niet hindert"
+    ],
+    "id": 36,
+    "question": "Je wilt op deze weg parkeren. Mag dat?",
+    "answer": "Je mag op deze weg parkeren als je het verkeer niet hindert",
+    "image": {
+      "url": "36.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 37,
+    "question": "Je wilt zo rijden. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "37.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 38,
+    "question": "De omstandigheden zijn goed. Mag je sneller rijden dan 50 km/uur?",
+    "answer": "Ja",
+    "image": {
+      "url": "38.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij beide borden",
+      "Alleen bij bord A",
+      "Alleen bij bord B"
+    ],
+    "id": 39,
+    "question": "Bij welk bord kun je bestuurders van links verwachten?",
+    "answer": "Alleen bij bord B",
+    "image": {
+      "url": "39.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "50%",
+            "left": "77%"
+        }
+      },
+      {
+        "id": "colonne",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "17%",
+            "left": "20%"
+        }
+      }
+    ],
+    "correct_order": ["colonne", "lesauto"],
+    "id": 40,
+    "question": "Wie mag er als eerste?",
+    "answer": [],
+    "image": {
+      "url": "40.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 41,
+    "question": "Een autoband met minder profieldiepte is minder gevoelig voor aquaplaning. Klopt dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "41.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op de rotonde vaart minderen door voorzichtig te remmen",
+      "Voorzichtig remmen en eerst stoppen voordat je de rotonde oprijdt",
+      "Langzaam rijden, voorzichtig remmen en sturen. Je kunt doorglijden als je moet stoppen"
+    ],
+    "id": 42,
+    "question": "Je nadert een rotonde. Wat moet je doen?",
+    "answer": "Langzaam rijden, voorzichtig remmen en sturen. Je kunt doorglijden als je moet stoppen",
+    "image": {
+      "url": "42.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De sleepkabel in de bocht iets los proberen te houden",
+      "De sleepkabel in de bocht strak proberen te houden",
+      "In de bocht de sleepkabel zo los mogelijk laten hangen"
+    ],
+    "id": 43,
+    "question": "Hoe kun je het beste een bocht nemen als je een andere auto sleept?",
+    "answer": "De sleepkabel in de bocht strak proberen te houden",
+    "image": {
+      "url": "43.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De ruitenwissers aanzetten en de ventilatoren op het voorraam laten blazen",
+      "De ventilatoren op het voorraam laten blazen",
+      "De verwarming aanzetten en de ventilatoren op het voorraam laten blazen"
+    ],
+    "id": 44,
+    "question": "Het is erg mistig. Wat kun je het beste doen om goed door het voorraam te kunnen blijven kijken?",
+    "answer": "De ruitenwissers aanzetten en de ventilatoren op het voorraam laten blazen",
+    "image": {
+      "url": "44.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alle motorvoertuigen",
+      "Motorvoertuigen op meer dan twee wielen en aanhangwagens",
+      "Alle voertuigen op meer dan twee wielen"
+    ],
+    "id": 45,
+    "question": "Wie moeten een gevarendriehoek gebruiken wanneer ze voor naderende bestuurders een obstakel vormen?",
+    "answer": "Motorvoertuigen op meer dan twee wielen en aanhangwagens",
+    "image": {
+      "url": "45.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door nooit boven de maximumsnelheid te rijden",
+      "Door voorzichtig te rijden",
+      "Door langzaam en voorzichtig te rijden"
+    ],
+    "id": 46,
+    "question": "Hoe houd je rekening met andere weggebruikers?",
+    "answer": "Door voorzichtig te rijden",
+    "image": {
+      "url": "46.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag inhalen bij een voetgangersoversteekplaats als er niemand oversteekt",
+      "Je mag nooit een voertuig inhalen bij een voetgangersoversteekplaats",
+      "Je mag langzaam rijdende voertuigen inhalen bij een voetgangersoversteekplaats"
+    ],
+    "id": 47,
+    "question": "Je nadert een voetgangersoversteekplaats. Welke bewering is waar?",
+    "answer": "Je mag nooit een voertuig inhalen bij een voetgangersoversteekplaats",
+    "image": {
+      "url": "47.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ze rijden links naast de file",
+      "Tussen de file door, in de ruimte tussen de meest linkse rijstroken",
+      "Ze rijden rechts naast de file, over de vluchtstrook"
+    ],
+    "id": 48,
+    "question": "Motorrijders mogen een file passeren. Waar rijden motorrijders als er een file is?",
+    "answer": "Tussen de file door, in de ruimte tussen de meest linkse rijstroken",
+    "image": {
+      "url": "48.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De militaire colonne",
+      "De auto"
+    ],
+    "id": 49,
+    "question": "Wie mag er als eerste?",
+    "answer": "De auto",
+    "image": {
+      "url": "49.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag het kruispunt altijd oprijden als het groen is",
+      "Als je niet in één keer helemaal over het kruispunt kunt rijden",
+      "Als een tegenligger linksaf wil slaan"
+    ],
+    "id": 50,
+    "question": "Het verkeerslicht is groen. Wanneer mag je het kruispunt toch niet oprijden?",
+    "answer": "Als je niet in één keer helemaal over het kruispunt kunt rijden",
+    "image": {
+      "url": "50.jpg"
+    }
+  }
+]

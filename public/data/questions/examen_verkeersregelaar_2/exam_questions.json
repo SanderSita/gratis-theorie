@@ -1,0 +1,140 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van voor en achter nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen",
+      "Al het verkeer moet stoppen"
+    ],
+    "id": 1,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Het verkeer dat de verkeersregelaar van voor en achter nadert moet stoppen",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van voor en achter nadert moet stoppen.",
+      "Het verkeer dat de verkeersregelaar van rechts nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen"
+    ],
+    "id": 2,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ik stop omdat het verkeerslicht rood is",
+      "Ik volg de aanwijzing van de verkeersregelaar op"
+    ],
+    "id": 3,
+    "question": "Het verkeerslicht is rood, maar de verkeersregelaar geeft een aanwijzing dat je moet doorrijden. Wat doe je?",
+    "answer": "Ik volg de aanwijzing van de verkeersregelaar op",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 4,
+    "question": "Je komt een verkeersregelaar tegen die deze aanwijzing geeft en je wilt rechtsaf slaan. Mag je doorrijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van links en rechts nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van rechts nadert moet stoppen"
+    ],
+    "id": 5,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Het verkeer dat de verkeersregelaar van rechts nadert moet stoppen",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van links en rechts nadert moet stoppen",
+      "Verminder vaart",
+      "Algemeen stopteken"
+    ],
+    "id": 6,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Algemeen stopteken",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van links en rechts nadert moet stoppen"
+    ],
+    "id": 7,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen.",
+      "Verminder vaart",
+      "Algemeen stopteken"
+    ],
+    "id": 8,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Verminder vaart",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je moet opletten, want er is sprake van een gevaarlijke situatie",
+      "Je moet vaart minderen",
+      "Je bent verplicht te stoppen"
+    ],
+    "id": 9,
+    "question": "Wat moet je doen als je een verkeersbrigadier tegenkomt met dit bord omhoog gehouden?",
+    "answer": "Je bent verplicht te stoppen",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Al het verkeer moet stoppen",
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen"
+    ],
+    "id": 10,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Al het verkeer moet stoppen",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

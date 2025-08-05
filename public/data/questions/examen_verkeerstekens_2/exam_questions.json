@@ -1,0 +1,142 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Mag je dit gedeelte van de weg gebruiken om te ritsen?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij bord A en B",
+      "Alleen bij bord A",
+      "Alleen bij bord B"
+    ],
+    "id": 2,
+    "question": "Bij welk bord mag je links afslaan?",
+    "answer": "Bij bord A en B",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Motorvoertuigen",
+      "Bromfietsers",
+      "Fietsers",
+      "Tractoren"
+    ],
+    "id": 3,
+    "question": "Wie mag gebruik maken van een fietsopstelstrook?",
+    "answer": ["Bromfietsers", "Fietsers"],
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_4_option_1.svg",
+      "question_4_option_2.svg",
+      "question_4_option_3.svg",
+      "question_4_option_4.svg"
+    ],
+    "id": 4,
+    "question": "Welke van deze borden geeft een eenrichtingsweg aan?",
+    "answer": 0,
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Mag je voorsorteren op deze fietsstrook?",
+    "answer": "Ja",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij geen van beide borden",
+      "Alleen bij bord A",
+      "Alleen bij bord B"
+    ],
+    "id": 6,
+    "question": "Bij welk bord mag je een brommobiel inhalen?",
+    "answer": "Bij geen van beide borden",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_7_option_1.svg",
+      "question_7_option_2.svg",
+      "question_7_option_3.svg",
+      "question_7_option_4.svg"
+    ],
+    "id": 7,
+    "question": "Welk bord waarschuwt voor tegenliggers?",
+    "answer": 3,
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als je de route naar Driebergen volgt",
+      "Als je de route naar Schoonhoven volgt",
+      "Als je de route naar Arnhem of Rotterdam volgt"
+    ],
+    "id": 8,
+    "question": "Wanneer rij je onder een viaduct door?",
+    "answer": "Als je de route naar Schoonhoven volgt",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 9,
+    "question": "Je wilt straks op het kruispunt links afslaan. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Personenauto's",
+      "Alle motorvoertuigen",
+      "Alle motorvoertuigen op meer dan twee wielen"
+    ],
+    "id": 10,
+    "question": "Wie mag je nu niet meer inhalen?",
+    "answer": "Alle motorvoertuigen",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

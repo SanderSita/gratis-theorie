@@ -1,0 +1,136 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op een gehandicaptenparkeerplaats",
+      "Naast een blauwe streep",
+      "Op een vluchthaven"
+    ],
+    "id": 1,
+    "question": "Waar mag je stoppen om te bellen?",
+    "answer": "Naast een blauwe streep",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag alleen stilstaan voor een uitrit om goederen te laden of te lossen",
+      "Je mag nooit voor een uitrit stilstaan",
+      "Je mag stilstaan voor een uitrit, mits je daarbij niemand hindert"
+    ],
+    "id": 2,
+    "question": "Je wilt hier stoppen om een passagier uit te laten stappen. Welke bewering is waar?",
+    "answer": "Je mag stilstaan voor een uitrit, mits je daarbij niemand hindert",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 3,
+    "question": "Je wilt hier parkeren. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 4,
+    "question": "Het is de eerste dag van de maand. Je wilt hier een passagier uit laten stappen. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Je parkeert hier. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voor de rechter zijde van de weg",
+      "Voor beide zijden van de weg",
+      "Voor de linker zijde van de weg"
+    ],
+    "id": 6,
+    "question": "Voor welke zijde van de weg geldt dit verkeersbord?",
+    "answer": "Voor beide zijden van de weg",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 7,
+    "question": "Je wilt hier even stoppen voor een kort telefoongesprek. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 8,
+    "question": "Je stopt hier om dozen in jouw auto te laden. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Langs de kant van de weg of op parkeerplaatsen",
+      "Alleen op parkeerplaatsen",
+      "Overal"
+    ],
+    "id": 9,
+    "question": "Je rijdt een erf in. Waar mag je parkeren?",
+    "answer": "Alleen op parkeerplaatsen",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "Je parkeert zo. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

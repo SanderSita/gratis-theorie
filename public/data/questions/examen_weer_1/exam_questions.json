@@ -1,0 +1,142 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "50 km/uur",
+      "70 km/uur",
+      "80 km/uur"
+    ],
+    "id": 1,
+    "question": "Je rijdt op een autoweg. Het zicht wordt ernstig belemmerd door dichte mist. Je kunt niet verder kijken dan 50 meter. Hoe hard mag je rijden?",
+    "answer": "50 km/uur",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De voorruit goed schoon maken met een doek",
+      "Voordat je wegrijdt, de voorruit ontwasemen met de blazer",
+      "Niets, de condens verdwijnt vanzelf tijdens het rijden"
+    ],
+    "id": 2,
+    "question": "De voorruit is beslagen. Wat moet je doen?",
+    "answer": "Voordat je wegrijdt, de voorruit ontwasemen met de blazer",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_3_option_1.svg",
+      "question_3_option_2.svg",
+      "question_3_option_3.svg",
+      "question_3_option_4.svg"
+    ],
+    "id": 3,
+    "question": "Welk verkeersbord waarschuwt voor regen?",
+    "answer": 1,
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen voor autobussen en vrachtauto's",
+      "Voor alle motorvoertuigen",
+      "Alleen voor autobussen, vrachtauto's en voertuigen met aanhanger"
+    ],
+    "id": 4,
+    "question": "Voor wie geldt dit verkeersbord?",
+    "answer": "Voor alle motorvoertuigen",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je vergroot de volgafstand",
+      "Je zet de mistachterlichten aan",
+      "Je houdt rekening met een sterke zijwind en houdt het stuur stevig vast"
+    ],
+    "id": 5,
+    "question": "Je ziet dit verkeersbord staan. Wat doe je?",
+    "answer": "Je vergroot de volgafstand",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Doorrijden omdat je anders weg kunt glijden",
+      "Het is glad. Daarom rij je langzaam en stop je alleen als er geen ander verkeer aankomt",
+      "Stoppen bij het stopbord"
+    ],
+    "id": 6,
+    "question": "Je nadert een kruispunt. Wat moet je doen?",
+    "answer": "Stoppen bij het stopbord",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je haalt de sneeuw van de ramen, de lichten en je ontdooit de spiegels terwijl je rijdt met de motor aan",
+      "Je haalt de sneeuw van het dak, de ramen, de spiegels, de lichten en de nummerborden",
+      "Je laat de motor opwarmen voordat je wegrijdt en haalt ondertussen de sneeuw van de lichten, de ramen en de spiegels"
+    ],
+    "id": 7,
+    "question": "Het sneeuwt. Wat moet je doen voordat je wegrijdt?",
+    "answer": "Je haalt de sneeuw van het dak, de ramen, de spiegels, de lichten en de nummerborden",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Tegemoetkomende bestuurders",
+      "Achteropkomende bestuurders",
+      "Alle bestuurders"
+    ],
+    "id": 8,
+    "question": "Je kunt niet goed in de achteruitkijkspiegel kijken vanwege een laagstaande zon. Wie hebben daar het meeste last van?",
+    "answer": "Tegemoetkomende bestuurders",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Rond 0 graden Celsius of minder",
+      "Rond 2 graden Celsius of minder",
+      "Rond -2 graden Celsius of minder"
+    ],
+    "id": 9,
+    "question": "Vanaf welke temperatuur moet je rekening houden met gladheid?",
+    "answer": "Rond 2 graden Celsius of minder",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bord B",
+      "Bord A"
+    ],
+    "id": 10,
+    "question": "Door de sneeuw kun je alleen de vorm van het verkeersbord zien. Bij welk verkeersbord moet je voorrang verlenen?",
+    "answer": "Bord A",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "type": "invulvraag",
+    "id": 1,
+    "question": "Hoe snel moet een voertuig minimaal kunnen rijden om op een autosnelweg te mogen komen?",
+    "why": "Voertuigen mogen op autosnelwegen rijden als ze minimaal 60 km/uur kunnen en mogen rijden.",
+    "answer": [],
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Goed uitgerust beginnen aan een autorit",
+      "Een goede wegligging",
+      "Een juiste bandenspanning en bandenprofiel"
+    ],
+    "id": 2,
+    "question": "Wat heeft een positieve invloed op de reactietijd?",
+    "answer": "Goed uitgerust beginnen aan een autorit",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Weg C",
+      "Weg B",
+      "Weg A"
+    ],
+    "id": 3,
+    "question": "Welke weg is een 80 km/uur weg?",
+    "answer": "Weg A",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 4,
+    "question": "Wat is de maximumsnelheid voor een vrachtauto op een autosnelweg?",
+    "why": "Een vrachtauto mag maximaal 80 km/u rijden. Het is handig om te weten hoe snel andere voertuigen rijden. Zo weet je beter wat kunt verwachten.",
+    "answer": [],
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het profiel van de banden en de weersomstandigheden",
+      "Het wegdek en de weersomstandigheden",
+      "De weersomstandigheden, het remvermogen en het wegdek"
+    ],
+    "id": 5,
+    "question": "Wat heeft invloed op de remafstand?",
+    "answer": "De weersomstandigheden, het remvermogen en het wegdek",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 6,
+    "question": "Hoeveel km/uur mag je rijden op een voorrangsweg buiten de bebouwde kom?",
+    "why": "Op voorrangswegen buiten de bebouwde kom mag je 80 km/uur rijden, tenzij er een lagere maximumsnelheid wordt aangegeven.",
+    "answer": [],
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De remafstand verdubbelt",
+      "De remafstand verviervoudigt",
+      "De remafstand verdriedubbelt"
+    ],
+    "id": 7,
+    "question": "Je gaat twee keer zo snel rijden. Welke bewering is waar?",
+    "answer": "De remafstand verviervoudigt",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "100 kilometer per uur",
+      "80 kilometer per uur",
+      "130 kilometer per uur"
+    ],
+    "id": 8,
+    "question": "Hoe snel mag je hier rijden?",
+    "answer": "100 kilometer per uur",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 9,
+    "question": "Hoe snel moet een voertuig minimaal kunnen rijden om op een autoweg te mogen komen?",
+    "why": "Voertuigen mogen op autowegen rijden als ze minimaal 50 km/uur kunnen en mogen rijden.",
+    "answer": [],
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_10_option_1.png",
+      "question_10_option_2.svg",
+      "question_10_option_3.png",
+      "question_10_option_4.svg"
+    ],
+    "id": 10,
+    "question": "Welk bord geeft het einde van de maximumsnelheid aan?",
+    "answer": 1,
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Je nadert een kruispunt waar dit bord staat. Je wilt op het kruispunt rechts afslaan. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Kinderen",
+      "Voetpad",
+      "Voetgangersoversteekplaats"
+    ],
+    "id": 2,
+    "question": "Wat betekent dit bord?",
+    "answer": "Kinderen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bromfietspad",
+      "Oversteekplaats voor bromfietsers",
+      "Bromfietsers moeten het bord passeren aan de kant die de pijl aangeeft"
+    ],
+    "id": 3,
+    "question": "Wat betekent dit bord?",
+    "answer": "Bromfietsers moeten het bord passeren aan de kant die de pijl aangeeft",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Zijwind",
+      "Slecht zicht door sneeuw, regen of mist",
+      "Gladheid"
+    ],
+    "id": 4,
+    "question": "Wat betekent dit bord?",
+    "answer": "Slecht zicht door sneeuw, regen of mist",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je hebt bij de wegversmalling voorrang op tegemoetkomende bestuurders",
+      "Laat bij de wegversmalling tegemoetkomend verkeer voor",
+      "Inrijden toegestaan"
+    ],
+    "id": 5,
+    "question": "Wat betekent dit bord?",
+    "answer": "Je hebt bij de wegversmalling voorrang op tegemoetkomende bestuurders",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Parkeergelegenheid alleen bestemd voor auto's",
+      "Parkeergelegenheid alleen bestemd voor motorvoertuigen",
+      "Parkeergelegenheid alleen bestemd voor taxi's"
+    ],
+    "id": 6,
+    "question": "Wat betekent dit bord?",
+    "answer": "Parkeergelegenheid alleen bestemd voor auto's",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Gebod tot het volgen van één van de rijrichtingen die op het bord zijn aangegeven",
+      "Bord mag aan beide zijden worden voorbijgegaan",
+      "Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft"
+    ],
+    "id": 7,
+    "question": "Wat betekent dit bord?",
+    "answer": "Gebod voor alle bestuurders het bord voorbij te gaan aan de zijde die de pijl aangeeft",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Parkeergelegenheid voor vrachtwagens",
+      "Parkeergelegenheid ten behoeve van overstappers op het openbaar vervoer",
+      "Gehandicapten-parkeerplaats"
+    ],
+    "id": 8,
+    "question": "Wat betekent dit bord?",
+    "answer": "Parkeergelegenheid ten behoeve van overstappers op het openbaar vervoer",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Gevaar",
+      "Slecht wegdek",
+      "Gevaarlijk kruispunt"
+    ],
+    "id": 9,
+    "question": "Wat betekent dit bord?",
+    "answer": "Gevaar",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Parkeergelegenheid ten behoeve van overstappers op het openbaar vervoer",
+      "Parkeergelegenheid voor vergunninghouders",
+      "Parkeergelegenheid ten behoeve van carpoolers"
+    ],
+    "id": 10,
+    "question": "Wat betekent dit bord?",
+    "answer": "Parkeergelegenheid ten behoeve van carpoolers",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

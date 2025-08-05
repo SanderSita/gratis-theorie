@@ -1,0 +1,125 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Vanaf de achterkant steekt de lading meer dan 1 meter uit en vanaf de achterste as steekt de lading 3,5 meter uit. De aanhangwagen is 6 meter lang. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 2,
+    "question": "De lading steekt 80 centimeter aan de voorkant van je auto uit. Moet de lading worden gemarkeerd met een markeringsbord?",
+    "answer": "Nee",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 3,
+    "question": "Hoe ver mag deelbare lading aan de achterkant in centimeters uitsteken?",
+    "why": "Deelbare lading mag niet meer dan 100 centimeter aan de achterkant uitsteken. Dat geldt voor zowel een auto als een aanhangwagen.",
+    "answer": [],
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 4,
+    "question": "Hoe ver mag ondeelbare lading maximaal aan weerszijden van de auto uitsteken? Geef het antwoord in centimeters.",
+    "why": "Het juiste antwoord is 20 cm. Lading hoeft niet gemarkeerd te worden op een personenauto.",
+    "answer": [],
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "De auto is met inbegrip van de lading 2,30 meter breed. Mag de auto op een onverharde weg rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 6,
+    "question": "Hoeveel meter mag deelbare lading aan de voorkant van een auto uitsteken?",
+    "why": "Deelbare lading mag nooit aan de voorkant uitsteken.",
+    "answer": [],
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Remlichten, richtingaanwijzers en mistachterlicht",
+      "Achterlichten, remlichten en richtingaanwijzers",
+      "Markeringslichten, mistachterlicht en richtingaanwijzers"
+    ],
+    "id": 7,
+    "question": "Van welke verlichting moet de fietsendrager zijn voorzien indien de verlichting aan de achterzijde van de auto is geblokkeerd?",
+    "answer": "Achterlichten, remlichten en richtingaanwijzers",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "De fietsen steken rechts 25 centimeter en links 5 centimeter uit. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 9,
+    "question": "De auto is met inbegrip van de lading 2,20 meter breed. Mag de auto op een onverharde weg rijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dat staat in het instructieboekje",
+      "Dat staat op de dakdragers",
+      "Dat staat op het kentekenbewijs"
+    ],
+    "id": 10,
+    "question": "Je wilt lading op het dak van je auto vervoeren. Hoeveel mag de lading maximaal wegen?",
+    "answer": "Dat staat in het instructieboekje",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

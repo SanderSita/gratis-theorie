@@ -1,0 +1,142 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij 1500 - 2500 toeren",
+      "Bij 2500 - 3500 toeren",
+      "Bij 2000 - 3000 toeren"
+    ],
+    "id": 1,
+    "question": "Bij welke toerentallen kun je het beste schakelen naar een hogere versnelling bij dieselmotoren ?",
+    "answer": "Bij 1500 - 2500 toeren",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 2,
+    "question": "Je snelheidsmeter heeft geen verlichting waardoor je de snelheid in het donker moeilijk zou kunnen zien. Mag je op de openbare weg rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Met een koude motor",
+      "Het maakt niet uit",
+      "Met een warme motor"
+    ],
+    "id": 3,
+    "question": "Hoe kun je het beste het oliepeil controleren?",
+    "answer": "Met een koude motor",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_4_option_1.jpg",
+      "question_4_option_2.png",
+      "question_4_option_3.png",
+      "question_4_option_4.jpg"
+    ],
+    "id": 4,
+    "question": "Welk symbool heeft te maken met de motor?",
+    "answer": 0,
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 5,
+    "question": "Je snelheidsmeter functioneert niet. Mag je op de openbare weg rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De auto verbruikt bij alle snelheden meer brandstof",
+      "De auto verbruikt alleen bij lage snelheden meer brandstof",
+      "De auto verbruikt alleen bij hoge snelheden meer brandstof"
+    ],
+    "id": 6,
+    "question": "Dit dashboard lampje brandt. Welke bewering is waar?",
+    "answer": "De auto verbruikt bij alle snelheden meer brandstof",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Groot licht",
+      "Mistlicht voor",
+      "Dimlicht"
+    ],
+    "id": 7,
+    "question": "Wat betekent dit controlelampje?",
+    "answer": "Dimlicht",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Stuurbekrachtiging zorgt ervoor dat de wielen niet blokkeren als je hard remt",
+      "Stuurbekrachtiging zorgt ervoor dat de auto op een constante snelheid rijdt",
+      "Stuurbekrachtiging zorgt ervoor dat je met minder krachtinspanning kunt sturen"
+    ],
+    "id": 8,
+    "question": "Waarvoor dient stuurbekrachtiging?",
+    "answer": "Stuurbekrachtiging zorgt ervoor dat je met minder krachtinspanning kunt sturen",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_9_option_1.jpg",
+      "question_9_option_2.jpg",
+      "question_9_option_3.jpg",
+      "question_9_option_4.png"
+    ],
+    "id": 9,
+    "question": "Welk symbool heeft te maken met de waarschuwingslichten?",
+    "answer": 0,
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je laat het probleem binnenkort oplossen bij de garage",
+      "Je zoekt een veilige plek om onmiddellijk te stoppen",
+      "Je rijdt door naar een garage"
+    ],
+    "id": 10,
+    "question": "Wat kun je het beste doen als dit lampje gaat branden?",
+    "answer": "Je zoekt een veilige plek om onmiddellijk te stoppen",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

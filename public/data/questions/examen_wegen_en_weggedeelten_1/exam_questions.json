@@ -1,0 +1,137 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Je wilt bij de kruising rechts afslaan. Kun je op deze weg tegenliggers verwachten?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Buiten de bebouwde kom",
+      "Binnen de bebouwde kom"
+    ],
+    "id": 2,
+    "question": "Waar ben je?",
+    "answer": "Buiten de bebouwde kom",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Je wilt achteruit rijden om in een parkeervak te parkeren. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Richting naar links",
+      "Richting naar rechts",
+      "Ik geef geen richting aan"
+    ],
+    "id": 4,
+    "question": "Je wilt op de rotonde rechtdoor. Welke richting geef je aan?",
+    "answer": "Ik geef geen richting aan",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Om het aantal snij- en weefconflicten te verminderen",
+      "Om te voorkomen dat bestuurders tegen de richting in rijden",
+      "Zodat bestuurders niet te hard rijden op de rotonde"
+    ],
+    "id": 5,
+    "question": "Waarom zijn de rijstroken van een turborotonde van elkaar gescheiden met een verhoging?",
+    "answer": "Om het aantal snij- en weefconflicten te verminderen",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Kun je een brommobiel op deze weg verwachten?",
+    "answer": "Ja",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een erftoegangsweg",
+      "Een stroomweg",
+      "Een gebiedsontsluitingsweg"
+    ],
+    "id": 7,
+    "question": "Hoe noem je deze weg?",
+    "answer": "Een gebiedsontsluitingsweg",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Je wilt bij de kruising rechts afslaan. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Vervuilde wegen",
+      "Veel eenrichtingswegen",
+      "Veel drempels"
+    ],
+    "id": 9,
+    "question": "Je rijdt een 30 km zone in. Wat kun je hier verwachten?",
+    "answer": "Veel drempels",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De centrifugale kracht neemt toe",
+      "De centrifugale kracht blijft gelijk",
+      "De centrifugale kracht neemt af"
+    ],
+    "id": 10,
+    "question": "Wat gebeurt er als je in een bocht sneller gaat rijden?",
+    "answer": "De centrifugale kracht neemt toe",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

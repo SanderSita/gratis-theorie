@@ -1,0 +1,140 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Tot aan de volgende zijweg",
+      "Tot aan het einde van de zone",
+      "Tot aan de volgende parkeerplaats"
+    ],
+    "id": 1,
+    "question": "Tot waar geldt dit bord?",
+    "answer": "Tot aan de volgende zijweg",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij onderbord B",
+      "Bij beide onderborden",
+      "Bij onderbord A"
+    ],
+    "id": 2,
+    "question": "Bij welk onderbord is het in combinatie gebruikte verkeersbord direct van toepassing?",
+    "answer": "Bij onderbord A",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Mag een brommobilist deze weg inrijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als de trein is gepasseerd",
+      "Als de slagbomen omhoog zijn gegaan",
+      "Als de alarmlichten zijn uitgegaan"
+    ],
+    "id": 4,
+    "question": "Wanneer mag je oversteken?",
+    "answer": "Als de alarmlichten zijn uitgegaan",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De tunnel begint over 1 km",
+      "De tunnel is 1 km lang",
+      "Je kunt deze tunnel niet inrijden en je moet een andere route nemen"
+    ],
+    "id": 5,
+    "question": "Welke bewering is waar?",
+    "answer": "De tunnel is 1 km lang",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je verwacht hier geen bestuurders van rechts",
+      "Fietsers, snorfietsers en bromfietsers",
+      "Fietsers en snorfietsers"
+    ],
+    "id": 6,
+    "question": "Welke bestuurders kun je van rechts verwachten?",
+    "answer": "Fietsers, snorfietsers en bromfietsers",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Deze rijstrook gaat straks dicht of eindigt",
+      "Einde van hiervoor aangegeven verboden of maximumsnelheid",
+      "De rijstrook is gesloten"
+    ],
+    "id": 7,
+    "question": "Wat betekent het rode kruis op het matrixbord?",
+    "answer": "De rijstrook is gesloten",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Waarschuwt het bord voor langzaam rijdend verkeer?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Ja, zolang je geen fietsers en snorfietsers hindert",
+      "Nee"
+    ],
+    "id": 9,
+    "question": "Mag je je opstellen op de opgeblazen fietsopstelstrook?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag alleen weg A inrijden",
+      "Je mag beide wegen niet inrijden",
+      "Je mag alleen weg B inrijden"
+    ],
+    "id": 10,
+    "question": "Welke weg mag je inrijden?",
+    "answer": "Je mag alleen weg A inrijden",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

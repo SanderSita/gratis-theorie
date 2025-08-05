@@ -1,0 +1,137 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "De tram mag eerst",
+      "Jij mag eerst"
+    ],
+    "id": 1,
+    "question": "Jij wilt rechtdoor en de tram slaat af. Wie mag er eerst?",
+    "answer": "De tram mag eerst",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen in situatie A",
+      "Alleen in situatie B",
+      "In situatie A en B"
+    ],
+    "id": 2,
+    "question": "In welke situatie heb je geen voorrang?",
+    "answer": "In situatie A en B",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Jij",
+      "De voetgangers"
+    ],
+    "id": 3,
+    "question": "De voetgangers willen hier oversteken. Wie mag eerst?",
+    "answer": "Jij",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 4,
+    "question": "Moet je de zwarte auto voor laten gaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op een kruising in een erf moet je alle voetgangers voor laten gaan",
+      "Op een kruising in een erf geef je voorrang aan bestuurders van rechts",
+      "Op een kruising in een erf moet je wachten voor alle van rechts komende weggebruikers"
+    ],
+    "id": 5,
+    "question": "Welke bewering is waar?",
+    "answer": "Op een kruising in een erf geef je voorrang aan bestuurders van rechts",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 6,
+    "question": "Moet je de in- en uitstappende passagiers voor laten gaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen blinden voorzien van een blindenstok",
+      "Alleen voetgangers die zich moeilijk kunnen voortbewegen",
+      "Blinden voorzien van een blindenstok en andere voetgangers die zich moeilijk kunnen voortbewegen"
+    ],
+    "id": 7,
+    "question": "Wie moet je voor laten gaan?",
+    "answer": "Blinden voorzien van een blindenstok en andere voetgangers die zich moeilijk kunnen voortbewegen",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Moet je de man met de rollator voor laten gaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer aan de wegkant van een obstakel laat het tegemoetkomende verkeer voor",
+      "Het verkeer van aan de wegkant die niet is geblokkeerd laat het tegemoetkomende verkeer voor",
+      "Het verkeer dat als laatste komt laat het tegemoetkomende verkeer voor"
+    ],
+    "id": 9,
+    "question": "Welke bewering is waar?",
+    "answer": "Het verkeer aan de wegkant van een obstakel laat het tegemoetkomende verkeer voor",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen in situatie B",
+      "Alleen in situatie A",
+      "In situatie A en B"
+    ],
+    "id": 10,
+    "question": "In welke situatie moet je al het overige verkeer voor laten gaan?",
+    "answer": "Alleen in situatie B",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

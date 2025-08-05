@@ -1,0 +1,136 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "De ruitensproeiers werken niet. Mag je toch gaan rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Slipgevaar, de buitentemperatuur is onder het vriespunt",
+      "De banden moeten worden vervangen",
+      "De bandenspanning is te laag"
+    ],
+    "id": 2,
+    "question": "Dit dashboard lampje brandt. Wat betekent dat?",
+    "answer": "De bandenspanning is te laag",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je gaat binnenkort naar de garage",
+      "Zo snel mogelijk stoppen op een veilige plaats",
+      "Je gaat direct naar de garage"
+    ],
+    "id": 3,
+    "question": "Wat doe je als dit controlelampje gaat branden?",
+    "answer": "Zo snel mogelijk stoppen op een veilige plaats",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_4_option_1.png",
+      "question_4_option_2.jpg",
+      "question_4_option_3.jpg",
+      "question_4_option_4.png"
+    ],
+    "id": 4,
+    "question": "Bij welk symbool moet je direct stoppen als het gaat branden?",
+    "answer": 3,
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 5,
+    "question": "Zorgt ABS voor een kortere remweg?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Je handrem functioneert niet. Mag je toch rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een toerenteller",
+      "Een snelheidsmeter",
+      "Een hodometer"
+    ],
+    "id": 7,
+    "question": "Wat gebruik je om te bepalen wanneer je moet schakelen?",
+    "answer": "Een toerenteller",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je zoekt een veilige plek om onmiddellijk te stoppen",
+      "Je kunt gewoon doorrijden, want er is niks aan de hand",
+      "Je rijdt voorzichtig door, maar neemt wel zo snel mogelijk contact op met een garage"
+    ],
+    "id": 8,
+    "question": "Wat kun je het beste doen als dit lampje gaat branden?",
+    "answer": "Je rijdt voorzichtig door, maar neemt wel zo snel mogelijk contact op met een garage",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het oprolmechanisme van één van de gordels is defect",
+      "Iemand heeft zijn gordel niet om",
+      "Er is iets mis met het gordelsysteem"
+    ],
+    "id": 9,
+    "question": "Dit controlelampje brandt. Wat betekent dat?",
+    "answer": "Iemand heeft zijn gordel niet om",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 10,
+    "question": "Na hoeveel jaar moet een nieuwe personenauto met een elektromotor voor het eerst APK gekeurd worden?",
+    "why": "Personenauto's met een elektromotor die na 1 jan 2005 in gebruik zijn genomen moeten voor het eerst na 4 jaar gekeurd worden.",
+    "answer": [],
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

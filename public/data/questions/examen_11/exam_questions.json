@@ -1,0 +1,739 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Snelheid",
+      "Bandenspanning",
+      "Spoorvorming"
+    ],
+    "id": 1,
+    "question": "Wat is de belangrijkste veroorzaker voor het ontstaan van aquaplaning?",
+    "answer": "Snelheid",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Motorfietsers",
+      "Bromfietsers",
+      "Snorfietsers",
+      "Fietsers"
+    ],
+    "id": 2,
+    "question": "Welke tegemoetkomende bestuurders kun je hier verwachten?",
+    "answer": [
+      "Snorfietsers",
+      "Fietsers"
+    ],
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De auto zoveel mogelijk rechts zetten en contact opnemen met de pechhulpdienst",
+      "In de auto blijven wachten op de pechhulpdienst",
+      "Achter de vangrails wachten en 112 bellen"
+    ],
+    "id": 3,
+    "question": "Je komt door pech stil te staan op de spitsstrook. Wat moet je doen?",
+    "answer": "Achter de vangrails wachten en 112 bellen",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 4,
+    "question": "Je parkeert hier. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "25 procent",
+      "5 procent",
+      "15 procent"
+    ],
+    "id": 5,
+    "question": "Hoeveel procent van de verkeersongevallen is het gevolg van vermoeidheid?",
+    "answer": "15 procent",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het slachtoffer in de stabiele zijligging plaatsen",
+      "Het slachtoffer in dezelfde houding laten liggen",
+      "Het slachtoffer van de weg afhalen"
+    ],
+    "id": 6,
+    "question": "Een slachtoffer van een verkeersongeval geeft aan last van zijn rug te hebben. Het slachtoffer ligt op de weg maar er is geen direct gevaar. Wat doe je?",
+    "answer": "Het slachtoffer in dezelfde houding laten liggen",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag hier niet stilstaan in de tweede helft van de maand",
+      "Je mag hier niet stilstaan in de eerste helft van de maand",
+      "Je mag hier niet parkeren of stilstaan"
+    ],
+    "id": 7,
+    "question": "Dit verkeersbord heeft een onderbord. Welke bewering is waar?",
+    "answer": "Je mag hier niet stilstaan in de tweede helft van de maand",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen de markering van afbeelding B",
+      "De markering van afbeelding A en B",
+      "Alleen de markering van afbeelding A"
+    ],
+    "id": 8,
+    "question": "Welke markering geeft aan dat je voorrang moet verlenen?",
+    "answer": "Alleen de markering van afbeelding A",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 9,
+    "question": "Mag je rijden met een barst in je voorruit?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 10,
+    "question": "Je voertuig is in het water geraakt. Je zet meteen het contact uit. Is dat verstandig?",
+    "answer": "Nee",
+    "image": {
+      "url": "10.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een speed-pedelec moet op het fietspad rijden",
+      "Een speed-pedelec moet op de rijbaan rijden als er geen brom/fietspad aanwezig is",
+      "Bestuurders van een speed-pedelec hoeven geen helm te dragen"
+    ],
+    "id": 11,
+    "question": "Welke bewering is waar?",
+    "answer": "Een speed-pedelec moet op de rijbaan rijden als er geen brom/fietspad aanwezig is",
+    "image": {
+      "url": "11.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 12,
+    "question": "Je bent per ongeluk deze weg ingereden. Mag je hier achteruit rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "12.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Buiten de bebouwde kom",
+      "Binnen de bebouwde kom"
+    ],
+    "id": 13,
+    "question": "Waar ben je als dit bord na het kruispunt staat?",
+    "answer": "Buiten de bebouwde kom",
+    "image": {
+      "url": "13.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 14,
+    "question": "Moet je bij het invoegen op de autosnelweg gebruik maken van de gehele invoegstrook?",
+    "answer": "Nee",
+    "image": {
+      "url": "14.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_15_option_1.svg",
+      "question_15_option_2.svg",
+      "question_15_option_3.svg",
+      "question_15_option_4.svg"
+    ],
+    "id": 15,
+    "question": "Bij welk bord mag je niet stilstaan om een passagier uit te laten stappen?",
+    "answer": 0,
+    "image": {
+      "url": "15.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 16,
+    "question": "De auto is met inbegrip van de lading 2,45 meter breed. Mag de auto op een verharde weg rijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "16.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door een bestuurder met een groen stoplicht",
+      "Door een bestuurder met voorrang op een voorrangskruispunt",
+      "Een voetganger op een voetgangersoversteekplaats"
+    ],
+    "id": 17,
+    "question": "Wanneer mag een militaire colonne worden doorsneden?",
+    "answer": "Door een bestuurder met voorrang op een voorrangskruispunt",
+    "image": {
+      "url": "17.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "17%",
+            "left": "28%"
+        }
+      },
+      {
+        "id": "auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "15%",
+            "left": "78%"
+        }
+      }
+    ],
+    "correct_order": ["lesauto", "auto"],
+    "id": 18,
+    "question": "Wie mag er als eerste?",
+    "answer": [],
+    "image": {
+      "url": "18.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Auto's",
+      "Brommobielen",
+      "Tractoren",
+      "Speed-pedelecs"
+    ],
+    "id": 19,
+    "question": "Welke voertuigen zijn motorvoertuigen?",
+    "answer": [
+      "Auto's",
+      "Tractoren"
+    ],
+    "image": {
+      "url": "19.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je parkeert de auto zoveel mogelijk aan de rechterkant in de tunnel en zet de motor uit",
+      "Je probeert eerst de tunnel uit te rijden en zoekt daarna een plaats om te stoppen",
+      "Je zet het groot licht aan en alle inzittenden moeten de auto verlaten"
+    ],
+    "id": 20,
+    "question": "Je rijdt in een tunnel en je krijgt pech. Wat moet je doen?",
+    "answer": "Je probeert eerst de tunnel uit te rijden en zoekt daarna een plaats om te stoppen",
+    "image": {
+      "url": "20.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Tijdens de hele inhaalmanoeuvre",
+      "Alleen als je van richting verandert",
+      "Alleen op het moment dat je naar links gaat"
+    ],
+    "id": 21,
+    "question": "Je wilt de zwarte auto inhalen. Wanneer moet je richting aangeven?",
+    "answer": "Alleen als je van richting verandert",
+    "image": {
+      "url": "21.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Tegemoetkomend en achteropkomend verkeer",
+      "Tegemoetkomend verkeer",
+      "Achteropkomend verkeer"
+    ],
+    "id": 22,
+    "question": "Je wilt wegrijden uit een parkeervak aan de linkerkant van de weg. Met welk verkeer moet je nu rekening houden?",
+    "answer": "Tegemoetkomend en achteropkomend verkeer",
+    "image": {
+      "url": "22.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 23,
+    "question": "Moet je stoppen voor de militaire colonne?",
+    "answer": "Ja",
+    "image": {
+      "url": "23.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Fietsers en snorfietsers",
+      "Fietsers, snorfietsers, bromfietsers en brommobielen",
+      "Fietsers, snorfietsers en bromfietsers"
+    ],
+    "id": 24,
+    "question": "Wie mogen jou rechts inhalen?",
+    "answer": "Fietsers en snorfietsers",
+    "image": {
+      "url": "24.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen bestuurders",
+      "Alle weggebruikers",
+      "Alleen rechtdoorgaande bestuurders"
+    ],
+    "id": 25,
+    "question": "Je wilt wegrijden uit een parkeervak. Wie moet je nu voor laten gaan?",
+    "answer": "Alle weggebruikers",
+    "image": {
+      "url": "25.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "ABS zorgt ervoor dat de wielen niet blokkeren als je hard remt",
+      "ABS zorgt ervoor dat de auto op een constante snelheid rijdt",
+      "ABS zorgt ervoor dat je met minder krachtinspanning kunt sturen"
+    ],
+    "id": 26,
+    "question": "Waarvoor dient een ABS systeem?",
+    "answer": "ABS zorgt ervoor dat de wielen niet blokkeren als je hard remt",
+    "image": {
+      "url": "26.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij geen van beide borden",
+      "Alleen bij bord B",
+      "Bij beide borden"
+    ],
+    "id": 27,
+    "question": "Bij welk bord mag je een brommobiel inhalen?",
+    "answer": "Bij geen van beide borden",
+    "image": {
+      "url": "27.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Landbouwverkeer heeft vaak slecht functionerende verlichting",
+      "Landbouwverkeer rijdt vaak harder dan toegestaan",
+      "Landbouwverkeer gedraagt zich vaak onvoorspelbaar"
+    ],
+    "id": 28,
+    "question": "Waar moet je rekening mee houden als je landbouwverkeer tegenkomt?",
+    "answer": "Landbouwverkeer heeft vaak slecht functionerende verlichting",
+    "image": {
+      "url": "28.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen voertuigen van de hulpdiensten die optische en geluidssignalen voeren",
+      "Elk voertuig dat optische en geluidssignalen voert",
+      "Alleen voertuigen van de hulpdiensten"
+    ],
+    "id": 29,
+    "question": "Welke voertuigen zijn voorrangsvoertuigen?",
+    "answer": "Elk voertuig dat optische en geluidssignalen voert",
+    "image": {
+      "url": "29.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 30,
+    "question": "Je wilt de rotonde verlaten. Moet je de fietsers voor laten gaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "30.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je verblindt jezelf en tegemoetkomend verkeer",
+      "Je verblindt tegemoetkomend verkeer",
+      "Je verblindt jezelf"
+    ],
+    "id": 31,
+    "question": "Wat gebeurt er als je groot licht aanzet als het erg hard sneeuwt?",
+    "answer": "Je verblindt jezelf en tegemoetkomend verkeer",
+    "image": {
+      "url": "31.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 32,
+    "question": "Je wilt hier stoppen om een bestelling te bezorgen. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "32.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Er is een storing in de motor",
+      "Er is een storing in het remsysteem",
+      "Iemand heeft geen veiligheidsgordel om"
+    ],
+    "id": 33,
+    "question": "Dit controlelampje brandt. Welke bewering is waar?",
+    "answer": "Er is een storing in het remsysteem",
+    "image": {
+      "url": "33.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 34,
+    "question": "Je wilt bij dit verkeerslicht links afslaan. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "34.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 35,
+    "question": "Je haalt zo in. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "35.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als je tijdens de manoeuvre ziet dat je te weinig afstand hebt om in te halen",
+      "Als je tijdens de manoeuvre een tegenligger ziet verschijnen",
+      "Als het in te halen voertuig vaart mindert"
+    ],
+    "id": 36,
+    "question": "Je bent een andere bestuurder aan het inhalen. In welke situatie breek je de manoeuvre af?",
+    "answer": "Als je tijdens de manoeuvre ziet dat je te weinig afstand hebt om in te halen",
+    "image": {
+      "url": "36.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 37,
+    "question": "De aanhangwagen heeft een toegestane maximummassa van 500 kilogram. Is ofwel een losbreekreminrichting of hulpkoppeling verplicht?",
+    "answer": "Ja",
+    "image": {
+      "url": "37.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je blijft op dezelfde rijstrook rijden",
+      "Je gaat sneller rijden",
+      "Je schuift een rijstrook op naar rechts"
+    ],
+    "id": 38,
+    "question": "Achter je nadert een politieauto met zwaailicht en sirenes. Wat moet je doen?",
+    "answer": "Je schuift een rijstrook op naar rechts",
+    "image": {
+      "url": "38.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De afstand die het voertuig aflegt voordat het tot stilstand komt",
+      "De afstand die het voertuig aflegt tot de bestuurder reageert op een stopsignaal",
+      "De som van de reactieafstand en de remafstand"
+    ],
+    "id": 39,
+    "question": "Wat is de stopafstand?",
+    "answer": "De som van de reactieafstand en de remafstand",
+    "image": {
+      "url": "39.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "600 meter",
+      "300 meter",
+      "150 meter"
+    ],
+    "id": 40,
+    "question": "Je rijdt op een autoweg buiten de bebouwde kom. Je wilt afslaan. Hoeveel meter van tevoren geef je richting aan?",
+    "answer": "300 meter",
+    "image": {
+      "url": "40.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "2 meter",
+      "1,5 meter",
+      "1 meter"
+    ],
+    "id": 41,
+    "question": "Je wilt de fietser inhalen. Welke afstand tussen jou en de fietsers houd je aan tijdens het inhalen?",
+    "answer": "1,5 meter",
+    "image": {
+      "url": "41.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 42,
+    "question": "Je staat stil voor een rood verkeerslicht. Is het dragen van een gordel nu ook verplicht?",
+    "answer": "Ja",
+    "image": {
+      "url": "42.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "bus",
+        "label": "Rode bestelwagen",
+        "image": null,
+        "style": {
+            "top": "20%",
+            "left": "60%"
+        }
+      },
+      {
+        "id": "motor",
+        "label": "Motor",
+        "image": null,
+        "style": {
+            "top": "40%",
+            "left": "20%"
+        }
+      },
+      {
+        "id": "auto",
+        "label": "Lesauto",
+        "image": null,
+        "style": {
+            "top": "70%",
+            "left": "55%"
+        }
+      }
+  ],
+  "correct_order": ["motor", "bus", "auto"],
+    "id": 43,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "43.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Veel drempels",
+      "Vervuilde wegen",
+      "Veel eenrichtingswegen"
+    ],
+    "id": 44,
+    "question": "Je rijdt een 30 km zone in. Wat kun je hier verwachten?",
+    "answer": "Veel drempels",
+    "image": {
+      "url": "44.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Landbouwvoertuigen",
+      "Fietsers",
+      "Brommobielen",
+      "Gehandicaptenvoertuigen"
+    ],
+    "id": 45,
+    "question": "Welke voertuigen mogen deze weg niet inrijden?",
+    "answer": [
+      "Landbouwvoertuigen",
+      "Brommobielen"
+    ],
+    "image": {
+      "url": "45.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 46,
+    "question": "Moet je stoppen voor een rood verkeerslicht als je tussen een militaire colonne rijdt?",
+    "answer": "Ja",
+    "image": {
+      "url": "46.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De fietser",
+      "Jij"
+    ],
+    "id": 47,
+    "question": "Wie mag er als laatste?",
+    "answer": "Jij",
+    "image": {
+      "url": "47.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De bestuurder achter de politiewagen",
+      "De bestuurder voor de politiewagen",
+      "Alle bestuurders achter de politiewagen"
+    ],
+    "id": 48,
+    "question": "Achter je rijdt een politiewagen. Je ziet de tekst: \"STOP POLITIE\". Wie moet er stoppen?",
+    "answer": "De bestuurder voor de politiewagen",
+    "image": {
+      "url": "48.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 49,
+    "question": "Je wilt hier parkeren. Heb je een parkeerschijf nodig?",
+    "answer": "Ja",
+    "image": {
+      "url": "49.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De lichten aanzetten",
+      "Gordel losmaken",
+      "Het zijraam openen"
+    ],
+    "id": 50,
+    "question": "Wat doe je als eerste als je voertuig te water is geraakt?",
+    "answer": "De lichten aanzetten",
+    "image": {
+      "url": "50.jpg"
+    }
+  }
+]

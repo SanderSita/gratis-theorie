@@ -1,0 +1,140 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het slachtoffer in dezelfde houding laten liggen",
+      "Het slachtoffer op de buik leggen",
+      "Het slachtoffer in de stabiele zijligging plaatsen"
+    ],
+    "id": 1,
+    "question": "Een slachtoffer van een verkeersongeval heeft ademhalingsproblemen. Wat doe je?",
+    "answer": "Het slachtoffer in de stabiele zijligging plaatsen",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De voorruit in het midden",
+      "De zijruit in het midden",
+      "De zijruit in een hoek"
+    ],
+    "id": 2,
+    "question": "Je auto is te water geraakt. Welke ruit kun je het beste inslaan?",
+    "answer": "De zijruit in een hoek",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je hebt rijbewijs D nodig",
+      "Rijbewijs B is genoeg",
+      "Je hebt rijbewijs B + E nodig"
+    ],
+    "id": 3,
+    "question": "Welk rijbewijs heb je nodig om een andere auto te mogen slepen?",
+    "answer": "Rijbewijs B is genoeg",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij kruispunten met veel verkeer",
+      "Bij kruispunten met weinig overzicht",
+      "Bij kruispunten buiten de bebouwde kom"
+    ],
+    "id": 4,
+    "question": "Waar worden verkeersspiegels geplaatst?",
+    "answer": "Bij kruispunten met weinig overzicht",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Zo vaak mogelijk",
+      "Ongeveer 30 keer per minuut",
+      "Ongeveer 12 keer per minuut"
+    ],
+    "id": 5,
+    "question": "Mond-op-mond beademing is nodig wanneer iemand niet meer ademt. Hoe vaak moet er in de longen van het slachtoffer worden geblazen?",
+    "answer": "Ongeveer 12 keer per minuut",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "In het dashboardkastje",
+      "Links van de bestuurder",
+      "Rechts van de bestuurder"
+    ],
+    "id": 6,
+    "question": "Waar kun je een veiligheidshamer het beste bewaren?",
+    "answer": "Rechts van de bestuurder",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Langs de kant parkeren met de alarmlichten aan en de tunnel verlaten via de nooduitgang",
+      "De alarmlichten aanzetten, keren en vervolgens langzaam de tunnel uitrijden",
+      "De brandende auto langzaam en zo ver mogelijk links passeren met de alarmlichten aan"
+    ],
+    "id": 7,
+    "question": "Wat moet je in deze situatie doen?",
+    "answer": "Langs de kant parkeren met de alarmlichten aan en de tunnel verlaten via de nooduitgang",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Je hebt pech. Mag je hier stilstaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 9,
+    "question": "Is het verplicht om een veiligheidshamer in je auto te hebben?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Jonge en oude bestuurders zijn even vaak betrokken bij een ongeval",
+      "Jonge bestuurders",
+      "Oude bestuurders"
+    ],
+    "id": 10,
+    "question": "Welke groep is vaker betrokken bij een verkeersongeval?",
+    "answer": "Jonge bestuurders",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

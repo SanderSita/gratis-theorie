@@ -1,0 +1,138 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 1,
+    "question": "Mag je claxonneren als iemand zich misdraagt in het verkeer?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als je lange tijd achter elkaar in dezelfde snelheid hebt gereden",
+      "Als je moe bent",
+      "Als je in een gevaarlijke bocht rijdt"
+    ],
+    "id": 2,
+    "question": "In welke situatie kun je de controle over je voertuig verliezen?",
+    "answer": "Als je moe bent",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De stopafstand is korter dan normaal",
+      "De stopafstand is langer dan normaal",
+      "De stopafstand is hetzelfde"
+    ],
+    "id": 3,
+    "question": "Je hebt alcohol gedronken. Welke bewering is waar?",
+    "answer": "De stopafstand is langer dan normaal",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bepaalde medicijnen en verdovende middelen",
+      "Verdovende middelen",
+      "Drank met veel cafeïne"
+    ],
+    "id": 4,
+    "question": "Welke middelen hebben een vergelijkbare invloed als alcohol op de rijvaardigheid?",
+    "answer": "Bepaalde medicijnen en verdovende middelen",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dit is toegestaan",
+      "Dit is een misdrijf",
+      "Dit is een overtreding"
+    ],
+    "id": 5,
+    "question": "Bij een alcoholcontrole bij een beginnend bestuurder wordt 0,4 promille gemeten. Welke bewering is waar?",
+    "answer": "Dit is een misdrijf",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als je muziek wilt aanzetten en het geen gevaar oplevert",
+      "Als je stilstaat in de file",
+      "Als je de navigatie wilt instellen"
+    ],
+    "id": 6,
+    "question": "Wanneer mag je je mobieltje vasthouden en bedienen?",
+    "answer": "Als je stilstaat in de file",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 7,
+    "question": "Vermindert je rijvaardigheid al na het drinken van 1 glas bier?",
+    "answer": "Ja",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Je mag tijdens het rijden je mobieltje niet gebruiken. Is het wel toegestaan een mobieltje vast te houden dat is uitgeschakeld?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "5 uur",
+      "24 uur",
+      "10 uur"
+    ],
+    "id": 9,
+    "question": "Je hebt 8 glazen alcohol gedronken. Hoe lang duurt het ongeveer voordat het alcohol is afgebroken?",
+    "answer": "10 uur",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "Staat er een BSN op je rijbewijs?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

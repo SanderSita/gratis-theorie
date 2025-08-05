@@ -1,0 +1,136 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Wanneer de dierenambulance optische signalen voert",
+      "Altijd",
+      "Nooit"
+    ],
+    "id": 1,
+    "question": "Wanneer is een dierenambulance een voorrangsvoertuig?",
+    "answer": "Nooit",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 2,
+    "question": "Moet je stoppen?",
+    "answer": "Ja",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Je rijdt hier. Heeft de fietser voorrang?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 4,
+    "question": "Je wilt rechtdoor. Moet je de vrouw met de fiets voor laten gaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_5_option_1.svg",
+      "question_5_option_2.svg",
+      "question_5_option_3.svg",
+      "question_5_option_4.svg"
+    ],
+    "id": 5,
+    "question": "Welk verkeersbord geeft een gelijkwaardig kruispunt aan?",
+    "answer": 3,
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het voertuig van de uitvaartstoet",
+      "Het voertuig dat op de rotonde rijdt"
+    ],
+    "id": 6,
+    "question": "Een voertuig van een uitvaartstoet wil de rotonde oprijden. Wie heeft voorrang?",
+    "answer": "Het voertuig dat op de rotonde rijdt",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De bestuurder die het eerste bij de rijbaanversmalling is aangekomen",
+      "De bestuurder van een niet-motorvoertuig",
+      "De bestuurder van een motorvoertuig"
+    ],
+    "id": 7,
+    "question": "Wie heeft voorrang bij een rijbaanversmalling?",
+    "answer": "De bestuurder die het eerste bij de rijbaanversmalling is aangekomen",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Je wilt hier rechtdoor en de stoplichten werken niet. Moet je nu voorrang verlenen aan bestuurders van rechts?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 9,
+    "question": "Moet je de bestuurder van het gehandicaptenvoertuig voor laten gaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "Je wilt links afslaan en de bromfiets wil rechts afslaan. Moet je de bromfiets voor laten gaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

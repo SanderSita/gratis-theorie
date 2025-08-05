@@ -1,0 +1,140 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "1 uur",
+      "6 uur",
+      "12 uur"
+    ],
+    "id": 1,
+    "question": "Je verlaat de plaats van een verkeersongeval waar je bij betrokken bent. Binnen hoeveel uur moet je je identiteit bekend maken om te voorkomen dat je een misdrijf bent begaan?",
+    "answer": "12 uur",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bestuurders van motorvoertuigen, bromfietsen, snorfietsen en fietsen",
+      "Bestuurders van motorvoertuigen",
+      "Bestuurders van motorvoertuigen, bromfietsen en snorfietsen"
+    ],
+    "id": 2,
+    "question": "Wie mogen tijdens het rijden geen mobieltje vasthouden?",
+    "answer": "Bestuurders van motorvoertuigen, bromfietsen, snorfietsen en fietsen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen de bestuurder",
+      "Alleen de eigenaar",
+      "De bestuurder en de eigenaar"
+    ],
+    "id": 3,
+    "question": "Wie is verantwoordelijk om ervoor te zorgen dat het voertuig op tijd gekeurd wordt voor de APK?",
+    "answer": "Alleen de eigenaar",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een WA verzekering",
+      "Een verzekering is niet verplicht",
+      "Een allrisk verzekering"
+    ],
+    "id": 4,
+    "question": "Welke verzekering is verplicht als je gaat autorijden op de openbare weg?",
+    "answer": "Een WA verzekering",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "0,2 promille of 88 microgram per liter uitgeademde lucht",
+      "88 microgram per liter uitgeademde lucht",
+      "0,2 promille"
+    ],
+    "id": 5,
+    "question": "Je bent 22 jaar oud. Wat is de maximale toegestane hoeveelheid alcohol?",
+    "answer": "0,2 promille of 88 microgram per liter uitgeademde lucht",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 6,
+    "question": "Je hebt een rijverbod opgelegd gekregen wegens het drinken van te veel alcohol. Mag je nog wel fietsen?",
+    "answer": "Nee",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De gegevens van de eigenaar en informatie over de APK",
+      "Informatie over de APK en de voertuiggegevens",
+      "De voertuiggegevens en de gegevens van de eigenaar"
+    ],
+    "id": 7,
+    "question": "Wat staat er op een kentekencard?",
+    "answer": "De voertuiggegevens en de gegevens van de eigenaar",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een overtreding",
+      "Een misdrijf"
+    ],
+    "id": 8,
+    "question": "Je rijdt door rood. Is dat een misdrijf of een overtreding?",
+    "answer": "Een overtreding",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je hebt geen rijbewijs nodig",
+      "Rijbewijs AM",
+      "Rijbewijs B"
+    ],
+    "id": 9,
+    "question": "Welk rijbewijs heb je nodig om een segway te mogen besturen?",
+    "answer": "Je hebt geen rijbewijs nodig",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Er kan geen educatieve maatregel worden opgelegd",
+      "Er kan een Educatieve Maatregel Gedrag en verkeer (EMG) worden opgelegd",
+      "Er kan een Educatieve Maatregel Alcohol en verkeer (EMA) worden opgelegd"
+    ],
+    "id": 10,
+    "question": "De politie houdt je staande nadat je door rood bent gereden. Welke bewering is waar?",
+    "answer": "Er kan geen educatieve maatregel worden opgelegd",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

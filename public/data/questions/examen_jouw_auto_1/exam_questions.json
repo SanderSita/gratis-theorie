@@ -1,0 +1,139 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 1,
+    "question": "Mag een kind met een lengte van 1,15 meter in een goedgekeurd kinderzitje voorin zitten ?",
+    "answer": "Ja",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 2,
+    "question": "Verhoogt een te lage bandenspanning de kans op een klapband?",
+    "answer": "Ja",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 3,
+    "question": "Een kind draagt een driepuntsgordel als heupgordel en is 1,45 meter lang. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De blauwe kleur",
+      "De rode kleur",
+      "De groene kleur"
+    ],
+    "id": 4,
+    "question": "Welke kleur geeft de dode hoek aan?",
+    "answer": "De blauwe kleur",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het vlak met de groene kleur",
+      "Het vlak met de blauwe kleur",
+      "Het vlak met de rode kleur"
+    ],
+    "id": 5,
+    "question": "Welk gedeelte kun je zien via de buitenspiegel?",
+    "answer": "Het vlak met de groene kleur",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je vult de rest van de tank met benzine en rijdt verder",
+      "Contact opnemen met de pechhulpddienst",
+      "Je tankt nog een beetje benzine en rijdt direct door naar een garage om de tank leeg te pompen"
+    ],
+    "id": 6,
+    "question": "Je hebt per ongeluk een beetje diesel in je benzineauto getankt. Wat doe je?",
+    "answer": "Contact opnemen met de pechhulpddienst",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De bestuurder en de passagier zijn beide verantwoordelijk",
+      "De bestuurder is verantwoordelijk",
+      "Iedereen is zelf verantwoordelijk voor het dragen van een gordel"
+    ],
+    "id": 7,
+    "question": "Een volwassen passagier in jouw auto draagt geen gordel. Wie is verantwoordelijk voor het niet dragen van de gordel?",
+    "answer": "Iedereen is zelf verantwoordelijk voor het dragen van een gordel",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "4 passagiers",
+      "2 passagiers",
+      "3 passagiers"
+    ],
+    "id": 8,
+    "question": "Hoeveel passagiers mag je op deze achterbank meenemen?",
+    "answer": "2 passagiers",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Er is iets mis met de accu",
+      "Niets, het is slechts je verbeelding",
+      "Het lampje is defect"
+    ],
+    "id": 9,
+    "question": "Je merkt dat je knipperlicht te snel knippert. Wat is waarschijnlijk de oorzaak?",
+    "answer": "Het lampje is defect",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Altijd, behalve bij het stilstaan voor een rood stoplicht of een file",
+      "Altijd",
+      "Altijd, behalve bij het verrichten van een bijzonder manoeuvre"
+    ],
+    "id": 10,
+    "question": "Wanneer moet je een gordel dragen?",
+    "answer": "Altijd",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

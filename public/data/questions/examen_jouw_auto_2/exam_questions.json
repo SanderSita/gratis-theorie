@@ -1,0 +1,136 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "De tank is vol",
+      "Het vulpistool is defect",
+      "Je tankt de verkeerde brandstof"
+    ],
+    "id": 1,
+    "question": "Tijdens het tanken slaat het vulpistool af. Wat betekent dat?",
+    "answer": "De tank is vol",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dit is veilig",
+      "Dit is onveilig",
+      "Het maakt niet uit als het kinderzitje goedgekeurd is"
+    ],
+    "id": 2,
+    "question": "Je wilt een kind in een achterstevoren geplaatst kinderzitje vervoeren. Je zorgt ervoor dat de airbag aan staat. Welke bewering is waar?",
+    "answer": "Dit is onveilig",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 3,
+    "question": "Je wilt een kind zo vervoeren. Is het verstandig om de airbag uit te zetten?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 4,
+    "question": "Mag je rijden met een barst in je voorruit?",
+    "answer": "Nee",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Je wilt een kind met een lengte van 1,30 meter vervoeren in een driepuntsgordel. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Mag een zwangere vrouw een driepuntsgordel dragen?",
+    "answer": "Ja",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aan de rechterkant",
+      "Aan de linkerkant"
+    ],
+    "id": 7,
+    "question": "Aan welke kant van de auto zit de tankdop?",
+    "answer": "Aan de rechterkant",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "1,15 meter",
+      "1,35 meter",
+      "1,25 meter"
+    ],
+    "id": 8,
+    "question": "Vanaf welke lengte hoeft een kind niet meer in een kinderzitje?",
+    "answer": "1,35 meter",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Kleine volwassenen kunnen een heupgordel dragen",
+      "Kleine volwassenen kunnen de gordel onder hun rechter arm dragen",
+      "Kleine volwassenen kunnen een gordelgeleider gebruiken"
+    ],
+    "id": 9,
+    "question": "Bij kleine volwassenen zit de driepuntsgordel op de nek in plaats van op de borst. Welke bewering is waar?",
+    "answer": "Kleine volwassenen kunnen een gordelgeleider gebruiken",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 10,
+    "question": "Kun je de dode hoek kwijtraken door je autospiegels correct af te stellen?",
+    "answer": "Nee",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

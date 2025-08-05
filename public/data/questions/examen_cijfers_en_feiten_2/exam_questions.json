@@ -1,0 +1,130 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dit is de achterkant van een vrachtauto",
+      "Dit is de achterkant van een oplegger"
+    ],
+    "id": 1,
+    "question": "Welke bewering is waar?",
+    "answer": "Dit is de achterkant van een vrachtauto",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 2,
+    "question": "Hoeveel meter afstand zit er tussen hectometerpaaltjes?",
+    "why": "Er zit 100 meter afstand tussen hectometerpaaltjes.",
+    "answer": [],
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Is dit een bewaakte spoorwegovergang?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Binnen de bebouwde kom",
+      "Buiten de bebouwde kom"
+    ],
+    "id": 4,
+    "question": "Waar ben je als dit bord na het kruispunt staat?",
+    "answer": "Buiten de bebouwde kom",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een beginnend bestuurder mag geen alcohol drinken",
+      "0,5 promille",
+      "0,2 promille"
+    ],
+    "id": 5,
+    "question": "Wat is de maximale toegestane alcoholpromillage voor een beginnend bestuurder?",
+    "answer": "0,2 promille",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 6,
+    "question": "Hoeveel meter nog tot de spoorwegovergang?",
+    "why": "Tussen het bord en de spoorwegovergang zit 80 meter. Elke rode streep staat voor 80 meter.",
+    "answer": [],
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "0,8 promille",
+      "0,5 promille",
+      "0,2 promille"
+    ],
+    "id": 7,
+    "question": "Wat is de maximale toegestane alcoholpromillage voor een ervaren bestuurder?",
+    "answer": "0,5 promille",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "25 meter",
+      "18 meter",
+      "12 meter"
+    ],
+    "id": 8,
+    "question": "Hoe lang mag een vrachtauto maximaal zijn?",
+    "answer": "12 meter",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 9,
+    "question": "Nader je een bewaakte spoorwegovergang?",
+    "answer": "Ja",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aan de rechterkant",
+      "Aan beide kanten van de weg",
+      "Aan de linkerkant"
+    ],
+    "id": 10,
+    "question": "Aan welke kant van de weg staan bermpaaltjes met rode reflectoren?",
+    "answer": "Aan de rechterkant",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

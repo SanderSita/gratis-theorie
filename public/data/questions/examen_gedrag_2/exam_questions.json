@@ -1,0 +1,142 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voorrang verlenen aan andere weggebruikers als het niet nodig is",
+      "Niet harder rijden dan de maximumsnelheid",
+      "Langzaam rijden als het hard regent"
+    ],
+    "id": 1,
+    "question": "Wat is niet goed voor de doorstroming van het verkeer?",
+    "answer": "Voorrang verlenen aan andere weggebruikers als het niet nodig is",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je bereidt je alvast voor door vlakbij de asstreep te gaan rijden",
+      "Je wacht net zo lang tot er een veilig moment is om in te halen",
+      "Je gebruikt lichtsignalen om aan te geven dat je wilt inhalen"
+    ],
+    "id": 2,
+    "question": "Je wilt inhalen, want je voorligger rijdt erg langzaam. Wat doe je?",
+    "answer": "Je wacht net zo lang tot er een veilig moment is om in te halen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je rijdt het kruispunt op en verwacht dat de vrachtauto indien nodig ruimte voor je maakt",
+      "Voorrang nemen omdat je voorrang hebt",
+      "Je stopt ruim voor het kruispunt en laat de vrachtauto voor gaan"
+    ],
+    "id": 3,
+    "question": "De vrachtauto wil rechtsaf slaan. Wat kun je het beste doen?",
+    "answer": "Je stopt ruim voor het kruispunt en laat de vrachtauto voor gaan",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je kunt het beste verkeerssituaties proberen te voorspellen",
+      "Je kunt het beste voorrang nemen wanneer je voorrang hebt",
+      "Je kunt het beste erg sociaal rijden en vaak andere weggebruikers voor laten gaan"
+    ],
+    "id": 4,
+    "question": "Wat kun je het beste doen?",
+    "answer": "Je kunt het beste verkeerssituaties proberen te voorspellen",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Die houdt rekening met de fouten van anderen",
+      "Die neemt altijd voorrang als die voorrang heeft",
+      "Die rijdt langzaam en voorzichtig"
+    ],
+    "id": 5,
+    "question": "Wat doet een goede bestuurder in het verkeer?",
+    "answer": "Die houdt rekening met de fouten van anderen",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ver vooruit kijken en langzaam en voorzichtig rijden",
+      "Jouw belangen voorop stellen",
+      "Rekening houden met de fouten van andere weggebruikers"
+    ],
+    "id": 6,
+    "question": "Wat is defensief rijden?",
+    "answer": "Rekening houden met de fouten van andere weggebruikers",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Landbouwverkeer gedraagt zich vaak onvoorspelbaar",
+      "Landbouwverkeer rijdt vaak harder dan toegestaan",
+      "Landbouwverkeer heeft vaak slecht functionerende verlichting"
+    ],
+    "id": 7,
+    "question": "Waar moet je rekening mee houden als je landbouwverkeer tegenkomt?",
+    "answer": "Landbouwverkeer heeft vaak slecht functionerende verlichting",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je wacht tot de voorligger de volgafstand groter maakt",
+      "Je gebruikt licht- of geluidssignalen om kenbaar te maken dat de volgafstand te kort is",
+      "Je vergroot de afstand tussen jou en de voorligger"
+    ],
+    "id": 8,
+    "question": "Een bestuurder heeft je net ingehaald en rijdt vlak voor je de rijstrook op. Hoe reageer je?",
+    "answer": "Je vergroot de afstand tussen jou en de voorligger",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Afremmen zodat de zwarte auto genoeg ruimte heeft om in te voegen",
+      "Het gas loslaten en ruimte maken",
+      "Je doet niets"
+    ],
+    "id": 9,
+    "question": "De zwarte auto geeft richting aan. Wat kun je het beste doen?",
+    "answer": "Het gas loslaten en ruimte maken",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door langzaam en voorzichtig te rijden",
+      "Door nooit boven de maximumsnelheid te rijden",
+      "Door voorzichtig te rijden"
+    ],
+    "id": 10,
+    "question": "Hoe houd je rekening met andere weggebruikers?",
+    "answer": "Door voorzichtig te rijden",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

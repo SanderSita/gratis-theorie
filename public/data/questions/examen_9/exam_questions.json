@@ -1,0 +1,764 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Je wilt bij de kruising rechts afslaan. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_2_option_1.svg",
+      "question_2_option_2.svg",
+      "question_2_option_3.svg",
+      "question_2_option_4.svg"
+    ],
+    "id": 2,
+    "question": "Welk verkeersbord staat bij een ongelijkwaardig kruispunt?",
+    "answer": 0,
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Personenauto's en brommobielen",
+      "Vrachtauto's en landbouwvoertuigen",
+      "Bussen en motorfietsen"
+    ],
+    "id": 3,
+    "question": "Welke voertuigen mogen op deze weg rijden?",
+    "answer": "Bussen en motorfietsen",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 4,
+    "question": "Mogen autobussen op een autosnelweg op de meest links gelegen rijstrook rijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Mag je bij een bushalte stoppen om een passagier uit te laten stappen?",
+    "answer": "Ja",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Ben je minder goed in staat om snel te reageren als je vaak ver vooruit kijkt?",
+    "answer": "Nee",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "60%",
+            "left": "17%"
+        }
+      },
+      {
+        "id": "voetganger",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "60%",
+            "left": "35%"
+        }
+      },
+      {
+        "id": "rode-bus",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "16%",
+            "left": "90%"
+        }
+      },
+      {
+        "id": "blauwe-auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "83%",
+            "left": "85%"
+        }
+      }
+    ],
+    "correct_order": ["rode-bus", "blauwe-auto", "lesauto", "voetganger"],
+    "id": 7,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 8,
+    "question": "Mag je met een rijbewijs voor een schakelauto ook een automaat besturen?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 9,
+    "question": "Je parkeert hier. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 10,
+    "question": "Kun je hier motorfietsen met een zijspan verwachten?",
+    "answer": "Nee",
+    "image": {
+      "url": "10.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 11,
+    "question": "Je wilt hier parkeren. Heb je een parkeerschijf nodig?",
+    "answer": "Ja",
+    "image": {
+      "url": "11.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je verblindt jezelf en tegemoetkomend verkeer",
+      "Je verblindt jezelf",
+      "Je verblindt tegemoetkomend verkeer"
+    ],
+    "id": 12,
+    "question": "Wat gebeurt er als je groot licht aanzet als het erg hard sneeuwt?",
+    "answer": "Je verblindt jezelf en tegemoetkomend verkeer",
+    "image": {
+      "url": "12.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door tijdens het uitrollen terug te schakelen wanneer je een rood stoplicht nadert",
+      "Door je voertuig uit te laten rollen bij het naderen van een rood stoplicht",
+      "Door een beetje gas te geven bij het naderen van een groen stoplicht"
+    ],
+    "id": 13,
+    "question": "Hoe kun je brandstof besparen?",
+    "answer": "Door je voertuig uit te laten rollen bij het naderen van een rood stoplicht",
+    "image": {
+      "url": "13.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "30 km/uur",
+      "50 km/uur",
+      "15 km/uur"
+    ],
+    "id": 14,
+    "question": "Hoe snel mag je hier rijden?",
+    "answer": "15 km/uur",
+    "image": {
+      "url": "14.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 15,
+    "question": "Als je auto te water is geraakt kun je beter wachten tot de auto is volgelopen voordat je de auto verlaat. Klopt dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "15.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Twee bestuurders",
+      "Eén bestuurder",
+      "Drie of meer bestuurders als het druk is op de uitvoegende rijstrook"
+    ],
+    "id": 16,
+    "question": "Je rijdt op de doorgaande rijstrook. Hoeveel invoegende bestuurders laat je voor gaan?",
+    "answer": "Eén bestuurder",
+    "image": {
+      "url": "16.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op plaats A en B",
+      "Alleen op plaats A",
+      "Op geen van beide plaatsen"
+    ],
+    "id": 17,
+    "question": "Bij welke plekken is het direct uitladen van spullen toegelaten?",
+    "answer": "Op plaats A en B",
+    "image": {
+      "url": "17.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 18,
+    "question": "Je wilt de tractor inhalen. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "18.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dat kan niet",
+      "Door veel koffie of thee te drinken",
+      "Door veel te drinken, het maakt niet uit wat je drinkt"
+    ],
+    "id": 19,
+    "question": "Hoe kun je ervoor zorgen dat alcohol sneller door het lichaam wordt afgebroken?",
+    "answer": "Dat kan niet",
+    "image": {
+      "url": "19.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Fietsers",
+      "Motorfietsen",
+      "Motorvoertuigen",
+      "Brommobielen"
+    ],
+    "id": 20,
+    "question": "Wie kun je verwachten hier over te steken?",
+    "answer": ["Fietsers"],
+    "image": {
+      "url": "20.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "fietser",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "12%",
+            "left": "30%"
+        }
+      },
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "40%",
+            "left": "89%"
+        }
+      },
+      {
+        "id": "motor",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "70%",
+            "left": "45%"
+        }
+      }
+    ],
+    "correct_order": ["fietser", "motor", "lesauto"],
+    "id": 21,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "21.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 22,
+    "question": "Een bus wil binnen de bebouwde kom bij de halte wegrijden. Moet je de bus voor laten gaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "22.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het slachtoffer in de stabiele zijligging plaatsen",
+      "Het slachtoffer op de buik leggen",
+      "Het slachtoffer in dezelfde houding laten liggen"
+    ],
+    "id": 23,
+    "question": "Een slachtoffer van een verkeersongeval heeft ademhalingsproblemen. Wat doe je?",
+    "answer": "Het slachtoffer in de stabiele zijligging plaatsen",
+    "image": {
+      "url": "23.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je kunt niet van tevoren weten hoe een uitvoegstrook eruit gaat zien",
+      "Uitvoegstroken hebben altijd dezelfde lengte maar de bochten kunnen anders zijn",
+      "Je weet van tevoren hoe snel het verkeer op de uitvoegstrook rijdt"
+    ],
+    "id": 24,
+    "question": "Welke bewering is waar?",
+    "answer": "Je kunt niet van tevoren weten hoe een uitvoegstrook eruit gaat zien",
+    "image": {
+      "url": "24.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een speed-pedelec moet op de rijbaan rijden als er geen brom/fietspad aanwezig is",
+      "Een speed-pedelec moet op het fietspad rijden",
+      "Bestuurders van een speed-pedelec hoeven geen helm te dragen"
+    ],
+    "id": 25,
+    "question": "Welke bewering is waar?",
+    "answer": "Een speed-pedelec moet op de rijbaan rijden als er geen brom/fietspad aanwezig is",
+    "image": {
+      "url": "25.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 26,
+    "question": "Je komt een stopbord tegen, er is geen ander verkeer. Moet je nu toch stoppen?",
+    "answer": "Ja",
+    "image": {
+      "url": "26.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Eén spoor",
+      "Twee of meer sporen",
+      "Twee sporen"
+    ],
+    "id": 27,
+    "question": "Hoeveel sporen heeft deze overweg?",
+    "answer": "Eén spoor",
+    "image": {
+      "url": "27.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 28,
+    "question": "Gaat de auto voor je nu waarschijnlijk remmen?",
+    "answer": "Nee",
+    "image": {
+      "url": "28.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 29,
+    "question": "Je hebt uitstekende lading maar geen markeringsbord. Mag je in plaats daarvan een vlag gebruiken?",
+    "answer": "Nee",
+    "image": {
+      "url": "29.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Fietsers, snorfietsers en bromfietsers",
+      "Motorvoertuigen, bromfietsen, snorfietsers en fietsers",
+      "Fietsers en snorfietsers"
+    ],
+    "id": 30,
+    "question": "Wie mag gebruik maken van een fietsopstelstrook?",
+    "answer": "Fietsers en snorfietsers",
+    "image": {
+      "url": "30.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 31,
+    "question": "Mag je de bromfietser inhalen?",
+    "answer": "Ja",
+    "image": {
+      "url": "31.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_32_option_1.svg",
+      "question_32_option_2.svg",
+      "question_32_option_3.svg",
+      "question_32_option_4.svg"
+    ],
+    "id": 32,
+    "question": "Op welke weg kun je een segway tegenkomen?",
+    "answer": 3,
+    "image": {
+      "url": "32.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als de bovenzijde van de hoofdsteun op gelijke hoogte is afgesteld met het midden van het hoofd",
+      "Als de bovenzijde van de hoofdsteun boven de bovenkant van het hoofd is afgesteld",
+      "Als de bovenzijde van de hoofdsteun op gelijke hoogte is afgesteld met de bovenkant van het hoofd"
+    ],
+    "id": 33,
+    "question": "Hoe is een hoofdsteun correct afgesteld?",
+    "answer": "Als de bovenzijde van de hoofdsteun op gelijke hoogte is afgesteld met de bovenkant van het hoofd",
+    "image": {
+      "url": "33.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_34_option_1.svg",
+      "question_34_option_2.png",
+      "question_34_option_3.svg",
+      "question_34_option_4.svg"
+    ],
+    "id": 34,
+    "question": "Welk bord geeft aan dat je niet rechtdoor mag?",
+    "answer": 2,
+    "image": {
+      "url": "34.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 35,
+    "question": "Je rijdt hier 's middags met 100 km/u en je auto en aanhangwagen zijn samen 6,7 meter lang. Mag je zo inhalen?",
+    "answer": "Nee",
+    "image": {
+      "url": "35.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je kunt een voetgangersoversteekplaats verwachten",
+      "Je verwacht geen voetgangers op de weg want die mogen niet op deze weg komen",
+      "Er kunnen voetgangers oversteken of op de weg lopen"
+    ],
+    "id": 36,
+    "question": "Wat kun je verwachten als je dit verkeersbord tegenkomt?",
+    "answer": "Er kunnen voetgangers oversteken of op de weg lopen",
+    "image": {
+      "url": "36.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "24 uur",
+      "6 uur",
+      "12 uur"
+    ],
+    "id": 37,
+    "question": "De politie geeft je een rijverbod. Hoe lang kan het rijverbod maximaal duren?",
+    "answer": "24 uur",
+    "image": {
+      "url": "37.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aan het einde van de invoegstrook wachten tot je veilig kunt invoegen",
+      "Vanaf hier je richtingaanwijzer aanzetten om ruimte te vragen aan de bestuurders op de doorgaande rijbaan",
+      "Op de snelheid van het verkeer op de doorgaande rijbaan rijden en invoegen als het kan"
+    ],
+    "id": 38,
+    "question": "Het is druk op de snelweg. Je kunt daarom moeilijk invoegen. Wat moet je doen?",
+    "answer": "Op de snelheid van het verkeer op de doorgaande rijbaan rijden en invoegen als het kan",
+    "image": {
+      "url": "38.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "60 km/uur wegen",
+      "80 km/uur wegen",
+      "100 tot 130 km/uur wegen"
+    ],
+    "id": 39,
+    "question": "Op welke wegen gebeuren de meeste dodelijke ongevallen?",
+    "answer": "80 km/uur wegen",
+    "image": {
+      "url": "39.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een navigatiesysteem kan de rijtaak verzwaren",
+      "Het kan je aandacht van het verkeer afleiden",
+      "Het rijden met een navigatiesysteem kost meer brandstof"
+    ],
+    "id": 40,
+    "question": "Waar moet je rekening mee houden als je rijdt met een navigatiesysteem?",
+    "answer": "Het kan je aandacht van het verkeer afleiden",
+    "image": {
+      "url": "40.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "fietser",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "10%",
+            "left": "60%"
+        }
+      },
+      {
+        "id": "auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "60%",
+            "left": "80%"
+        }
+      },
+      {
+        "id": "tram",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "60%",
+            "left": "20%"
+        }
+      }
+    ],
+    "correct_order": ["tram", "fietser", "auto"],
+    "id": 41,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "41.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 42,
+    "question": "Je auto en aanhangwagen zijn samen 8 meter lang. Je wilt naar Lelystad rijden. Mag je hier rijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "42.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 43,
+    "question": "Mag je met een verlopen APK nog deelnemen aan het verkeer?",
+    "answer": "Nee",
+    "image": {
+      "url": "43.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 44,
+    "question": "Moet je hier een rijstrook naar rechts opschuiven?",
+    "answer": "Nee",
+    "image": {
+      "url": "44.mp4"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 45,
+    "question": "Wat is de reactiesnelheid in seconden van een gemiddelde bestuurder?",
+    "why": "De reactietijd van een alerte bestuurder is ongeveer 1 seconde. De reactietijd is de tijd die een bestuurder nodig heeft om een ontwikkeling in het verkeer (bijv. een stopsignaal) te verwerken en daarop te reageren (bijv. remmen).",
+    "answer": "1",
+    "image": {
+      "url": "45.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een blauwe kentekenplaat",
+      "Een gele kentekenplaat",
+      "Een witte kentekenplaat"
+    ],
+    "id": 46,
+    "question": "Welk kentekenplaat zit op een brommobiel?",
+    "answer": "Een gele kentekenplaat",
+    "image": {
+      "url": "46.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Mistlicht voor",
+      "Groot licht",
+      "Dimlicht"
+    ],
+    "id": 47,
+    "question": "Wat betekent dit controlelampje?",
+    "answer": "Groot licht",
+    "image": {
+      "url": "47.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 48,
+    "question": "Vanaf de achterkant steekt de lading 1,5 meter uit en vanaf de achterste as steekt de lading 2,5 meter uit. De aanhangwagen is 6 meter lang. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "48.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 49,
+    "question": "Mag je bij een bushalte stoppen om goederen te lossen?",
+    "answer": "Nee",
+    "image": {
+      "url": "49.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 50,
+    "question": "Er steekt lading 1,5 meter aan de achterkant uit. Moet de lading worden gemarkeerd met een markeringsbord?",
+    "answer": "Ja",
+    "image": {
+      "url": "50.jpg"
+    }
+  }
+]

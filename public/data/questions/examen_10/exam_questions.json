@@ -1,0 +1,720 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door voldoende volgafstand aan te houden",
+      "Door zoveel mogelijk op autowegen en snelwegen te rijden",
+      "Door nooit de maximumsnelheid te overschrijden en je aan de adviessnelheden te houden"
+    ],
+    "id": 1,
+    "question": "Hoe kun je de kans op steenslag verkleinen?",
+    "answer": "Door voldoende volgafstand aan te houden",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De schade van je eigen voertuig en de schade die je veroorzaakt aan anderen",
+      "Alleen de schade van je eigen voertuig",
+      "Alleen de schade die je veroorzaakt aan anderen"
+    ],
+    "id": 2,
+    "question": "Welke schade wordt gedekt door een allrisk verzekering?",
+    "answer": "De schade van je eigen voertuig en de schade die je veroorzaakt aan anderen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 3,
+    "question": "Heeft het gebruik van airco een negatieve invloed op het brandstofverbruik?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Verdovende middelen",
+      "Caffeïnehoudende dranken",
+      "Verdovende middelen en bepaalde geneesmiddelen"
+    ],
+    "id": 4,
+    "question": "Wat kan een negatieve invloed hebben op je rijvaardigheid?",
+    "answer": "Verdovende middelen en bepaalde geneesmiddelen",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als de trein is gepasseerd",
+      "Als de slagbomen omhoog zijn gegaan",
+      "Als de alarmlichten zijn uitgegaan"
+    ],
+    "id": 5,
+    "question": "Wanneer mag je oversteken?",
+    "answer": "Als de alarmlichten zijn uitgegaan",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "In de auto blijven wachten",
+      "Naast de vluchtstrook in de berm wachten",
+      "In de middenberm achter de vangrail wachten"
+    ],
+    "id": 6,
+    "question": "Je bent betrokken bij een verkeersongeval. Wat moet je doen?",
+    "answer": "In de middenberm achter de vangrail wachten",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 7,
+    "question": "Mogen voetgangers op de rijbaan lopen als het voetpad ontbreekt?",
+    "answer": "Ja",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Moet je hier een rijstrook naar rechts opschuiven?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je moet niet inhalen als je kort daarna wilt afslaan",
+      "Je mag in een bocht niet inhalen",
+      "Je mag niet inhalen als je rechts van een onderbroken streep rijdt"
+    ],
+    "id": 9,
+    "question": "Welke bewering is waar?",
+    "answer": "Je moet niet inhalen als je kort daarna wilt afslaan",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De bus zal wegrijden van de bushalte",
+      "De groene auto zal naar jouw weghelft uitwijken",
+      "Je kunt gewoon verder rijden"
+    ],
+    "id": 10,
+    "question": "Wat moet je verwachten dat er gaat gebeuren?",
+    "answer": "Je kunt gewoon verder rijden",
+    "image": {
+      "url": "10.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 11,
+    "question": "Je wilt het mistachterlicht aanzetten omdat het zicht minder dan 100 meter is. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "11.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als je de route naar Driebergen volgt",
+      "Als je de route naar Schoonhoven volgt",
+      "Als je de route naar Utrecht of Gorinchem volgt"
+    ],
+    "id": 12,
+    "question": "Wanneer rij je over een viaduct heen?",
+    "answer": "Als je de route naar Driebergen volgt",
+    "image": {
+      "url": "12.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 13,
+    "question": "Wat is de maximumsnelheid van een brommobiel?",
+    "why": "De maximumsnelheid van een brommobiel is 45 km/uur. Een brommobiel moet op de rijbaan rijden en de regels van een personenauto volgen.",
+    "answer": [],
+    "image": {
+      "url": "13.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 14,
+    "question": "Moet je de in- en uitstappende passagiers voor laten gaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "14.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 15,
+    "question": "Hoeveel km/uur mag je hier rijden?",
+    "why": "De maximumsnelheid op een autoweg is 100 km/uur. Maar met de aanhangwagen mag je niet sneller dan 90 km/uur rijden. De maximumsnelheid is 90 km/uur voor een voertuig die een aanhangwagen met een toegestane maximummassa van niet meer dan 3500 kg voortbeweegt.",
+    "answer": [],
+    "image": {
+      "url": "15.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Mistlicht achter",
+      "Mistlicht voor"
+    ],
+    "id": 16,
+    "question": "Van welke verlichting moet een personenauto voorzien zijn?",
+    "answer": "Mistlicht achter",
+    "image": {
+      "url": "16.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen voor de bestuurder en de passagier voorin",
+      "Voor alle inzittenden",
+      "Alleen voor de bestuurder"
+    ],
+    "id": 17,
+    "question": "Voor wie is het belangrijk dat de hoofdsteun goed staat afgesteld?",
+    "answer": "Voor alle inzittenden",
+    "image": {
+      "url": "17.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De laagste maximumsnelheid geldt",
+      "De snelheid van het verkeersbord is de maximumsnelheid",
+      "De snelheid van het matrixbord is de maximumsnelheid"
+    ],
+    "id": 18,
+    "question": "Op de matrixborden staat een andere snelheid dan op de verkeersborden. Welke bewering is waar?",
+    "answer": "De laagste maximumsnelheid geldt",
+    "image": {
+      "url": "18.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op weg A en B",
+      "Op weg A",
+      "Op weg B"
+    ],
+    "id": 19,
+    "question": "Op welke weg mag je maximaal 80 kilometer per uur rijden?",
+    "answer": "Op weg B",
+    "image": {
+      "url": "19.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Onmiddellijk langs de kant van de weg stoppen",
+      "De rotonde rond rijden en de rotonde pas verlaten wanneer de politieauto de rotonde heeft verlaten",
+      "De rotonde oprijden en bij de eerste afslag verlaten"
+    ],
+    "id": 20,
+    "question": "Je wilt op de rotonde de eerste afslag nemen. Je ziet een politieauto met zwaailichten en sirene achter je. Wat doe je?",
+    "answer": "De rotonde rond rijden en de rotonde pas verlaten wanneer de politieauto de rotonde heeft verlaten",
+    "image": {
+      "url": "20.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De remweg neemt af",
+      "De remweg neemt toe",
+      "De remweg blijft gelijk"
+    ],
+    "id": 21,
+    "question": "Welke invloed heeft een aanhangwagen op de remweg?",
+    "answer": "De remweg neemt toe",
+    "image": {
+      "url": "21.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het zijraam openen",
+      "Gordel losmaken",
+      "De lichten aanzetten"
+    ],
+    "id": 22,
+    "question": "Wat doe je als eerste als je voertuig te water is geraakt?",
+    "answer": "De lichten aanzetten",
+    "image": {
+      "url": "22.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Beide personen",
+      "De blinde voetganger met een witte stok met rode ringen",
+      "De man met de rollator"
+    ],
+    "id": 23,
+    "question": "Wie moet je altijd voor laten gaan?",
+    "answer": "Beide personen",
+    "image": {
+      "url": "23.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_24_option_1.svg",
+      "question_24_option_2.svg",
+      "question_24_option_3.svg",
+      "question_24_option_4.svg"
+    ],
+    "id": 24,
+    "question": "Bij welk bord kun je voetgangers op de rijbaan verwachten?",
+    "answer": 3,
+    "image": {
+      "url": "24.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 25,
+    "question": "Moet je verwachten dat de auto voor je zal stoppen?",
+    "answer": "Ja",
+    "image": {
+      "url": "25.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag binnen een erf langs de kant van de weg parkeren als er geen verbod geldt",
+      "Je mag buiten de bebouwde kom langs de kant van de weg parkeren als er geen verbod geldt",
+      "Je mag nooit op de rijbaan parkeren"
+    ],
+    "id": 26,
+    "question": "Welke bewering is waar?",
+    "answer": "Je mag buiten de bebouwde kom langs de kant van de weg parkeren als er geen verbod geldt",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 27,
+    "question": "Je haalt hier in. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "27.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Band B",
+      "Band A",
+      "Band C"
+    ],
+    "id": 28,
+    "question": "Welke band heeft de juiste bandenspanning?",
+    "answer": "Band C",
+    "image": {
+      "url": "28.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 29,
+    "question": "Mag je een tram rechts inhalen?",
+    "answer": "Ja",
+    "image": {
+      "url": "29.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Bepaalde medicijnen",
+      "Drugs",
+      "Druk verkeer",
+      "Cafeïnehoudende dranken"
+    ],
+    "id": 30,
+    "question": "Wat heeft een negatieve invloed op je rijvaardigheid?",
+    "answer": [
+      "Bepaalde medicijnen",
+      "Drugs"
+    ],
+    "image": {
+      "url": "30.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 31,
+    "question": "Moet je stoppen?",
+    "answer": "Ja",
+    "image": {
+      "url": "31.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 32,
+    "question": "Je wilt hier stoppen om een bestelling af te geven. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "32.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Overstekende fietsers",
+      "Overstekende fietsers en snorfietsers",
+      "Overstekende gehandicaptenvoertuigen, fietsers, snorfietsers en bromfietsen"
+    ],
+    "id": 33,
+    "question": "Wie kun je hier verwachten?",
+    "answer": "Overstekende gehandicaptenvoertuigen, fietsers, snorfietsers en bromfietsen",
+    "image": {
+      "url": "33.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 34,
+    "question": "Mogen autobussen op een autosnelweg op de meest links gelegen rijstrook rijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "34.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 35,
+    "question": "Mag je binnen de bebouwde kom groot licht gebruiken?",
+    "answer": "Ja",
+    "image": {
+      "url": "35.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 36,
+    "question": "Is de man op de scootmobiel een bestuurder?",
+    "answer": "Ja",
+    "image": {
+      "url": "36.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 37,
+    "question": "Je wilt de inrit oprijden. Is dat een bijzondere manoeuvre?",
+    "answer": "Ja",
+    "image": {
+      "url": "37.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_38_option_1.jpg",
+      "question_38_option_2.jpg",
+      "question_38_option_3.jpg",
+      "question_38_option_4.jpg"
+    ],
+    "id": 38,
+    "question": "Welk voertuig is het eerste voertuig van een militaire colonne?",
+    "answer": 3,
+    "image": {
+      "url": "38.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dat kan niet",
+      "Door veel te bewegen",
+      "Door veel melk te drinken"
+    ],
+    "id": 39,
+    "question": "Hoe kun je alcohol sneller uit je systeem krijgen?",
+    "answer": "Dat kan niet",
+    "image": {
+      "url": "39.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 40,
+    "question": "Je rijdt hier met 135 km/h. Kun je strafpunten krijgen op je beginnersrijbewijs?",
+    "answer": "Nee",
+    "image": {
+      "url": "40.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Tussen de 10 en 15 centimeter",
+      "Zo weinig mogelijk",
+      "Zo veel mogelijk"
+    ],
+    "id": 41,
+    "question": "Hoeveel afstand moet tussen het hoofd en de hoofdsteun zitten?",
+    "answer": "Zo weinig mogelijk",
+    "image": {
+      "url": "41.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "12 meter",
+      "14 meter",
+      "9 meter"
+    ],
+    "id": 42,
+    "question": "Wat is de maximale toegestane lengte van een personenauto?",
+    "answer": "12 meter",
+    "image": {
+      "url": "42.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "fietser",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "16%",
+            "left": "60%"
+        }
+      },
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "70%",
+            "left": "60%"
+        }
+      }
+    ],
+    "correct_order": ["fietser", "lesauto"],
+    "id": 43,
+    "question": "Wie mag er als eerste?",
+    "answer": [],
+    "image": {
+      "url": "43.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je kunt het beste erg sociaal rijden en vaak andere weggebruikers voor laten gaan",
+      "Je kunt het beste voorrang nemen wanneer je voorrang hebt",
+      "Je kunt het beste verkeerssituaties proberen te voorspellen"
+    ],
+    "id": 44,
+    "question": "Wat kun je het beste doen?",
+    "answer": "Je kunt het beste verkeerssituaties proberen te voorspellen",
+    "image": {
+      "url": "44.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 45,
+    "question": "Je wilt bij dit verkeerslicht links afslaan. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "45.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een fietser en een ruiter",
+      "Iemand met een paard aan de hand en een geleider van vee",
+      "Een rolschaatser en een skateboarder"
+    ],
+    "id": 46,
+    "question": "Wie vallen niet onder de groep bestuurders?",
+    "answer": "Een rolschaatser en een skateboarder",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "tram",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "30%",
+            "left": "27%"
+        }
+      },
+      {
+        "id": "auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "86%",
+            "left": "84%"
+        }
+      },
+      {
+        "id": "voetganger",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "50%",
+            "left": "80%"
+        }
+      }
+    ],
+    "correct_order": ["tram", "voetganger", "auto"],
+    "id": 47,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "47.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het diagonaal deel van de gordel mag niet onder de rechterarm worden gedragen",
+      "Het diagonaal deel van de gordel mag onder de rechterarm worden gedragen",
+      "Het diagonaal deel van de gordel mag achter de rug worden gedragen"
+    ],
+    "id": 48,
+    "question": "Het diagonaal omhooglopende deel van de gordel zit vervelend. Welke bewering is waar?",
+    "answer": "Het diagonaal deel van de gordel mag niet onder de rechterarm worden gedragen",
+    "image": {
+      "url": "48.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je hoeft niets te doen",
+      "Zo snel mogelijk stoppen",
+      "Het probleem later herstellen"
+    ],
+    "id": 49,
+    "question": "Wat kun je vaak het beste doen als er een oranje controlelampje op het dashboard gaat branden?",
+    "answer": "Het probleem later herstellen",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 50,
+    "question": "Wat is de wettelijke maximumsnelheid voor een auto op een autosnelweg?",
+    "why": "De wettelijke maximumsnelheid is nog steeds 130 km/uur. Als er geen snelheid staat aangegeven, geldt op de snelweg de wettelijke maximumsnelheid van 130 km /uur. Verkeersborden geven de maximumsnelheid aan.  In maart 2020 zijn de snelheidsborden aangepast om de maximale snelheid te verlagen tot 100 km/u gedurende de dag tussen 06:00 en 19:00. De maximale snelheid blijft tussen 19:00 en 06:00 hetzelfde op snelwegen waar je 120 en 130 km/h mag rijden.",
+    "answer": "130",
+    "image": {
+      "url": "50.jpg"
+    }
+  }
+]

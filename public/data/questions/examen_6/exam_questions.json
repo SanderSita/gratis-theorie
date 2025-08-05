@@ -1,0 +1,844 @@
+[
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_1_option_1.svg",
+      "question_1_option_2.svg",
+      "question_1_option_3.svg",
+      "question_1_option_4.svg"
+    ],
+    "id": 1,
+    "question": "Welk verkeersbord geeft aan dat je moet stoppen?",
+    "answer": 3,
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Einde van hiervoor aangegeven verboden of maximumsnelheid",
+      "De rijstrook is gesloten",
+      "Deze rijstrook gaat straks dicht of eindigt"
+    ],
+    "id": 2,
+    "question": "Wat betekent het rode kruis op het matrixbord?",
+    "answer": "De rijstrook is gesloten",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op weg A en B",
+      "Op weg B",
+      "Op weg A"
+    ],
+    "id": 3,
+    "question": "Op welke weg mag je maximaal 80 kilometer per uur rijden?",
+    "answer": "Op weg B",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De remweg wordt korter",
+      "De passagiers kunnen jou afleiden",
+      "De auto kan afwijken als de passagiers aan één kant zitten"
+    ],
+    "id": 4,
+    "question": "Waar moet je extra rekening mee houden als je passagiers vervoert?",
+    "answer": "De passagiers kunnen jou afleiden",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 5,
+    "question": "Mag je de fietser zo inhalen?",
+    "answer": "Ja",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Verkeersregels zijn het meest belangrijk",
+      "Verkeerslichten zijn het meest belangrijk",
+      "Verkeersborden zijn het meest belangrijk",
+      "Aanwijzingen van bevoegde ambtenaren zijn het meest belangrijk"
+    ],
+    "id": 6,
+    "question": "Wat is het meest belangrijk om op te volgen?",
+    "answer": ["Aanwijzingen van bevoegde ambtenaren zijn het meest belangrijk"],
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+        {
+          "id": "bus",
+          "label": "Rode bestelwagen",
+          "image": null,
+          "style": {
+              "top": "20%",
+              "left": "60%"
+          }
+        },
+        {
+          "id": "motor",
+          "label": "Motor",
+          "image": null,
+          "style": {
+              "top": "40%",
+              "left": "20%"
+          }
+        },
+        {
+          "id": "auto",
+          "label": "Lesauto",
+          "image": null,
+          "style": {
+              "top": "70%",
+              "left": "55%"
+          }
+        }
+    ],
+    "correct_order": ["motor", "bus", "auto"],
+    "id": 7,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Die neemt altijd voorrang als die voorrang heeft",
+      "Die houdt rekening met de fouten van anderen",
+      "Die rijdt langzaam en voorzichtig"
+    ],
+    "id": 8,
+    "question": "Wat doet een goede bestuurder in het verkeer?",
+    "answer": "Die houdt rekening met de fouten van anderen",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je zet het groot licht aan om goed te kunnen blijven zien en claxonneert om de tegenligger erop te wijzen dat zijn groot licht aanstaat",
+      "Je zet het groot licht aan om goed te kunnen blijven zien",
+      "Je knippert met het groot licht om de tegenligger erop te wijzen dat zijn groot licht aanstaat"
+    ],
+    "id": 9,
+    "question": "Je komt in de nacht een tegenligger tegen die zijn groot licht niet uit doet. Wat kun je het beste doen?",
+    "answer": "Je knippert met het groot licht om de tegenligger erop te wijzen dat zijn groot licht aanstaat",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "Sorteer je zo goed voor om rechts af te slaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bussen en vrachtauto's",
+      "Voertuigen met aanhangwagens waarvan de combinatie langer is dan 7 meter en vrachtauto's",
+      "Voertuigen langer dan 7 meter en vrachtauto's"
+    ],
+    "id": 11,
+    "question": "Welke voertuigen mogen alleen op de twee meest rechts gelegen rijstroken rijden?",
+    "answer": "Voertuigen met aanhangwagens waarvan de combinatie langer is dan 7 meter en vrachtauto's",
+    "image": {
+      "url": "11.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen voor de zijde waar het bord is geplaatst",
+      "Voor beide zijden van de weg"
+    ],
+    "id": 12,
+    "question": "Waar geldt dit bord?",
+    "answer": "Alleen voor de zijde waar het bord is geplaatst",
+    "image": {
+      "url": "12.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 13,
+    "question": "Moet je de skateboarder voor laten gaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "13.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+        {
+          "id": "tractor",
+          "label": "Tractor",
+          "image": null,
+          "style": {
+              "top": "20%",
+              "left": "50%"
+          }
+        },
+        {
+          "id": "lesauto",
+          "label": "Lesauto",
+          "image": null,
+          "style": {
+              "top": "40%",
+              "left": "20%"
+          }
+        },
+        {
+          "id": "scooter",
+          "label": "Scooter",
+          "image": null,
+          "style": {
+              "top": "70%",
+              "left": "60%"
+          }
+        },
+        {
+          "id": "ruiter_op_paard",
+          "label": "Ruiter op paard",
+          "image": null,
+          "style": {
+              "top": "50%",
+              "left": "90%"
+          }
+        }
+    ],
+    "correct_order": ["tractor", "scooter", "lesauto", "ruiter_op_paard"],
+    "id": 14,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "14.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je moet indien redelijkerwijs mogelijk stoppen en het andere verkeer voor laten gaan",
+      "De voorrang wordt nu bepaald door de verkeerstekens of regels",
+      "Je hebt voorrang op het andere verkeer van de kruisende weg"
+    ],
+    "id": 15,
+    "question": "Het oranje licht knippert. Wat betekent dat?",
+    "answer": "De voorrang wordt nu bepaald door de verkeerstekens of regels",
+    "image": {
+      "url": "15.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij kruispunten, rotondes en op afritten van autosnelwegen",
+      "Op onverharde wegen en in tunnels",
+      "Op autowegen en autosnelwegen"
+    ],
+    "id": 16,
+    "question": "Het sneeuwt. Waar moet je nu extra goed opletten?",
+    "answer": "Bij kruispunten, rotondes en op afritten van autosnelwegen",
+    "image": {
+      "url": "16.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 17,
+    "question": "Moet je stoppen voor de militaire colonne?",
+    "answer": "Ja",
+    "image": {
+      "url": "17.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aan tegemoetkomende bestuurders op dezelfde weg en aan bestuurders op de kruisende weg",
+      "Aan alle tegemoetkomende motorvoertuigen en motorvoertuigen op de kruisende weg",
+      "Alleen aan bestuurders op de kruisende weg"
+    ],
+    "id": 18,
+    "question": "Je nadert een kruispunt met een stop bord. Aan wie moet je voorrang verlenen?",
+    "answer": "Alleen aan bestuurders op de kruisende weg",
+    "image": {
+      "url": "18.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen in situatie A",
+      "Alleen in situatie B",
+      "In situatie A en B"
+    ],
+    "id": 19,
+    "question": "In welke situatie moet je de voetganger voor laten gaan?",
+    "answer": "Alleen in situatie A",
+    "image": {
+      "url": "19.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nooit",
+      "Alleen als diegene op het trottoir loopt",
+      "Altijd"
+    ],
+    "id": 20,
+    "question": "Wanneer is iemand die met een bromfiets loopt volgens de wet een voetganger?",
+    "answer": "Altijd",
+    "image": {
+      "url": "20.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 21,
+    "question": "Is een tractor een motorvoertuig?",
+    "answer": "Ja",
+    "image": {
+      "url": "21.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aan rechtdoorgaande bestuurders",
+      "Aan van links en rechts komende bestuurders",
+      "Aan van rechts komende bestuurders"
+    ],
+    "id": 22,
+    "question": "Aan wie moet je voorrang verlenen bij dit kruispunt?",
+    "answer": "Aan van rechts komende bestuurders",
+    "image": {
+      "url": "22.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen bestuurders",
+      "Alleen voetgangers",
+      "Alle weggebruikers"
+    ],
+    "id": 23,
+    "question": "Je rijdt een erf binnen. Wie mogen de weg in de gehele breedte gebruiken?",
+    "answer": "Alleen voetgangers",
+    "image": {
+      "url": "23.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "politie",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "31%",
+            "left": "15%"
+        }
+      },
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "60%",
+            "left": "80%"
+        }
+      },
+      {
+        "id": "fiets",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "20%",
+            "left": "52%"
+        }
+      }
+  ],
+  "correct_order": ["politie", "fiets", "lesauto"],
+    "id": 24,
+    "question": "Wat is de juiste volgorde?",
+    "image": {
+      "url": "24.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "3 maanden",
+      "5 jaar",
+      "1 jaar"
+    ],
+    "id": 25,
+    "question": "Hoe lang kan je rijbewijs worden ingehouden voor het rijden onder invloed van drugs of alcohol?",
+    "answer": "5 jaar",
+    "image": {
+      "url": "25.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Afremmen zodat de zwarte auto genoeg ruimte heeft om in te voegen",
+      "Je doet niets",
+      "Het gas loslaten en ruimte maken"
+    ],
+    "id": 26,
+    "question": "De zwarte auto geeft richting aan. Wat kun je het beste doen?",
+    "answer": "Het gas loslaten en ruimte maken",
+    "image": {
+      "url": "26.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 27,
+    "question": "Is een parkeerplaats onderdeel van de autosnelweg?",
+    "answer": "Nee",
+    "image": {
+      "url": "27.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen als er geen andere weggebruikers in de buurt zijn",
+      "Als het zicht ernstig belemmerd wordt door mist, sneeuwval of regen",
+      "Alleen als het zicht ernstig belemmerd wordt door mist"
+    ],
+    "id": 28,
+    "question": "Wanneer gebruik je de mistlichten aan de voorkant?",
+    "answer": "Als het zicht ernstig belemmerd wordt door mist, sneeuwval of regen",
+    "image": {
+      "url": "28.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 29,
+    "question": "Je wilt hier stoppen om een bestelling af te geven. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "29.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "motor",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "31%",
+            "left": "25%"
+        }
+      },
+      {
+        "id": "politie",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "20%",
+            "left": "83%"
+        }
+      },
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "62%",
+            "left": "42%"
+        }
+      }
+    ],
+    "correct_order": ["lesauto", "motor", "politie"],
+    "id": 30,
+    "question": "Wie mag er als laatste?",
+    "answer": [],
+    "image": {
+      "url": "30.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 31,
+    "question": "Je rijdt een weg in met dit verkeersbord. Kun je op deze weg tegemoetkomende automobilisten verwachten?",
+    "answer": "Nee",
+    "image": {
+      "url": "31.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Van rijstrook wisselen",
+      "Van de invoegstrook de doorgaande rijbaan oprijden",
+      "Naar rechts afslaan op een kruispunt"
+    ],
+    "id": 32,
+    "question": "Wat is geen bijzondere manoeuvre?",
+    "answer": "Naar rechts afslaan op een kruispunt",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen als je een tegenligger ziet verschijnen",
+      "Als een andere bestuurder achter je rijdt of als je een tegenligger ziet verschijnen",
+      "Als je achter een andere bestuurder rijdt of als je een tegenligger ziet verschijnen"
+    ],
+    "id": 33,
+    "question": "Je rijdt in de nacht met het groot licht aan. Wanneer moet je het groot licht uitzetten en de dimlichten aanzetten?",
+    "answer": "Als je achter een andere bestuurder rijdt of als je een tegenligger ziet verschijnen",
+    "image": {
+      "url": "33.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "fiets",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "12%",
+            "left": "41%"
+        }
+      },
+      {
+        "id": "auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "20%",
+            "left": "60%"
+        }
+      }
+    ],
+    "correct_order": ["fiets", "auto"],
+    "id": 34,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "34.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je wacht net zo lang tot er een veilig moment is om in te halen",
+      "Je bereidt je alvast voor door vlakbij de asstreep te gaan rijden",
+      "Je gebruikt lichtsignalen om aan te geven dat je wilt inhalen"
+    ],
+    "id": 35,
+    "question": "Je wilt inhalen, want je voorligger rijdt erg langzaam. Wat doe je?",
+    "answer": "Je wacht net zo lang tot er een veilig moment is om in te halen",
+    "image": {
+      "url": "35.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het probleem later herstellen",
+      "Zo snel mogelijk stoppen",
+      "Je hoeft niets te doen"
+    ],
+    "id": 36,
+    "question": "Wat kun je vaak het beste doen als er een oranje controlelampje op het dashboard gaat branden?",
+    "answer": "Het probleem later herstellen",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 37,
+    "question": "Je wilt hier op een passagier wachten. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "37.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 38,
+    "question": "Je hebt je rijbewijs gehaald in een automaat. Mag je ook rijden in een schakel?",
+    "answer": "Nee",
+    "image": {
+      "url": "38.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Mistlicht voor",
+      "Mistlicht achter"
+    ],
+    "id": 39,
+    "question": "Van welke verlichting moet een personenauto voorzien zijn?",
+    "answer": "Mistlicht achter",
+    "image": {
+      "url": "39.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "motor",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "39%",
+            "left": "13%"
+        }
+      },
+      {
+        "id": "voetganger",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "48%",
+            "left": "24%"
+        }
+      },
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "70%",
+            "left": "50%"
+        }
+      },
+      {
+        "id": "scooter",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "42%",
+            "left": "86%"
+        }
+      }
+    ],
+    "correct_order": ["scooter", "lesauto", "motor", "voetganger"],
+    "id": 40,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "40.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "ABS zorgt ervoor dat de auto op een constante snelheid rijdt",
+      "ABS zorgt ervoor dat je met minder krachtinspanning kunt sturen",
+      "ABS zorgt ervoor dat de wielen niet blokkeren als je hard remt"
+    ],
+    "id": 41,
+    "question": "Waarvoor dient een ABS systeem?",
+    "answer": "ABS zorgt ervoor dat de wielen niet blokkeren als je hard remt",
+    "image": {
+      "url": "41.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Om te voorkomen dat bestuurders tegen de richting in rijden",
+      "Zodat bestuurders niet te hard rijden op de rotonde",
+      "Om het aantal snij- en weefconflicten te verminderen"
+    ],
+    "id": 42,
+    "question": "Waarom zijn de rijstroken van een turborotonde van elkaar gescheiden met een verhoging?",
+    "answer": "Om het aantal snij- en weefconflicten te verminderen",
+    "image": {
+      "url": "42.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen als je van richting verandert",
+      "Tijdens de hele inhaalmanoeuvre",
+      "Alleen op het moment dat je naar links gaat"
+    ],
+    "id": 43,
+    "question": "Je wilt de zwarte auto inhalen. Wanneer moet je richting aangeven?",
+    "answer": "Alleen als je van richting verandert",
+    "image": {
+      "url": "43.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door nooit een versnelling over te slaan",
+      "Door soms een versnelling over te slaan",
+      "Door in de laagst mogelijke versnelling te rijden"
+    ],
+    "id": 44,
+    "question": "Hoe kun je brandstof besparen?",
+    "answer": "Door soms een versnelling over te slaan",
+    "image": {
+      "url": "44.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Aanhangwagens",
+      "Brommobielen",
+      "Landbouwvoertuigen"
+    ],
+    "id": 45,
+    "question": "Welke voertuigen zijn voorzien van deze driehoek?",
+    "answer": "Landbouwvoertuigen",
+    "image": {
+      "url": "45.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 46,
+    "question": "Gaat een tram voor overstekende voetgangers bij een oversteekplaats?",
+    "answer": "Nee",
+    "image": {
+      "url": "46.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Remmen",
+      "Sturen",
+      "Rustig het gas loslaten"
+    ],
+    "id": 47,
+    "question": "Wat kun je het beste doen bij aquaplaning?",
+    "answer": "Rustig het gas loslaten",
+    "image": {
+      "url": "47.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij een bushalte",
+      "Op een onoverzichtelijke kruising",
+      "In een woonwijk met kinderen"
+    ],
+    "id": 48,
+    "question": "Waar moet je extra goed opletten?",
+    "answer": "In een woonwijk met kinderen",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 49,
+    "question": "Wat is de maximumsnelheid in een erf?",
+    "why": "Binnen een erf mag je maximaal 15 kilometer per uur rijden.",
+    "answer": "15",
+    "image": {
+      "url": "49.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 50,
+    "question": "Mag je rijden onder de begeleiding van een rijinstructeur als je rijbevoegdheid is ontzegd?",
+    "answer": "Nee",
+    "image": {
+      "url": "50.jpg"
+    }
+  }
+]

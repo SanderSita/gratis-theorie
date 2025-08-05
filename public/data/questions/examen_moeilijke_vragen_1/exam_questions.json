@@ -1,0 +1,137 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Gesloten voor voertuigen met gevaarlijke stoffen",
+      "Gesloten voor vrachtauto's en autobussen",
+      "Gesloten voor vrachtauto's"
+    ],
+    "id": 1,
+    "question": "Wat betekent dit bord?",
+    "answer": "Gesloten voor vrachtauto's",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen bij splitsing A",
+      "Bij splitsing A en B",
+      "Alleen bij splitsing B"
+    ],
+    "id": 2,
+    "question": "Bij welke splitsing kun je bestuurders van links verwachten?",
+    "answer": "Bij splitsing A en B",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De maximumsnelheid houdt rekening met alle (weers)omstandigheden.",
+      "De maximumsnelheid houdt alleen rekening met ideale (weers)omstandigheden"
+    ],
+    "id": 3,
+    "question": "Welke bewering is waar?",
+    "answer": "De maximumsnelheid houdt alleen rekening met ideale (weers)omstandigheden",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het kruispunt oversteken zodat het voorrangsvoertuig verder kan rijden",
+      "Op dezelfde plek blijven",
+      "Het kruispunt oprijden om ruimte te maken"
+    ],
+    "id": 4,
+    "question": "Je staat voor een rood verkeerslicht. Wat moet je doen?",
+    "answer": "Op dezelfde plek blijven",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Je haalt hier in. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Je komt een verkeersregelaar tegen die deze aanwijzing geeft en je wilt rechtsaf slaan. Mag je doorrijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 7,
+    "question": "Mag je in een parkeerschijfzone overal parkeren?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ongeveer 20 meter",
+      "Ongeveer 30 meter",
+      "Ongeveer 10 meter"
+    ],
+    "id": 8,
+    "question": "Op welke afstand moet een gevarendriehoek ongeveer van de auto worden geplaatst?",
+    "answer": "Ongeveer 30 meter",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Langzaam rijden als het hard regent",
+      "Niet harder rijden dan de maximumsnelheid",
+      "Voorrang verlenen aan andere weggebruikers als het niet nodig is"
+    ],
+    "id": 9,
+    "question": "Wat is niet goed voor de doorstroming van het verkeer?",
+    "answer": "Voorrang verlenen aan andere weggebruikers als het niet nodig is",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 10,
+    "question": "Je auto weegt 2600 kilo. Mag je met rijbewijs B een aanhangwagen met een gewicht van 1000 kilo vervoeren?",
+    "answer": "Nee",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

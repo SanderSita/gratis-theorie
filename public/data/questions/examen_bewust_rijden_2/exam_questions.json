@@ -1,0 +1,139 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het staat in het instructieboekje van de auto",
+      "De bandenspanning is voor elke band hetzelfde",
+      "De bandenspanning staat op de band vermeld"
+    ],
+    "id": 1,
+    "question": "Hoe kom je erachter wat de optimale bandenspanning is voor je auto?",
+    "answer": "Het staat in het instructieboekje van de auto",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op erftoegangswegen",
+      "Op provinciale wegen en autowegen",
+      "Op autosnelwegen"
+    ],
+    "id": 2,
+    "question": "Op welke wegen is het verbruik meestal het laagste?",
+    "answer": "Op provinciale wegen en autowegen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door nooit een versnelling over te slaan",
+      "Door goed te anticiperen",
+      "Door te schakelen bij een hoog toerental"
+    ],
+    "id": 3,
+    "question": "Hoe kun je brandstof besparen?",
+    "answer": "Door goed te anticiperen",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door geleidelijk gas te geven",
+      "Door eerst veel gas te geven en daarna minder",
+      "Door eerst weinig gas te geven en daarna meer"
+    ],
+    "id": 4,
+    "question": "Hoe kun je het beste brandstof besparen als je van stilstand wegrijdt?",
+    "answer": "Door geleidelijk gas te geven",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 5,
+    "question": "Leidt het gebruik van cruisecontrol tot een hogere mate van verkeersveiligheid?",
+    "answer": "Ja",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Is het verstandig om soms een versnelling over te slaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Om de paar jaar",
+      "Maandelijks",
+      "Elk jaar"
+    ],
+    "id": 7,
+    "question": "Hoe vaak kun je het beste de bandenspanning controleren?",
+    "answer": "Maandelijks",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 8,
+    "question": "Verhoogt een te lage bandenspanning de rolweerstand?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Omdat je dan minder luchtweerstand hebt",
+      "Omdat je dan op dezelfde snelheid kunt rijden als je voorligger",
+      "Omdat je dan minder hoeft te remmen"
+    ],
+    "id": 9,
+    "question": "Waarom is het aanhouden van een correcte volgafstand gunstig voor het brandstofverbruik?",
+    "answer": "Omdat je dan minder hoeft te remmen",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je vult de olie bij",
+      "Je moet de auto laten repareren",
+      "Niets, het is normaal dat er soms veel rook uit je uitlaat komt"
+    ],
+    "id": 10,
+    "question": "Wat doe je als je ziet dat er veel rook uit de uitlaat komt?",
+    "answer": "Je moet de auto laten repareren",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

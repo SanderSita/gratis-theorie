@@ -1,0 +1,139 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je gebruikt de richtingaanwijzer als je weer veilig naar rechts kan",
+      "Je zet de richtingaanwijzer aan en gaat weer naar rechts als het veilig kan",
+      "Je gaat zo snel mogelijk weer naar rechts en zet de richtingaanwijzer aan"
+    ],
+    "id": 1,
+    "question": "Je bent een andere auto aan het inhalen. Wat doe je?",
+    "answer": "Je gebruikt de richtingaanwijzer als je weer veilig naar rechts kan",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als je de zwarte auto voorbij bent gereden",
+      "Pas als de voorkant van de zwarte auto volledig in de binnenspiegel zichtbaar is",
+      "Als je de de gehele voorkant van de zwarte auto in de rechter buitenspiegel kunt zien"
+    ],
+    "id": 2,
+    "question": "Je hebt net de zwarte auto ingehaald. Wanneer ga je weer terug naar de rechterrijstrook?",
+    "answer": "Pas als de voorkant van de zwarte auto volledig in de binnenspiegel zichtbaar is",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 3,
+    "question": "Je wilt wegrijden uit een parkeervak. Moet je nu ook richting aangeven?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 4,
+    "question": "Is invoegen een bijzondere manoeuvre?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voordat je het voertuig inhaalt, houd je veel afstand van het in te halen voertuig",
+      "Voordat je het voertuig inhaalt, ga je vlak achter het in te halen voertuig rijden",
+      "Voordat je het voertuig inhaalt, rij je niet te dicht achter het in te halen voertuig"
+    ],
+    "id": 5,
+    "question": "Je staat op het punt om een voertuig in te halen. Welke bewering is waar?",
+    "answer": "Voordat je het voertuig inhaalt, rij je niet te dicht achter het in te halen voertuig",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 6,
+    "question": "Je haalt zo in. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Achteropkomend verkeer",
+      "Tegemoetkomend en achteropkomend verkeer",
+      "Tegemoetkomend verkeer"
+    ],
+    "id": 7,
+    "question": "Je wilt wegrijden uit een parkeervak aan de linkerkant van de weg. Met welk verkeer moet je nu rekening houden?",
+    "answer": "Tegemoetkomend en achteropkomend verkeer",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij het naderen van een kruising",
+      "Bij het naderen van een gevaarlijke bocht",
+      "Bij het stoppen aan de kant van de weg"
+    ],
+    "id": 8,
+    "question": "In welke situatie geef je altijd richting aan?",
+    "answer": "Bij het stoppen aan de kant van de weg",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Stilstaande voertuigen na de bocht",
+      "De auto voor je zal remmen",
+      "De bromfietser zal naar rechts uitwijken om ruimte te maken"
+    ],
+    "id": 9,
+    "question": "Wat moet je verwachten dat er nu gaat gebeuren?",
+    "answer": "De auto voor je zal remmen",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het inhalende voertuig mag de maximumsnelheid tijdelijk overschrijden als het snelheidsverschil niet hoog genoeg is",
+      "Het voertuig dat wordt ingehaald moet langzamer gaan rijden",
+      "Het inhalende voertuig moet aanzienlijk sneller rijden dan het in te halen voertuig"
+    ],
+    "id": 10,
+    "question": "Welke bewering is waar?",
+    "answer": "Het inhalende voertuig moet aanzienlijk sneller rijden dan het in te halen voertuig",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

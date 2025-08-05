@@ -1,0 +1,138 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Je bent net een hectometerpaaltje voorbij gereden. Je kunt nog maar 1 hectometerpaaltje zien. Mag je mistachterlicht voeren?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 2,
+    "question": "Het zicht is slecht omdat het regent. Mag je nu de mistlichten aan de voorkant gebruiken?",
+    "answer": "Ja",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen in situatie A",
+      "In situatie A en B",
+      "Alleen in situatie B"
+    ],
+    "id": 3,
+    "question": "In welke situatie mag je groot licht gebruiken?",
+    "answer": "Alleen in situatie A",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Rood of oranje",
+      "Alleen rood",
+      "Wit of geel"
+    ],
+    "id": 4,
+    "question": "Welke kleuren mogen de achteruitrijlichten uitstralen?",
+    "answer": "Wit of geel",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Mag je de tegenligger zonder verlichting waarschuwen met knippersignalen?",
+    "answer": "Ja",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "150 meter",
+      "300 meter",
+      "600 meter"
+    ],
+    "id": 6,
+    "question": "Je rijdt op een autoweg buiten de bebouwde kom. Je wilt afslaan. Hoeveel meter van tevoren geef je richting aan?",
+    "answer": "300 meter",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 7,
+    "question": "Mag je knippersignalen gebruiken om iemand te begroeten?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_8_option_1.jpg",
+      "question_8_option_2.jpg",
+      "question_8_option_3.png",
+      "question_8_option_4.jpg"
+    ],
+    "id": 8,
+    "question": "Welk verlichting mag je altijd voeren?",
+    "answer": 3,
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen 's nachts als er geen andere weggebruikers zijn",
+      "Alleen 's nachts als je dicht achter een ander voertuig rijdt",
+      "Overdag alleen bij zeer slecht zicht door weersomstandigheden"
+    ],
+    "id": 9,
+    "question": "In welke situatie is groot licht toegestaan?",
+    "answer": "Alleen 's nachts als er geen andere weggebruikers zijn",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "Door hevige sneeuwval is het zicht minder dan 50 meter. Je voert mistlicht achter. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

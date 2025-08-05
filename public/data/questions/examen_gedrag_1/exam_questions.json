@@ -1,0 +1,142 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het brandstofverbruik neemt toe",
+      "De oplettendheid kan afnemen",
+      "Je raakt gewend aan de snelheid, je besef van snelheid neemt af"
+    ],
+    "id": 1,
+    "question": "Wat is het nadeel van cruisecontrol?",
+    "answer": "De oplettendheid kan afnemen",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen claxonneren als het echt nodig is",
+      "Voorrang verlenen aan weggebruikers die eigenlijk geen voorrang hebben ter bevordering van de doorstroming van het verkeer",
+      "Altijd voorrang verlenen aan alle weggebruikers"
+    ],
+    "id": 2,
+    "question": "Wat is sociaal rijgedrag?",
+    "answer": "Voorrang verlenen aan weggebruikers die eigenlijk geen voorrang hebben ter bevordering van de doorstroming van het verkeer",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je blijft op dezelfde rijstrook rijden, omdat je al met maximumsnelheid rijdt",
+      "Je schuift indien mogelijk een rijstrook op naar rechts",
+      "Je gaat sneller rijden en schuift, indien mogelijk, een rijstrook op naar rechts"
+    ],
+    "id": 3,
+    "question": "Je rijdt met de maximumsnelheid op de meest linkerrijstrook van de autosnelweg. Een achterligger wil je inhalen. Wat kun je het beste doen?",
+    "answer": "Je schuift indien mogelijk een rijstrook op naar rechts",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voorrang nemen omdat je voorrang hebt",
+      "Je rijdt het kruispunt op en verwacht dat de vrachtauto indien nodig ruimte voor je maakt",
+      "Je stopt ruim voor het kruispunt en laat de vrachtauto voor gaan"
+    ],
+    "id": 4,
+    "question": "De vrachtauto wil rechtsaf slaan. Wat kun je het beste doen?",
+    "answer": "Je stopt ruim voor het kruispunt en laat de vrachtauto voor gaan",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Besluitvaardig en vlot rijgedrag",
+      "Veilig rijgedrag",
+      "Milieubewust rijgedrag"
+    ],
+    "id": 5,
+    "question": "Wat is het belangrijkste?",
+    "answer": "Veilig rijgedrag",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Rekening houden met de fouten van andere weggebruikers",
+      "Jouw belangen voorop stellen",
+      "Ver vooruit kijken en langzaam en voorzichtig rijden"
+    ],
+    "id": 6,
+    "question": "Wat is defensief rijden?",
+    "answer": "Rekening houden met de fouten van andere weggebruikers",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Altijd voorrang nemen als je voorrang hebt",
+      "Voorrang verlenen als het niet moet en snel reageren",
+      "Correct reageren op verkeerssituaties en vlotte beslissingen maken"
+    ],
+    "id": 7,
+    "question": "Wat kun je het beste doen?",
+    "answer": "Correct reageren op verkeerssituaties en vlotte beslissingen maken",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Landbouwverkeer rijdt vaak harder dan toegestaan",
+      "Landbouwverkeer heeft vaak slecht functionerende verlichting",
+      "Landbouwverkeer gedraagt zich vaak onvoorspelbaar"
+    ],
+    "id": 8,
+    "question": "Waar moet je rekening mee houden als je landbouwverkeer tegenkomt?",
+    "answer": "Landbouwverkeer heeft vaak slecht functionerende verlichting",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag geluidssignalen en knippersignalen gebruiken",
+      "Je mag geen geluidssignalen of knippersignalen gebruiken",
+      "Je mag alleen met je lichten knipperen"
+    ],
+    "id": 9,
+    "question": "Een bestuurder rijdt vlak voor je de rijstrook op. Welke bewering is waar?",
+    "answer": "Je mag geluidssignalen en knippersignalen gebruiken",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dicht achter de blauwe auto rijden en met signalen aangeven dat je wilt inhalen",
+      "De auto langzaam rechts inhalen",
+      "Op de middelste rijstrook blijven rijden"
+    ],
+    "id": 10,
+    "question": "De blauwe auto rijdt langzaam op de linkerrijstrook. Wat doe je?",
+    "answer": "Op de middelste rijstrook blijven rijden",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

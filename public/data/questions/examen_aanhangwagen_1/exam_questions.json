@@ -1,0 +1,132 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "De aanhangwagen heeft een maximale toegestane massa van 650 kilo. Mag je zo rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 2,
+    "question": "Moet de kentekenplaat van een aanhangwagen worden verlicht in het donker?",
+    "answer": "Ja",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 3,
+    "question": "Je wilt zo wegrijden. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 4,
+    "question": "Moet een middenasaanhangwagen met een toegestane maximummassa van meer dan 750 kilogram voorzien zijn van een losbreekreminrichting?",
+    "answer": "Nee",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 5,
+    "question": "Wat is de maximale toegestane lengte in meters van een auto met aanhangwagen?",
+    "why": "De maximale toegestane lengte van een auto met aanhangwagen is 18 meter.",
+    "answer": [],
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een blauwe kentekenplaat",
+      "Een gele kentekenplaat",
+      "Een witte kentekenplaat"
+    ],
+    "id": 6,
+    "question": "Welk kentekenplaat moet een aanhangwagen met een toegestane maximummassa van 1500 kilogram hebben?",
+    "answer": "Een gele kentekenplaat",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 7,
+    "question": "Mag je met rijbewijs B een aanhanger met een gewicht van 1100 kilo vervoeren als de auto 1500 kilo weegt?",
+    "answer": "Ja",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Kan het rijden met een zware aanhangwagen invloed hebben op de stand van het licht van de koplampen?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen aanhangwagens met een witte kentekenplaat",
+      "Alle aanhangwagens, mits de toegestane maximummassa van de combinatie ten hoogste 3.500 kilo is",
+      "Alleen aanhangwagens met een toegestane maximummassa van ten hoogste 750 kilo"
+    ],
+    "id": 9,
+    "question": "Welke aanhangwagens mag je trekken met rijbewijs B?",
+    "answer": "Alle aanhangwagens, mits de toegestane maximummassa van de combinatie ten hoogste 3.500 kilo is",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dichtbij de maximale toegestane waarde",
+      "Een negatieve kogeldruk",
+      "Een zo laag mogelijke kogeldruk"
+    ],
+    "id": 10,
+    "question": "Wat is de beste kogeldruk?",
+    "answer": "Dichtbij de maximale toegestane waarde",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

@@ -1,0 +1,139 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Je hebt een rijbewijs B en wilt in een brommobiel rijden. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "1 jaar",
+      "5 jaar",
+      "6 maanden"
+    ],
+    "id": 2,
+    "question": "Wat is de maximale gevangenisstraf voor het rijden onder invloed van drugs?",
+    "answer": "1 jaar",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dan pleeg je een misdrijf",
+      "Dan bega je een overtreding"
+    ],
+    "id": 3,
+    "question": "Je rijbevoegdheid is ontzegd. Wat gebeurt er als je toch in een auto gaat rijden?",
+    "answer": "Dan pleeg je een misdrijf",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nooit",
+      "Als je een nieuw rijbewijs hebt aangevraagd",
+      "Als het rijbewijs niet meer dan 1 maand is verlopen"
+    ],
+    "id": 4,
+    "question": "Je rijbewijs is verlopen. Wanneer mag je toch gaan rijden?",
+    "answer": "Nooit",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "7 jaar",
+      "10 jaar",
+      "5 jaar"
+    ],
+    "id": 5,
+    "question": "Je hebt je rijbewijs gehaald op 18-jarige leeftijd. Na hoeveel jaar word je beschouwd als een ervaren bestuurder?",
+    "answer": "5 jaar",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De bestuurder en de eigenaar zijn verantwoordelijk voor de rijtechnische staat van het voertuig",
+      "Alleen de eigenaar is verantwoordelijk voor de rijtechnische staat van het voertuig",
+      "Alleen de bestuurder is verantwoordelijk voor de rijtechnische staat van het voertuig"
+    ],
+    "id": 6,
+    "question": "Welke bewering is waar?",
+    "answer": "De bestuurder en de eigenaar zijn verantwoordelijk voor de rijtechnische staat van het voertuig",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Na 1 jaar",
+      "Na 5 jaar",
+      "Na 10 jaar"
+    ],
+    "id": 7,
+    "question": "Wanneer moet je rijbewijs worden verlengd?",
+    "answer": "Na 10 jaar",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "De bus kan 12 passagiers vervoeren. Mag je de bus besturen met een rijbewijs B?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Rijden voor je plezier, zonder een eindbestemming in gedachten te hebben",
+      "Rijden onder invloed van drugs of alcohol",
+      "Rijden in andermans voertuig, zonder dat de eigenaar hiervoor toestemming heeft gegeven"
+    ],
+    "id": 9,
+    "question": "Wat is joyriding?",
+    "answer": "Rijden in andermans voertuig, zonder dat de eigenaar hiervoor toestemming heeft gegeven",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Jouw rijbewijs en het kentekenbewijs",
+      "Jouw rijbewijs, het kentekenbewijs en een APK-keurringsrapport",
+      "Jouw rijbewijs en een APK-keurringsrapport"
+    ],
+    "id": 10,
+    "question": "Welke documenten moet je aan de politie kunnen laten zien bij een verkeerscontrole?",
+    "answer": "Jouw rijbewijs en het kentekenbewijs",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "type": "multiple_response",
+    "options": [
+      "Bussen",
+      "Auto's",
+      "Motorfietsen",
+      "Bestuurders van motorvoertuigen met aanhangwagens waarvan de combinatie langer is dan 7 meter"
+    ],
+    "id": 1,
+    "question": "Welke voertuigen mogen alleen op de twee meest rechts gelegen rijstroken rijden?",
+    "answer": ["Bestuurders van motorvoertuigen met aanhangwagens waarvan de combinatie langer is dan 7 meter"],
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op je rijbewijs staat hoeveel de aanhangwagen maximaal mag wegen",
+      "De aanhangwagen mag niet zwaarder zijn dan de auto",
+      "De aanhangwagen mag niet zwaarder zijn dan het trekkend vermogen van de auto"
+    ],
+    "id": 2,
+    "question": "Je wilt met een aanhangwagen rijden. Welke bewering is waar?",
+    "answer": "De aanhangwagen mag niet zwaarder zijn dan het trekkend vermogen van de auto",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Mag je met een rijbewijs B een aanhangwagen trekken van meer dan 750 kilogram?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 4,
+    "question": "Moet een kentekenplaat van een aanhangwagen zijn voorzien van een goedkeuringsmerk?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alle aanhangwagens, mits de toegestane maximummassa van de combinatie ten hoogste 3.500 kilo is",
+      "Alleen aanhangwagens met een toegestane maximummassa van ten hoogste 750 kilo",
+      "Alleen aanhangwagens met een witte kentekenplaat"
+    ],
+    "id": 5,
+    "question": "Welke aanhangwagens mag je trekken met rijbewijs B?",
+    "answer": "Alle aanhangwagens, mits de toegestane maximummassa van de combinatie ten hoogste 3.500 kilo is",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een witte kentekenplaat",
+      "Een blauwe kentekenplaat",
+      "Een gele kentekenplaat"
+    ],
+    "id": 6,
+    "question": "Welk kentekenplaat moet een aanhangwagen met een toegestane maximummassa van 1500 kilogram hebben?",
+    "answer": "Een gele kentekenplaat",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 7,
+    "question": "Wat is de maximale toegestane lengte in meters van een auto met aanhangwagen?",
+    "why": "De maximale toegestane lengte van een auto met aanhangwagen is 18 meter.",
+    "answer": [],
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja, dat zorgt voor extra veiligheid",
+      "Het maakt niet uit",
+      "Nee, dat is niet verstandig"
+    ],
+    "id": 8,
+    "question": "Is het verstandig om een aanhangwagen met een losbreekreminrichting en hulpkoppeling te verbinden?",
+    "answer": "Nee, dat is niet verstandig",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 9,
+    "question": "Moet een middenasaanhangwagen met een toegestane maximummassa van meer dan 750 kilogram voorzien zijn van een losbreekreminrichting?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 10,
+    "question": "Wat is de maximale toegestane hoogte van een aanhangwagen? Geef het antwoord in meters.",
+    "why": "De maximale toegestane hoogte van een aanhangwagen of personenauto is 4 meter.",
+    "answer": [],
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

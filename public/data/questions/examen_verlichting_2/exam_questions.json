@@ -1,0 +1,138 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "De kentekenplaten aan de voor- en achterkant",
+      "De kentekenplaat aan de voorkant",
+      "De kentekenplaat aan de achterkant"
+    ],
+    "id": 1,
+    "question": "Welke kentekenplaat moet in het donker verlicht zijn?",
+    "answer": "De kentekenplaat aan de achterkant",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het groot licht of dimlicht",
+      "Het groot licht, dimlicht of stadslicht",
+      "Het groot licht, dimlicht, stadslicht of mistlicht"
+    ],
+    "id": 2,
+    "question": "Het achterlicht staat aan. Welk licht moet gelijktijdig branden?",
+    "answer": "Het groot licht, dimlicht, stadslicht of mistlicht",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Door hevige regenval is het zicht minder dan 50 meter. Je voert mistlicht achter. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je moet het dimlicht en het achterlicht gebruiken",
+      "Je hoeft geen verlichting te gebruiken",
+      "Je moet het stadslicht en het achterlicht gebruiken"
+    ],
+    "id": 4,
+    "question": "Je staat hier stil. Welke bewering is waar?",
+    "answer": "Je hoeft geen verlichting te gebruiken",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "100 meter",
+      "25 meter",
+      "150 meter"
+    ],
+    "id": 5,
+    "question": "Je rijdt op een 50 km/uur weg. Je wilt afslaan bij de kruising. Hoeveel meter van tevoren geef je richting aan?",
+    "answer": "100 meter",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Je rijdt hier met groot licht. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 7,
+    "question": "Mag je overdag groot licht voeren?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dimlichten",
+      "Ik heb nu geen verlichting nodig omdat de zon schijnt",
+      "Stadslichten"
+    ],
+    "id": 8,
+    "question": "De zon schijnt fel tussen de bomen door. Welke verlichting zet je aan?",
+    "answer": "Dimlichten",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Grootlicht",
+      "Dimlicht",
+      "Stadslicht"
+    ],
+    "id": 9,
+    "question": "Het is overdag, maar door de regen is het zicht slecht. Welke verlichting zet je aan?",
+    "answer": "Dimlicht",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "Vanwege hevige sneeuwval voer je mistverlichting aan de voorkant. Moet je nu ook de dimlichten aanzetten?",
+    "answer": "Nee",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

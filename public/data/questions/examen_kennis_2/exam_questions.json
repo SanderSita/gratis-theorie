@@ -1,0 +1,143 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Eerst na 3 jaar, dan na 2 jaar, dan weer na 2 jaar, daarna elk jaar",
+      "Eerst na 3 jaar, dan na 2 jaar, daarna elk jaar",
+      "Eerst na 4 jaar, dan na 2 jaar, dan weer na 2 jaar, daarna elk jaar"
+    ],
+    "id": 1,
+    "question": "Wanneer moet een nieuw gekochte benzineauto APK worden gekeurd?",
+    "answer": "Eerst na 4 jaar, dan na 2 jaar, dan weer na 2 jaar, daarna elk jaar",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alle bestuurders",
+      "Alle niet-motorvoertuigen, motorvoertuigen en voorrangsvoertuigen",
+      "Alle deelnemers van het verkeer"
+    ],
+    "id": 2,
+    "question": "Wat zijn weggebruikers?",
+    "answer": "Alle deelnemers van het verkeer",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Gesloten voor voertuigen waarvan de aslast hoger is dan aangegeven",
+      "Gesloten voor voertuigen (en samenstellen) waarvan de totaalmassa hoger is dan aangegeven",
+      "Gesloten voor voertuigen die hoger zijn dan aangegeven (met inbegrip van lading)"
+    ],
+    "id": 3,
+    "question": "Wat betekent dit bord?",
+    "answer": "Gesloten voor voertuigen (en samenstellen) waarvan de totaalmassa hoger is dan aangegeven",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Autoweg",
+      "Inhaalverbod",
+      "File"
+    ],
+    "id": 4,
+    "question": "Wat betekent dit bord?",
+    "answer": "File",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Steile helling",
+      "Slecht wegdek",
+      "Verkeersdrempel"
+    ],
+    "id": 5,
+    "question": "Wat betekent dit bord?",
+    "answer": "Verkeersdrempel",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Brommobielen",
+      "Motorfietsen",
+      "Snorfietsen",
+      "Auto's"
+    ],
+    "id": 6,
+    "question": "Welke voertuigen zijn niet-motorvoertuigen?",
+    "answer": ["Snorfietsen"],
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Bij beide verkeersborden",
+      "Bij verkeersbord B",
+      "Bij verkeersbord A"
+    ],
+    "id": 7,
+    "question": "Je nadert een t-splitsing. Bij welk verkeersbord moet je verplicht de richting van het bord volgen?",
+    "answer": "Bij verkeersbord B",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Zone met minimumsnelheid",
+      "Zone met maximumsnelheid",
+      "Adviessnelheid"
+    ],
+    "id": 8,
+    "question": "Wat betekent dit bord?",
+    "answer": "Zone met maximumsnelheid",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "150 meter",
+      "100 meter",
+      "200 meter"
+    ],
+    "id": 9,
+    "question": "Welke afstand ben je ongeveer verwijderd van de spoorwegovergang als je dit verkeersbord voorbij bent gereden?",
+    "answer": "150 meter",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op je rijbewijs staat hoeveel de aanhangwagen maximaal mag wegen",
+      "De aanhangwagen mag niet zwaarder zijn dan het trekkend vermogen van de auto",
+      "De aanhangwagen mag niet zwaarder zijn dan de auto"
+    ],
+    "id": 10,
+    "question": "Je wilt met een aanhangwagen rijden. Welke bewering is waar?",
+    "answer": "De aanhangwagen mag niet zwaarder zijn dan het trekkend vermogen van de auto",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

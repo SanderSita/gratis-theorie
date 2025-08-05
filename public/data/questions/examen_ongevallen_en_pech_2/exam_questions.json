@@ -1,0 +1,141 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een winterband",
+      "Een brede band",
+      "Een gewone band"
+    ],
+    "id": 1,
+    "question": "Met welke band is kans op aquaplaning het grootst?",
+    "answer": "Een brede band",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Eerst maak je de gordel los. Dan zet je de lichten aan. Daarna doe je het zijraam open en verlaat je de auto.",
+      "Eerst open je het zijraam. Dan maak je de gordel los. Daarna verlaat je de auto.",
+      "Eerst zet je de lichten aan. Dan maak je de gordel los. Daarna doe je het zijraam open en verlaat je de auto."
+    ],
+    "id": 2,
+    "question": "Je auto is te water geraakt. Wat moet je doen?",
+    "answer": "Eerst zet je de lichten aan. Dan maak je de gordel los. Daarna doe je het zijraam open en verlaat je de auto.",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Mag je in de plaats van de gevarendriehoek ook de knipperende waarschuwingslichten gebruiken bij pech?",
+    "answer": "Ja",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je rijdt er met een ruime afstand langs en je doet verder niets",
+      "Je belt 112",
+      "Je stopt op de vluchtstrook en haalt het van de weg af"
+    ],
+    "id": 4,
+    "question": "Er liggen bakstenen op de rijbaan. Wat moet je doen?",
+    "answer": "Je belt 112",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je stopt op de vluchtstrook",
+      "Doorrijden naar een afrit",
+      "Je stopt op de rijbaan en belt de politie"
+    ],
+    "id": 5,
+    "question": "Er is na een aanrijding op de snelweg blikschade ontstaan. Wat doe je?",
+    "answer": "Doorrijden naar een afrit",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Sturen gaat veel lichter",
+      "Sturen is niet meer mogelijk",
+      "Sturen gaat veel zwaarder"
+    ],
+    "id": 6,
+    "question": "Tijdens het slepen heeft de auto geen stuurbekrachtiging meer. Welke bewering is waar?",
+    "answer": "Sturen gaat veel zwaarder",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "In het dashboardkastje",
+      "Rechts van de bestuurder",
+      "Links van de bestuurder"
+    ],
+    "id": 7,
+    "question": "Waar kun je een veiligheidshamer het beste bewaren?",
+    "answer": "Rechts van de bestuurder",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "In de bocht de sleepkabel zo los mogelijk laten hangen",
+      "De sleepkabel in de bocht strak proberen te houden",
+      "De sleepkabel in de bocht iets los proberen te houden"
+    ],
+    "id": 8,
+    "question": "Hoe kun je het beste een bocht nemen als je een andere auto sleept?",
+    "answer": "De sleepkabel in de bocht strak proberen te houden",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je belt 112",
+      "Je belt 911",
+      "Je belt 0900-8844"
+    ],
+    "id": 9,
+    "question": "Welk nummer bel je als je niet-spoedeisende hulp nodig hebt?",
+    "answer": "Je belt 0900-8844",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ongeveer 30 keer per minuut",
+      "Ongeveer 12 keer per minuut",
+      "Zo vaak mogelijk"
+    ],
+    "id": 10,
+    "question": "Mond-op-mond beademing is nodig wanneer iemand niet meer ademt. Hoe vaak moet er in de longen van het slachtoffer worden geblazen?",
+    "answer": "Ongeveer 12 keer per minuut",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

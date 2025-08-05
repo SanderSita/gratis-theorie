@@ -1,0 +1,134 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "2,55 meter",
+      "2,45 meter",
+      "3 meter"
+    ],
+    "id": 1,
+    "question": "Wat is de maximale toegestane breedte van een voertuig inclusief ondeelbare lading?",
+    "answer": "3 meter",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 2,
+    "question": "De fietsen steken rechts 25 centimeter en links 5 centimeter uit. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dat staat op het kentekenbewijs",
+      "Dat staat in het instructieboekje",
+      "Dat staat op de dakdragers"
+    ],
+    "id": 3,
+    "question": "Je wilt lading op het dak van je auto vervoeren. Hoeveel mag de lading maximaal wegen?",
+    "answer": "Dat staat in het instructieboekje",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 4,
+    "question": "Je hebt uitstekende lading maar geen markeringsbord. Mag je in plaats daarvan een vlag gebruiken?",
+    "answer": "Nee",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Er steekt lading 1,5 meter aan de achterkant uit. Moet de lading worden gemarkeerd met een markeringsbord?",
+    "answer": "Ja",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Er steekt ondeelbare lading 15 cm uit aan de zijkanten van je aanhangwagen. Moet je een markeringsbord gebruiken?",
+    "answer": "Ja",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 7,
+    "question": "Het wordt donker. Moet het markeringsbord in het donker worden voorzien van licht?",
+    "answer": "Ja",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Er steekt lading een halve meter aan de voorkant van de aanhangwagen uit. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 9,
+    "question": "Vanaf de achterkant steekt de lading meer dan 1 meter uit en vanaf de achterste as steekt de lading 3,5 meter uit. De aanhangwagen is 6 meter lang. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "De auto is met inbegrip van de lading 2,30 meter breed. Mag de auto op een onverharde weg rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op een naar benedenlopende weg in dichte mist",
+      "Op een gladde, naar benedenlopende weg",
+      "Op een omhooglopende weg wanneer het regent"
+    ],
+    "id": 1,
+    "question": "Waar is de stopafstand het grootst?",
+    "answer": "Op een gladde, naar benedenlopende weg",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen op weg B",
+      "Alleen op weg A"
+    ],
+    "id": 2,
+    "question": "Op welke weg mag je 100 kilometer per uur rijden?",
+    "answer": "Alleen op weg B",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Tot het verkeersbord einde zone maximumsnelheid",
+      "Tot er een andere maximumsnelheid wordt aangegeven",
+      "Tot de volgende kruising"
+    ],
+    "id": 3,
+    "question": "Tot waar geldt de zone maximumsnelheid?",
+    "answer": "Tot het verkeersbord einde zone maximumsnelheid",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 4,
+    "question": "Welke maximumsnelheid geldt hier?",
+    "why": "Dit is een autoweg. Hier mogen auto's 100 km/u, tenzij er een lagere maximumsnelheid wordt aangegeven.",
+    "answer": [],
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 5,
+    "question": "Is de snelheid die staat aangegeven op een matrixbord een adviessnelheid?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 6,
+    "question": "Wat is de maximumsnelheid voor een voertuig met aanhanger buiten de bebouwde kom op een gewone weg?",
+    "why": "Buiten de bebouwde kom mag een voertuig 80 km/u, tenzij er een lagere maximumsnelheid wordt aangegeven.",
+    "answer": [],
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 7,
+    "question": "Je rijdt om 9 uur 's avonds op de autosnelweg. Hoe snel mag je nu rijden?",
+    "why": "Het verkeersbord geeft aan dat er een maximumsnelheid van 100 km/h geldt. Er is geen onderbord dat aangeeft dat de maximumsnelheid alleen tussen bepaalde tijden geldt. Hier mag je dus nooit sneller dan 100 km/h rijden.",
+    "answer": [],
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 8,
+    "question": "Hoe snel mag je op deze weg rijden?",
+    "why": "De verkeersborden geven aan dat je op een autoweg binnen de bebouwde kom rijdt. Op een autoweg binnen de bebouwde kom geldt een maximumsnelheid van 50 km/h, tenzij een andere snelheid is aangegeven.",
+    "answer": [],
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 9,
+    "question": "Je rijdt in de middag op de snelweg. Deze borden staan dubbel geplaatst. Hoe snel mag je nu rijden?",
+    "why": "Je mag 100 km/uur rijden. De borden geven aan dat de maximumsnelheid 100 kilometer per uur is tussen 06:00 en 19:00 uur en 120 kilometer per uur is in de avond en in de nacht tussen 19:00 en 06:00. \n\nOmdat de maximumsnelheid op de snelweg overdag lager ligt dan in de nacht, hebben veel snelheidsborden een onderbord met een tijdvak.  De borden kunnen ook dubbel worden geplaatst zodat je kunt zien wat de maximumsnelheid overdag is en wat de maximumsnelheid na 19:00 is.",
+    "answer": [],
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 10,
+    "question": "Wat is de maximumsnelheid binnen de bebouwde kom op een gewone weg?",
+    "why": "Binnen de bebouwde kom mag een voertuig 50 km/u, tenzij er een lagere maximumsnelheid wordt aangegeven.",
+    "answer": [],
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

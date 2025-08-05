@@ -1,0 +1,733 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 1,
+    "question": "Je voertuig is in het water geraakt. Je zet meteen het contact uit. Is dat verstandig?",
+    "answer": "Nee",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen bij splitsing B",
+      "Bij splitsing A en B",
+      "Alleen bij splitsing A"
+    ],
+    "id": 2,
+    "question": "Bij welke splitsing kun je auto's van rechts verwachten?",
+    "answer": "Alleen bij splitsing A",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "bus",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "30%",
+            "left": "20%"
+        }
+      },
+      {
+        "id": "tram",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "20%",
+            "left": "70%"
+        }
+      },
+      {
+        "id": "auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "80%",
+            "left": "90%"
+        }
+      }
+    ],
+    "correct_order": ["tram", "auto", "bus"],
+    "id": 3,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 4,
+    "question": "Kost het rijden met een fietsenrek meer brandstof?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 5,
+    "question": "Mag je de motorfietser zo inhalen?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "drag_order",
+    "items": [
+      {
+        "id": "scooter",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "30%",
+            "left": "30%"
+        }
+      },
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "80%",
+            "left": "62%"
+        }
+      },
+      {
+        "id": "blauwe-auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "23%",
+            "left": "53%"
+        }
+      }
+    ],
+    "correct_order": ["scooter", "blauwe-auto", "lesauto"],
+    "id": 6,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 7,
+    "question": "Je haalt hier in. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 8,
+    "question": "Moet de voetganger stoppen?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "5 procent",
+      "25 procent",
+      "15 procent"
+    ],
+    "id": 9,
+    "question": "Hoeveel procent van de verkeersongevallen is het gevolg van vermoeidheid?",
+    "answer": "15 procent",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Fietsers en snorfietsers",
+      "Fietsers, snorfietsers, bromfietsers en brommobielen",
+      "Fietsers, snorfietsers en bromfietsers"
+    ],
+    "id": 10,
+    "question": "Voor wie is een fietsstrook bestemd?",
+    "answer": "Fietsers en snorfietsers",
+    "image": {
+      "url": "10.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 11,
+    "question": "De rode lichten knipperen. Komt er een trein aan?",
+    "answer": "Ja",
+    "image": {
+      "url": "11.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen bij bord B",
+      "Bij bord A en B",
+      "Alleen bij bord A"
+    ],
+    "id": 12,
+    "question": "Waar mag je stilstaan voor het onmiddellijk laden en lossen van goederen?",
+    "answer": "Alleen bij bord B",
+    "image": {
+      "url": "12.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Binnen en buiten de bebouwde kom",
+      "Nooit",
+      "Alleen binnen de bebouwde kom"
+    ],
+    "id": 13,
+    "question": "Waar kun je een brommobiel tegenkomen op de rijbaan?",
+    "answer": "Binnen en buiten de bebouwde kom",
+    "image": {
+      "url": "13.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 14,
+    "question": "Je parkeert hier. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "14.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 15,
+    "question": "Je staat met pech stil in een tunnel. Kun je het beste in de auto wachten op de hulpdiensten?",
+    "answer": "Nee",
+    "image": {
+      "url": "15.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Jij",
+      "De fietser"
+    ],
+    "id": 16,
+    "question": "Wie mag er als laatste?",
+    "answer": "Jij",
+    "image": {
+      "url": "16.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 17,
+    "question": "Je wilt hier rechts afslaan. Sta je zo goed voorgesorteerd?",
+    "answer": "Nee",
+    "image": {
+      "url": "17.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 18,
+    "question": "Dit controlelampje brandt. Staat de airbag nu uit?",
+    "answer": "Nee",
+    "image": {
+      "url": "18.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Die rijdt langzaam en voorzichtig",
+      "Die neemt altijd voorrang als die voorrang heeft",
+      "Die houdt rekening met de fouten van anderen"
+    ],
+    "id": 19,
+    "question": "Wat doet een goede bestuurder in het verkeer?",
+    "answer": "Die houdt rekening met de fouten van anderen",
+    "image": {
+      "url": "19.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "2 meter",
+      "1 meter",
+      "0 meter"
+    ],
+    "id": 20,
+    "question": "Je wilt lading op het dak van je auto vervoeren. Hoe ver mag de lading aan de achterkant maximaal uitsteken?",
+    "answer": "1 meter",
+    "image": {
+      "url": "20.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen in situatie A",
+      "Alleen in situatie B",
+      "In beide situaties"
+    ],
+    "id": 21,
+    "question": "In welke situatie moet je voorrang verlenen?",
+    "answer": "Alleen in situatie B",
+    "image": {
+      "url": "21.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen beginnende bestuurders",
+      "Alleen ervaren bestuurders",
+      "Beginnende en ervaren bestuurders"
+    ],
+    "id": 22,
+    "question": "Wie kan een Educatieve Maatregel Gedrag en verkeer (EMG) worden opgelegd?",
+    "answer": "Beginnende en ervaren bestuurders",
+    "image": {
+      "url": "22.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op het fiets/bromfietspad en anders op de rijbaan",
+      "Op het fietspad",
+      "Op het fiets/bromfietspad of het fietspad"
+    ],
+    "id": 23,
+    "question": "Waar moet een speed-pedelec rijden?",
+    "answer": "Op het fiets/bromfietspad en anders op de rijbaan",
+    "image": {
+      "url": "23.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 24,
+    "question": "Aan de linkerkant van de weg is een parkeervak. Mag je daar parkeren als je tegemoetkomend verkeer moet kruisen?",
+    "answer": "Ja",
+    "image": {
+      "url": "24.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "(Brom)fietsers moeten hier vanaf de weg het (brom)fietspad oprijden",
+      "(Brom)fietsers kunnen hier de weg oversteken",
+      "(Brom)fietsers kunnen hier vanaf het (brom)fietspad de weg oprijden"
+    ],
+    "id": 25,
+    "question": "Waar houd je rekening mee als je dit verkeersbord ziet?",
+    "answer": "(Brom)fietsers kunnen hier vanaf het (brom)fietspad de weg oprijden",
+    "image": {
+      "url": "25.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Landbouwvoertuigen",
+      "Fietsers",
+      "Gehandicaptenvoertuigen",
+      "Bussen"
+    ],
+    "id": 26,
+    "question": "Welke voertuigen mogen deze weg niet inrijden?",
+    "answer": [
+      "Landbouwvoertuigen",
+      "Bussen"
+    ],
+    "image": {
+      "url": "26.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 27,
+    "question": "Moet je een EHBO-trommel verplicht bij je hebben?",
+    "answer": "Nee",
+    "image": {
+      "url": "27.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Situatie A",
+      "In deze situatie moet je wachten tot de tegemoetkomende auto is afgeslagen",
+      "Situatie B"
+    ],
+    "id": 28,
+    "question": "Wat heeft in deze situatie de voorkeur?",
+    "answer": "Situatie B",
+    "image": {
+      "url": "28.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 29,
+    "question": "Je wilt het langzaam rijdende busje inhalen. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "29.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "In een vloeiende lijn rechtstreeks naar de middelste rijstrook rijden",
+      "Zoveel mogelijk op de linkerrijstrook rijden",
+      "Eerst op de rechterrijstrook achter de vrachtauto rijden en pas daarna inhalen"
+    ],
+    "id": 30,
+    "question": "De vrachtauto rijdt langzaam. Je gaat invoegen. Wat doe je?",
+    "answer": "Eerst op de rechterrijstrook achter de vrachtauto rijden en pas daarna inhalen",
+    "image": {
+      "url": "30.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een negatieve wegverkanting heeft een positieve invloed op de wegligging",
+      "Een positieve wegverkanting heeft een negatieve invloed op de wegligging",
+      "Een positieve wegverkanting heeft een positieve invloed op de wegligging"
+    ],
+    "id": 31,
+    "question": "Welke bewering is waar?",
+    "answer": "Een positieve wegverkanting heeft een positieve invloed op de wegligging",
+    "image": {
+      "url": "31.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 32,
+    "question": "Wat is de wettelijke maximumsnelheid voor een auto op een autosnelweg?",
+    "why": "De wettelijke maximumsnelheid is nog steeds 130 km/uur. Als er geen snelheid staat aangegeven, geldt op de snelweg de wettelijke maximumsnelheid van 130 km /uur. Verkeersborden geven de maximumsnelheid aan.  In maart 2020 zijn de snelheidsborden aangepast om de maximale snelheid te verlagen tot 100 km/u gedurende de dag tussen 06:00 en 19:00. De maximale snelheid blijft tussen 19:00 en 06:00 hetzelfde op snelwegen waar je 120 en 130 km/h mag rijden.",
+    "answer": "130",
+    "image": {
+      "url": "32.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het slachtoffer laten liggen",
+      "Het slachtoffer in de stabiele zijligging plaatsen",
+      "Het slachtoffer wakker proberen te maken"
+    ],
+    "id": 33,
+    "question": "Een verkeersslachtoffer heeft een normale ademhaling en ligt bewusteloos op zijn rug. Wat kun je het beste doen?",
+    "answer": "Het slachtoffer laten liggen",
+    "image": {
+      "url": "33.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dat je de uitvoegstrook oprijdt met dezelfde snelheid als het verkeer op de rechterrijstrook",
+      "Het maakt niet uit waar je de uitvoegstrook oprijdt, als je maar op tijd op de uitrit bent",
+      "Dat er voertuigen kunnen stilstaan op de uitvoegstrook"
+    ],
+    "id": 34,
+    "question": "Je wilt hier de uitvoegstrook oprijden. Waar moet je rekening mee houden?",
+    "answer": "Dat er voertuigen kunnen stilstaan op de uitvoegstrook",
+    "image": {
+      "url": "34.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Op de middelste rijstrook blijven rijden",
+      "De auto langzaam rechts inhalen",
+      "Dicht achter de blauwe auto rijden en met signalen aangeven dat je wilt inhalen"
+    ],
+    "id": 35,
+    "question": "De blauwe auto rijdt langzaam op de linkerrijstrook. Wat doe je?",
+    "answer": "Op de middelste rijstrook blijven rijden",
+    "image": {
+      "url": "35.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als je alcohol of drugs hebt gebruikt",
+      "Als er meerdere bochten achter elkaar zijn",
+      "Als je op een onoverzichtelijke rotonde rijdt"
+    ],
+    "id": 36,
+    "question": "Wanneer kun je minder goed waarnemen?",
+    "answer": "Als je alcohol of drugs hebt gebruikt",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 37,
+    "question": "Het is winter en er ligt sneeuw op de weg. Zijn winterbanden nu verplicht?",
+    "answer": "Nee",
+    "image": {
+      "url": "37.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Markering A",
+      "Markering B"
+    ],
+    "id": 38,
+    "question": "Welke markering staat op de achterkant van een vrachtauto?",
+    "answer": "Markering B",
+    "image": {
+      "url": "38.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen bestuurders van motorvoertuigen",
+      "Alleen bestuurders",
+      "Alle weggebruikers"
+    ],
+    "id": 39,
+    "question": "Je wilt keren. Wie moet je voor laten gaan?",
+    "answer": "Alle weggebruikers",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een passagier heeft geen gordel om",
+      "Er is een probleem met de stuurbekrachtiging",
+      "De airbag is uitgeschakeld"
+    ],
+    "id": 40,
+    "question": "Dit lampje staat aan. Wat betekent dat?",
+    "answer": "De airbag is uitgeschakeld",
+    "image": {
+      "url": "40.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ventieldopjes zorgen ervoor dat het ventiel op zijn plaats blijft zitten",
+      "Ventieldopjes houden de lucht in de band",
+      "Ventieldopjes zorgen ervoor dat er geen vuil in het ventiel komt"
+    ],
+    "id": 41,
+    "question": "Waar zijn ventieldopjes voor?",
+    "answer": "Ventieldopjes zorgen ervoor dat er geen vuil in het ventiel komt",
+    "image": {
+      "url": "41.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen in situatie B",
+      "In situatie A en B",
+      "Alleen in situatie A"
+    ],
+    "id": 42,
+    "question": "In welke situatie moet je de voetganger voor laten gaan?",
+    "answer": "Alleen in situatie B",
+    "image": {
+      "url": "42.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 43,
+    "question": "Mag je met een auto waarvan de toerenteller niet werkt op de openbare weg rijden?",
+    "answer": "Ja",
+    "image": {
+      "url": "43.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een slecht wegdek",
+      "Een te zwaar beladen voertuig",
+      "Een onjuiste bandenspanning"
+    ],
+    "id": 44,
+    "question": "Wat is de meest voorkomende oorzaak van een klapband?",
+    "answer": "Een onjuiste bandenspanning",
+    "image": {
+      "url": "44.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Jij",
+      "De zwarte auto"
+    ],
+    "id": 45,
+    "question": "Je wilt invoegen en de zwarte auto naast je wil uitvoegen. Wie gaat er voor?",
+    "answer": "De zwarte auto",
+    "image": {
+      "url": "45.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Waar de gele auto rijdt",
+      "Waar de blauwe auto rijdt",
+      "Waar de groene auto rijdt"
+    ],
+    "id": 46,
+    "question": "Je wilt driekwart rond op de rotonde. Waar geef je richting aan naar rechts?",
+    "answer": "Waar de blauwe auto rijdt",
+    "image": {
+      "url": "46.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 47,
+    "question": "Je wilt naar Amsterdam rijden. Rij je hier goed?",
+    "answer": "Nee",
+    "image": {
+      "url": "47.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voor overstappers op het openbaar vervoer",
+      "Voor vergunninghouders",
+      "Voor carpoolers"
+    ],
+    "id": 48,
+    "question": "Voor wie is deze parkeergelegenheid bestemd?",
+    "answer": "Voor overstappers op het openbaar vervoer",
+    "image": {
+      "url": "48.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je verblindt jezelf",
+      "Je verblindt tegemoetkomend verkeer",
+      "Je verblindt jezelf en tegemoetkomend verkeer"
+    ],
+    "id": 49,
+    "question": "Wat gebeurt er als je groot licht aanzet als het erg hard sneeuwt?",
+    "answer": "Je verblindt jezelf en tegemoetkomend verkeer",
+    "image": {
+      "url": "49.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen als diegene op het trottoir loopt",
+      "Nooit",
+      "Altijd"
+    ],
+    "id": 50,
+    "question": "Wanneer is iemand die met een bromfiets loopt volgens de wet een voetganger?",
+    "answer": "Altijd",
+    "image": {
+      "url": "50.jpg"
+    }
+  }
+]

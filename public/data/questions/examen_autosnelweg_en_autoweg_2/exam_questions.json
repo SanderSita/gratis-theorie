@@ -1,0 +1,135 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 1,
+    "question": "Je wilt de groene auto rechts inhalen. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dat je een beetje naar rechts uitwijkt zodat de motorrijder jou veilig links in kan halen",
+      "Dat je in het midden van de rijstrook blijft rijden",
+      "Dat je een beetje naar links uitwijkt zodat de motorrijder jou veilig rechts in kan halen"
+    ],
+    "id": 2,
+    "question": "Je rijdt in een langzaam rijdende file. Wat verwacht de motorrijder van jou?",
+    "answer": "Dat je een beetje naar links uitwijkt zodat de motorrijder jou veilig rechts in kan halen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Je moet stoppen voor een belangrijk telefoongesprek. Mag dat hier?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als er een file ontstaat",
+      "Als je de snelweg wilt verlaten",
+      "Als je de hulpdiensten moet bellen vanwege een noodgeval"
+    ],
+    "id": 4,
+    "question": "In welke situatie maak je gebruik van de vluchtstrook?",
+    "answer": "Als je de hulpdiensten moet bellen vanwege een noodgeval",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_5_option_1.svg",
+      "question_5_option_2.svg"
+    ],
+    "id": 5,
+    "question": "Op welke weg kun je kruisend verkeer verwachten?",
+    "answer": 0,
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 6,
+    "question": "Is een uitrijstrook onderdeel van de doorgaande rijbaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 7,
+    "question": "Je voegt hier in met 60 km/h. Is dat veilig?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 8,
+    "question": "Je rijdt op een rijstrook met daarboven dit matrixbord. Is dat toegestaan?",
+    "answer": "Ja",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 9,
+    "question": "Mag je de vrachtauto hier inhalen?",
+    "answer": "Ja",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Terugschakelen en op het allerlaatst afremmen",
+      "De alarmlichten aanzetten en rustig afremmen",
+      "Rustig afremmen"
+    ],
+    "id": 10,
+    "question": "Wat doe je als je op de autosnelweg rijdt en ziet dat er een file ontstaat?",
+    "answer": "De alarmlichten aanzetten en rustig afremmen",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

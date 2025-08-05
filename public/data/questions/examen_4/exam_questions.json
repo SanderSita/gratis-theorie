@@ -1,0 +1,683 @@
+[
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_1_option_1.svg",
+      "question_1_option_2.svg",
+      "question_1_option_3.svg",
+      "question_1_option_4.svg"
+    ],
+    "id": 1,
+    "question": "Bij welk verkeersbord moet je verkeer uit tegengestelde richting voor laten gaan?",
+    "answer": 0,
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je rijdt langzamer en voorzichtiger",
+      "Jouw rijstijl kan andere weggebruikers verrassen",
+      "Je houdt meer rekening met andere weggebruikers"
+    ],
+    "id": 2,
+    "question": "Wat kan er gebeuren als je drugs gebruikt en gaat autorijden?",
+    "answer": "Jouw rijstijl kan andere weggebruikers verrassen",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je wacht tot de voorligger de volgafstand groter maakt",
+      "Je gebruikt licht- of geluidssignalen om kenbaar te maken dat de volgafstand te kort is",
+      "Je vergroot de afstand tussen jou en de voorligger"
+    ],
+    "id": 3,
+    "question": "Een bestuurder heeft je net ingehaald en rijdt vlak voor je de rijstrook op. Hoe reageer je?",
+    "answer": "Je vergroot de afstand tussen jou en de voorligger",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Dan bega je een overtreding",
+      "Dan pleeg je een misdrijf"
+    ],
+    "id": 4,
+    "question": "Je rijbevoegdheid is ontzegd. Wat gebeurt er als je toch in een auto gaat rijden?",
+    "answer": "Dan pleeg je een misdrijf",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het slachtoffer in dezelfde houding laten liggen",
+      "Het slachtoffer in de stabiele zijligging plaatsen",
+      "Het slachtoffer wakker maken door aan de schouders te schudden"
+    ],
+    "id": 5,
+    "question": "Een verkeersslachtoffer is bewusteloos geraakt en kan niet goed ademen. Er is geen telefoon in de buurt. Wat doe je?",
+    "answer": "Het slachtoffer in de stabiele zijligging plaatsen",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je remt voorzichtig",
+      "Je gaat sneller rijden",
+      "Je gaat een rijstrook naar links"
+    ],
+    "id": 6,
+    "question": "Wat doe je in deze situatie?",
+    "answer": "Je gaat een rijstrook naar links",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door nooit boven de maximumsnelheid te rijden",
+      "Door langzaam en voorzichtig te rijden",
+      "Door voorzichtig te rijden"
+    ],
+    "id": 7,
+    "question": "Hoe houd je rekening met andere weggebruikers?",
+    "answer": "Door voorzichtig te rijden",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 8,
+    "question": "Je auto weegt 2600 kilo. Mag je met rijbewijs B een aanhangwagen met een gewicht van 1000 kilo vervoeren?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Sturen gaat veel lichter",
+      "Sturen gaat veel zwaarder",
+      "Sturen is niet meer mogelijk"
+    ],
+    "id": 9,
+    "question": "Tijdens het slepen heeft de auto geen stuurbekrachtiging meer. Welke bewering is waar?",
+    "answer": "Sturen gaat veel zwaarder",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "5 jaar",
+      "3 maanden",
+      "1 jaar"
+    ],
+    "id": 10,
+    "question": "Hoe lang kan je rijbewijs worden ingehouden voor het rijden onder invloed van drugs of alcohol?",
+    "answer": "5 jaar",
+    "image": {
+      "url": "10.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 11,
+    "question": "Je wilt hier stoppen om een passagier in te laten stappen. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "11.jpg"
+    }
+  },
+  {
+    "type": "invulvraag",
+    "id": 12,
+    "question": "De weg ligt buiten de bebouwde kom. Hoe snel mag je nu?",
+    "why": "Het verkeersbord geeft het einde van een 60 km/uur zone aan. Na dit bord is de snelheid buiten de bebouwde kom 80 km/uur.",
+    "answer": "60",
+    "image": {
+      "url": "12.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je bereidt je alvast voor door vlakbij de asstreep te gaan rijden",
+      "Je gebruikt lichtsignalen om aan te geven dat je wilt inhalen",
+      "Je wacht net zo lang tot er een veilig moment is om in te halen"
+    ],
+    "id": 13,
+    "question": "Je wilt inhalen, want je voorligger rijdt erg langzaam. Wat doe je?",
+    "answer": "Je wacht net zo lang tot er een veilig moment is om in te halen",
+    "image": {
+      "url": "13.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 14,
+    "question": "Dit lampje staat aan. Neemt hierdoor het verbruik toe?",
+    "answer": "Ja",
+    "image": {
+      "url": "14.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 15,
+    "question": "Moet je hier rekening houden met slipgevaar?",
+    "answer": "Nee",
+    "image": {
+      "url": "15.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 16,
+    "question": "Kun je in de winter het beste de motor eerst even stationair laten opwarmen voordat je wegrijdt?",
+    "answer": "Nee",
+    "image": {
+      "url": "16.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je moet stoppen indien redelijkerwijs mogelijk",
+      "Als er geen ander verkeer is mag je doorrijden",
+      "Je moet stoppen"
+    ],
+    "id": 17,
+    "question": "Het verkeerslicht is rood. Welke bewering is waar?",
+    "answer": "Je moet stoppen",
+    "image": {
+      "url": "17.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De auto",
+      "De uitvaartstoet"
+    ],
+    "id": 18,
+    "question": "Wie mag er als eerste?",
+    "answer": "De auto",
+    "image": {
+      "url": "18.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 19,
+    "question": "Je parkeert je auto zo. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "19.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Jonge en oude bestuurders zijn even vaak betrokken bij een ongeval",
+      "Oude bestuurders",
+      "Jonge bestuurders"
+    ],
+    "id": 20,
+    "question": "Welke groep is vaker betrokken bij een verkeersongeval?",
+    "answer": "Jonge bestuurders",
+    "image": {
+      "url": "20.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 21,
+    "question": "Moet de nummerplaat van de fietsendrager 's nachts verlicht zijn?",
+    "answer": "Ja",
+    "image": {
+      "url": "21.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 22,
+    "question": "Je haalt hier in. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "22.mp4"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 23,
+    "question": "Je wilt de vrachtauto inhalen. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "23.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alle weggebruikers",
+      "Alleen bestuurders van motorvoertuigen",
+      "Alleen bestuurders"
+    ],
+    "id": 24,
+    "question": "Je wilt achteruitrijden. Wie moet je voor laten gaan?",
+    "answer": "Alle weggebruikers",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 25,
+    "question": "Mag je hier stoppen om een passagier uit te laten stappen?",
+    "answer": "Ja",
+    "image": {
+      "url": "25.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je mag niet parkeren in de tweede helft van de maand",
+      "Je mag alleen parkeren op even dagen",
+      "Het verkeersbord geldt van de 1e tot en met de 15e van de maand"
+    ],
+    "id": 26,
+    "question": "Wat betekent dit verkeersbord?",
+    "answer": "Het verkeersbord geldt van de 1e tot en met de 15e van de maand",
+    "image": {
+      "url": "26.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Voorrang verlenen aan andere weggebruikers als het niet nodig is",
+      "Niet harder rijden dan de maximumsnelheid",
+      "Langzaam rijden als het hard regent"
+    ],
+    "id": 27,
+    "question": "Wat is niet goed voor de doorstroming van het verkeer?",
+    "answer": "Voorrang verlenen aan andere weggebruikers als het niet nodig is",
+    "image": {
+      "url": ""
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je hebt slecht zicht op de zijwegen",
+      "Scherpe bochten",
+      "Tegenliggers"
+    ],
+    "id": 28,
+    "question": "Waar moet je op deze weg extra rekening mee houden?",
+    "answer": "Je hebt slecht zicht op de zijwegen",
+    "image": {
+      "url": "28.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_29_option_1.svg",
+      "question_29_option_2.svg",
+      "question_29_option_3.svg",
+      "question_29_option_4.svg"
+    ],
+    "id": 29,
+    "question": "Bij welk bord mag je niet stilstaan om een passagier uit te laten stappen?",
+    "answer": 0,
+    "image": {
+      "url": "29.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 30,
+    "question": "Kun je brandstof besparen door cruisecontrol te gebruiken?",
+    "answer": "Ja",
+    "image": {
+      "url": "30.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 31,
+    "question": "Er zit geen lastdrager op het dak van je auto. Mag je lading op het dak vervoeren?",
+    "answer": "Nee",
+    "image": {
+      "url": "31.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Geen van alle bestuurders",
+      "Alleen de blauwe motorfietser",
+      "Alleen de witte auto"
+    ],
+    "id": 32,
+    "question": "Wie mag de uitvaartstoet doorkruisen?",
+    "answer": "Geen van alle bestuurders",
+    "image": {
+      "url": "32.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "As-markering A",
+      "As-markering B"
+    ],
+    "id": 33,
+    "question": "Welke as-markering geeft een verandering in de weg-situatie aan?",
+    "answer": "As-markering A",
+    "image": {
+      "url": "33.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je laat het gas los en remt ruim op tijd",
+      "Je laat het gas los, benut de uitloopsnelheid en schakelt terug naar een lagere versnelling",
+      "Je laat het gas los, benut de uitloopsnelheid en schakelt niet"
+    ],
+    "id": 34,
+    "question": "Je nadert een rood verkeerslicht. Wat kun je het beste doen?",
+    "answer": "Je laat het gas los, benut de uitloopsnelheid en schakelt niet",
+    "image": {
+      "url": "34.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_35_option_1.svg",
+      "question_35_option_2.svg",
+      "question_35_option_3.svg",
+      "question_35_option_4.svg"
+    ],
+    "id": 35,
+    "question": "Welk bord geeft het einde van een voorrangsweg aan?",
+    "answer": 3,
+    "image": {
+      "url": "35.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De witte auto",
+      "De rode auto"
+    ],
+    "id": 36,
+    "question": "Wie mag eerst?",
+    "answer": "De witte auto",
+    "image": {
+      "url": "36.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een blinde voetganger moet altijd voor worden gelaten",
+      "Een blinde voetganger mag niet zonder begeleiding deelnemen aan het verkeer",
+      "Een blinde voetganger moet even vaak worden voorgelaten als een gewone voetganger"
+    ],
+    "id": 37,
+    "question": "Welke bewering is waar?",
+    "answer": "Een blinde voetganger moet altijd voor worden gelaten",
+    "image": {
+      "url": "37.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 38,
+    "question": "Er ontstaat een file. Mag je nu gebruik maken van de spitsstrook?",
+    "answer": "Nee",
+    "image": {
+      "url": "38.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je zorgt voor je eigen veiligheid, daarna beveilig je de plek van het ongeval. Hierna bel je 112 en vervolgens verleen je eerste hulp.",
+      "Eerst verleen je eerste hulp. Daarna bel je 112. Vervolgens beveilig je de plek van het ongeval en zorg je voor je eigen veiligheid.",
+      "Je belt 112. Daarna beveilig je de plek van het ongeval en zorg je voor je eigen veiligheid. Vervolgens verleen je eerste hulp."
+    ],
+    "id": 39,
+    "question": "Je bent betrokken bij een verkeersongeval. Wat is de juiste volgorde?",
+    "answer": "Je zorgt voor je eigen veiligheid, daarna beveilig je de plek van het ongeval. Hierna bel je 112 en vervolgens verleen je eerste hulp.",
+    "image": {
+      "url": "39.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Altijd, behalve bij het verrichten van een bijzonder manoeuvre",
+      "Altijd",
+      "Altijd, behalve bij het stilstaan voor een rood stoplicht of een file"
+    ],
+    "id": 40,
+    "question": "Wanneer moet je een gordel dragen?",
+    "answer": "Altijd",
+    "image": {
+      "url": "40.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 41,
+    "question": "Is een fietspad onderdeel van de rijbaan?",
+    "answer": "Nee",
+    "image": {
+      "url": "41.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je laat de grijze auto jou inhalen",
+      "Je versnelt flink zodat je voor de grijze auto een rijstrook naar rechts kan opschuiven",
+      "Je gaat toeteren"
+    ],
+    "id": 42,
+    "question": "Je wordt door de grijze auto rechts ingehaald. Wat doe je?",
+    "answer": "Je laat de grijze auto jou inhalen",
+    "image": {
+      "url": "42.jpg"
+    }
+  },
+  {
+    "type": "multiple_choice_images",
+    "options": [
+      "question_43_option_1.svg",
+      "question_43_option_2.svg",
+      "question_43_option_3.svg",
+      "question_43_option_4.svg"
+    ],
+    "id": 43,
+    "question": "Welk verkeersbord geeft een gevaarlijk kruispunt aan?",
+    "answer": 3,
+    "image": {
+      "url": "43.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je kunt door het zonlicht het verkeer minder goed zien",
+      "Je kunt het verkeer bij daglicht beter zien",
+      "Het verkeer gaat harder rijden"
+    ],
+    "id": 44,
+    "question": "Waar houd je rekening mee als je de tunnel straks uitrijdt?",
+    "answer": "Je kunt door het zonlicht het verkeer minder goed zien",
+    "image": {
+      "url": "44.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Alleen op plaats A",
+      "Op geen van beide plaatsen",
+      "Op plaats A en B"
+    ],
+    "id": 45,
+    "question": "Bij welke plekken is het direct uitladen van spullen toegelaten?",
+    "answer": "Op plaats A en B",
+    "image": {
+      "url": "45.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Een passagier heeft geen gordel om",
+      "De airbag is uitgeschakeld",
+      "Er is een probleem met de stuurbekrachtiging"
+    ],
+    "id": 46,
+    "question": "Dit lampje staat aan. Wat betekent dat?",
+    "answer": "De airbag is uitgeschakeld",
+    "image": {
+      "url": "46.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het slachtoffer op de zij leggen",
+      "Het slachtoffer op zijn of haar rug leggen",
+      "Het slachtoffer in dezelfde positie laten liggen"
+    ],
+    "id": 47,
+    "question": "Een verkeersslachtoffer is bewusteloos geraakt en geeft over. Wat kun je het beste doen?",
+    "answer": "Het slachtoffer op de zij leggen",
+    "image": {
+      "url": "47.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Als het nacht is bij het parkeren of stilstaan buiten de bebouwde kom",
+      "Altijd als je parkeert of stilstaat buiten de bebouwde kom",
+      "Altijd als je stilstaat of parkeert en het zicht slecht is"
+    ],
+    "id": 48,
+    "question": "In welke situatie is stadslicht verplicht?",
+    "answer": "Als het nacht is bij het parkeren of stilstaan buiten de bebouwde kom",
+    "image": {
+      "url": "48.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 49,
+    "question": "Mag je nu 100 km/uur rijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "49.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Waar de groene auto rijdt",
+      "Waar de blauwe auto rijdt",
+      "Waar de gele auto rijdt"
+    ],
+    "id": 50,
+    "question": "Je wilt driekwart rond op de rotonde. Waar geef je richting aan naar rechts?",
+    "answer": "Waar de blauwe auto rijdt",
+    "image": {
+      "url": "50.jpg"
+    }
+  }
+]

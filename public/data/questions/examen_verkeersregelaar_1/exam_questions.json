@@ -1,0 +1,141 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ik volg de aanwijzing van de verkeersregelaar op",
+      "Ik stop omdat het verkeerslicht rood is"
+    ],
+    "id": 1,
+    "question": "Het verkeerslicht is rood, maar de verkeersregelaar geeft een aanwijzing dat je moet doorrijden. Wat doe je?",
+    "answer": "Ik volg de aanwijzing van de verkeersregelaar op",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Algemeen stopteken",
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen.",
+      "Verminder vaart"
+    ],
+    "id": 2,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Verminder vaart",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van voor en achter nadert moet stoppen",
+      "Al het verkeer moet stoppen"
+    ],
+    "id": 3,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Het verkeer dat de verkeersregelaar van voor en achter nadert moet stoppen",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van links en rechts nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen"
+    ],
+    "id": 4,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van links en rechts nadert moet stoppen",
+      "Algemeen stopteken",
+      "Verminder vaart"
+    ],
+    "id": 5,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Algemeen stopteken",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van rechts nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van links en rechts nadert moet stoppen"
+    ],
+    "id": 6,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Het verkeer dat de verkeersregelaar van rechts nadert moet stoppen",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je bent verplicht te stoppen",
+      "Je moet opletten, want er is sprake van een gevaarlijke situatie",
+      "Je moet vaart minderen"
+    ],
+    "id": 7,
+    "question": "Wat moet je doen als je een verkeersbrigadier tegenkomt met dit bord omhoog gehouden?",
+    "answer": "Je bent verplicht te stoppen",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "multiple_response",
+    "options": [
+      "Aanwijzingen van bevoegde ambtenaren zijn het meest belangrijk",
+      "Verkeersregels zijn het meest belangrijk",
+      "Verkeerslichten zijn het meest belangrijk",
+      "Verkeersborden zijn het meest belangrijk"
+    ],
+    "id": 8,
+    "question": "Wat is het meest belangrijk om op te volgen?",
+    "answer": ["Aanwijzingen van bevoegde ambtenaren zijn het meest belangrijk"],
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Het verkeer dat de verkeersregelaar van achter nadert moet stoppen",
+      "Het verkeer dat de verkeersregelaar van voren nadert moet stoppen",
+      "Al het verkeer moet stoppen"
+    ],
+    "id": 9,
+    "question": "Wat betekent deze aanwijzing?",
+    "answer": "Al het verkeer moet stoppen",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 10,
+    "question": "Je komt een verkeersregelaar tegen die deze aanwijzing geeft en je wilt rechtsaf slaan. Mag je doorrijden?",
+    "answer": "Nee",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

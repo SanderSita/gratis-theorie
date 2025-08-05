@@ -1,0 +1,133 @@
+[
+  {
+    "type": "drag_order",
+    "options": [],
+    "id": 1,
+    "question": "Wat is de juiste volgorde?",
+    "answer": [],
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Langzamer rijden dan de maximumsnelheid als er weinig verkeer is",
+      "Op de vluchtstrook je auto nakijken",
+      "Op de middelste rijstrook rijden als het niet nodig is"
+    ],
+    "id": 2,
+    "question": "Wat mag je niet op de autosnelweg doen?",
+    "answer": "Op de middelste rijstrook rijden als het niet nodig is",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Moet je stoppen?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 4,
+    "question": "Mag je parkeren op de rijbaan van een voorrangsweg binnen de bebouwde kom?",
+    "answer": "Ja",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 5,
+    "question": "Je wilt een straat inrijden met dit verkeersbord. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Door het snelheidspedaal los te laten en niet terug te schakelen",
+      "Door terug te schakelen naar een lagere versnelling en het gas los te laten",
+      "Door ruim van te voren snelheid te minderen en af te remmen"
+    ],
+    "id": 6,
+    "question": "Het verkeerslicht springt elk moment op rood. Hoe kun je brandstof besparen?",
+    "answer": "Door het snelheidspedaal los te laten en niet terug te schakelen",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 7,
+    "question": "Zijn dagrijlichten overdag verplicht?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De wegen links en rechts van het bord zijn autosnelwegen",
+      "De weg links van het bord is een autosnelweg en de weg rechts van het bord een afrit",
+      "De weg links van het bord is een autosnelweg en de weg rechts van het bord een autoweg"
+    ],
+    "id": 8,
+    "question": "Welke bewering is waar?",
+    "answer": "De wegen links en rechts van het bord zijn autosnelwegen",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "De motor eerst kort warm laten draaien",
+      "Onmiddellijk een beetje gas geven",
+      "Eerst even wachten met gas geven"
+    ],
+    "id": 9,
+    "question": "Je start de motor op. Wat kun je het beste doen na het omdraaien van de contactsleutel?",
+    "answer": "Eerst even wachten met gas geven",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 10,
+    "question": "Mogen voetgangers op het fietspad lopen als het voetpad ontbreekt?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]

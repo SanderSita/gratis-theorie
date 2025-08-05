@@ -1,0 +1,135 @@
+[
+  {
+    "type": "ja/nee",
+    "options": [
+      "Naast een busstrook",
+      "Langs een blauwe streep",
+      "Onder een brug"
+    ],
+    "id": 1,
+    "question": "Waar mag je niet vrijwillig stilstaan?",
+    "answer": "Naast een busstrook",
+    "image": {
+      "url": "1.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 2,
+    "question": "Jouw passagier heeft een gehandicaptenparkeerkaart. Mag je hier parkeren?",
+    "answer": "Ja",
+    "image": {
+      "url": "2.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 3,
+    "question": "Je wilt hier een passagier uit laten stappen. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "3.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 4,
+    "question": "Mag je zo stilstaan voor het onmiddellijk laden en lossen van goederen?",
+    "answer": "Nee",
+    "image": {
+      "url": "4.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Je zet de parkeerschijf op 16:30",
+      "Je zet de parkeerschijf op 18:05",
+      "Je zet de parkeerschijf op 16:05"
+    ],
+    "id": 5,
+    "question": "Het is dinsdagmiddag om 16:05. Op welke tijd zet je de parkeerschijf?",
+    "answer": "Je zet de parkeerschijf op 16:30",
+    "image": {
+      "url": "5.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Stoppen om een pakketje uit te laden",
+      "Stoppen voor een telefoongesprek",
+      "Stoppen om een passagier in te laten stappen"
+    ],
+    "id": 6,
+    "question": "Wat wordt gezien als parkeren?",
+    "answer": "Stoppen voor een telefoongesprek",
+    "image": {
+      "url": "6.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 7,
+    "question": "Je wilt hier stoppen om te bellen. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "7.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 8,
+    "question": "Je wilt hier stilstaan om een bericht te beantwoorden. Mag dat?",
+    "answer": "Nee",
+    "image": {
+      "url": "8.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Nee",
+      "Ja"
+    ],
+    "id": 9,
+    "question": "Je wilt hier parkeren. Heb je een parkeervergunning nodig?",
+    "answer": "Nee",
+    "image": {
+      "url": "9.jpg"
+    }
+  },
+  {
+    "type": "ja/nee",
+    "options": [
+      "Ja",
+      "Nee"
+    ],
+    "id": 10,
+    "question": "Je wilt op deze weg parkeren. Mag dat?",
+    "answer": "Ja",
+    "image": {
+      "url": "10.jpg"
+    }
+  }
+]
