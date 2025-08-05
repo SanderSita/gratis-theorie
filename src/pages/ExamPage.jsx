@@ -25,6 +25,31 @@ export default function ExamPage() {
   const [wrongAnswers, setWrongAnswers] = useState([]);
   const [isCategory, setIsCategory] = useState(null);
 
+  // New states for touch behavior
+  const [pickedIndex, setPickedIndex] = useState(null);
+
+  // Strict mobile-touch detection: only true on touch-capable devices AND small viewport (mobile)
+  const [isMobileTouch, setIsMobileTouch] = useState(false);
+
+  useEffect(() => {
+    function computeMobileTouch() {
+      const hasTouch = typeof navigator !== 'undefined' && (navigator.maxTouchPoints > 0 || 'ontouchstart' in window);
+      const smallViewport = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(max-width: 850px)').matches;
+      return Boolean(hasTouch && smallViewport);
+    }
+
+    // initial
+    setIsMobileTouch(computeMobileTouch());
+
+    // update on resize because viewport width can change (e.g., rotate device)
+    function onResize() {
+      setIsMobileTouch(computeMobileTouch());
+    }
+    window.addEventListener('resize', onResize);
+
+    return () => window.removeEventListener('resize', onResize);
+  }, []);
+
   useEffect(() => {
     const interval = setInterval(() => {
       if (!startTime) return;
@@ -181,6 +206,52 @@ export default function ExamPage() {
       setSelectedAnswer({"data": data})
       updateAnswerInLocalStorage({"data": data});
     }
+  }
+
+  // Helper: remove any previous placement of itemIndex (so it cannot be in two places)
+  function removePreviousPlacement(itemIndex) {
+    const data = { ...(selectedAnswer?.data || {}) };
+    let changed = false;
+    for (const key of Object.keys(data)) {
+      if (data[key] && Number(data[key].order_index) === Number(itemIndex)) {
+        delete data[key];
+        changed = true;
+      }
+    }
+    if (changed) {
+      setSelectedAnswer({ data });
+    }
+  }
+
+  // Place itemIndex into dropIndex (touch/mobile path)
+  function placeItemAtDrop(itemIndex, dropIndex) {
+    if (finishedExam) return;
+    if (!currentQuestionData || !currentQuestionData.items) return;
+    if (selectedAnswer?.data?.[dropIndex] !== undefined) return; // occupied
+
+    // remove previous placement of this item
+    const newData = { ...(selectedAnswer?.data || {}) };
+    for (const key of Object.keys(newData)) {
+      if (newData[key] && Number(newData[key].order_index) === Number(itemIndex)) {
+        delete newData[key];
+      }
+    }
+
+    newData[dropIndex] = { draggedItemId: currentQuestionData.items[itemIndex].id, order_index: itemIndex };
+
+    setSelectedAnswer({ data: newData });
+    setPickedIndex(null); // unpick after placing
+  }
+
+  // Unset a target (same behavior as your original)
+  function clearDrop(dropIndex) {
+    if (finishedExam) return;
+    if (!selectedAnswer?.data) return;
+    if (selectedAnswer.data[dropIndex] === undefined) return;
+    const updated = { ...selectedAnswer.data };
+    delete updated[dropIndex];
+    setSelectedAnswer({ data: updated });
+    setPickedIndex(null);
   }
 
   function isAnswerComplete(selectedAnswer, currentQuestionData) {
@@ -355,7 +426,7 @@ export default function ExamPage() {
             <div className="grid md:grid-cols-2 gap-6 p-6">
               {/* Left side - Image */}
               <div className="rounded-xl overflow-hidden flex justify-center md:min-h-[400px]">
-                {(currentQuestionData && currentQuestionData.image.url) ? (
+                {(currentQuestionData && currentQuestionData.image && currentQuestionData.image.url) ? (
                   <div className="relative w-full max-w-[800px]">
                     {currentQuestionData.type != 'multiple_choice_images' && 
                       (currentQuestionData.image.url.endsWith('.mp4') ? (
@@ -404,7 +475,7 @@ export default function ExamPage() {
                     )}
 
                     {/* De rode cirkels */}
-                    {currentQuestionData.type === 'drag_order' && currentQuestionData.items ? (
+                    {currentQuestionData && currentQuestionData.type === 'drag_order' && currentQuestionData.items ? (
                       currentQuestionData.items.map((option, dropIndex) => {
                         let displayIndex = '';
                         let isFilled = false;
@@ -419,26 +490,34 @@ export default function ExamPage() {
                           const currentItem = filledItems[dropIndex];
 
                           if (currentItem) {
-                            displayIndex = parseInt(currentItem.order_index) + 1;
+                            displayIndex = parseInt(currentItem.order_index, 10) + 1;
                             isFilled = true;
                           }
                         }
                         return (
                           <div
                             key={dropIndex}
-                            className={`absolute border border-black size-0 opacity-80 p-5 z-50 rounded-full flex items-center justify-center text-black font-bold transition-all ${
-                              isFilled ? 'bg-orange-500 text-white' : 'bg-orange-200 cursor-pointer hover:bg-orange-300'
-                            }`}
+                            className={`absolute border border-black size-0 opacity-80 p-5 z-50 rounded-full flex items-center justify-center text-black font-bold transition-all ${isFilled ? 'bg-orange-500 text-white' : 'bg-orange-200 cursor-pointer hover:bg-orange-300'}`}
                             style={{
                               top: option.style.top,
                               left: option.style.left,
                               transform: 'translate(-50%, -50%)',
                             }}
                             onClick={() => {
-                              if (!finishedExam && selectedAnswer?.data?.[dropIndex] !== undefined) {
-                                const updated = { ...selectedAnswer.data };
-                                delete updated[dropIndex];
-                                setSelectedAnswer({ data: updated });
+                              if (isMobileTouch) {
+                                // Mobile touch behavior: if filled -> clear; if not filled and an item is picked -> place it
+                                if (isFilled) {
+                                  clearDrop(dropIndex);
+                                } else if (pickedIndex !== null) {
+                                  placeItemAtDrop(pickedIndex, dropIndex);
+                                }
+                              } else {
+                                // Desktop click still clears if filled (keeps your original behavior)
+                                if (!finishedExam && selectedAnswer?.data?.[dropIndex] !== undefined) {
+                                  const updated = { ...(selectedAnswer.data || {}) };
+                                  delete updated[dropIndex];
+                                  setSelectedAnswer({ data: updated });
+                                }
                               }
                             }}
                             onDragOver={(e) => !finishedExam && e.preventDefault()}
@@ -446,15 +525,21 @@ export default function ExamPage() {
                               if (finishedExam) return;
 
                               const draggedIndex = e.dataTransfer.getData('text/plain');
-                              if (!draggedIndex || selectedAnswer?.data?.[dropIndex] !== undefined) return;
+                              if (draggedIndex === '' || draggedIndex === null || draggedIndex === undefined) return;
+                              if (selectedAnswer?.data?.[dropIndex] !== undefined) return;
 
-                              const draggedItemId = currentQuestionData.items[dropIndex]?.id;
+                              const draggedItemId = currentQuestionData.items[Number(draggedIndex)]?.id;
                               if (!draggedItemId) return;
 
-                              const updated = {
-                                ...(selectedAnswer?.data || {}),
-                                [dropIndex]: { draggedItemId, order_index: draggedIndex },
-                              };
+                              // remove previous placement of this dragged item
+                              const updated = { ...(selectedAnswer?.data || {}) };
+                              for (const key of Object.keys(updated)) {
+                                if (updated[key] && Number(updated[key].order_index) === Number(draggedIndex)) {
+                                  delete updated[key];
+                                }
+                              }
+
+                              updated[dropIndex] = { draggedItemId, order_index: Number(draggedIndex) };
 
                               setSelectedAnswer({ data: updated });
                             }}
@@ -557,12 +642,13 @@ export default function ExamPage() {
                         </div>
                       ): null,
                       'drag_order': (
+                        // Items list (draggable on desktop/large screens, pickable on small mobile-touch)
                         <div className='flex flex-wrap gap-4'>
                           {currentQuestionData.items && currentQuestionData.items.map((option, index) => {
                             let isDropped = false;
                             if (selectedAnswer && selectedAnswer["data"]) {
-                              for (const [key, value] of Object.entries(selectedAnswer?.data)) {
-                                if (value && value.order_index == index) {
+                              for (const [key, value] of Object.entries(selectedAnswer?.data || {})) {
+                                if (value && Number(value.order_index) === index) {
                                   isDropped = true;
                                   break;
                                 }
@@ -571,12 +657,19 @@ export default function ExamPage() {
                             
                             if (isDropped) return null;
                             
+                            const isPicked = pickedIndex === index;
+
                             return (
                               <div 
                                 key={index} 
-                                className='flex justify-center items-center size-0 p-5 rounded-full border-2 text-left transition-all cursor-grab hover:border-orange-300 hover:bg-orange-50 active:cursor-grabbing'
-                                draggable
+                                className={`flex justify-center items-center size-0 p-5 rounded-full border-2 text-left transition-all ${isPicked ? 'bg-orange-300' : ''} cursor-grab hover:border-orange-300 hover:bg-orange-50 active:cursor-grabbing`}
+                                // draggable only when NOT on mobile-touch small screens
+                                draggable={!isMobileTouch}
                                 onDragStart={(e) => {
+                                  if (isMobileTouch || finishedExam) {
+                                    e.preventDefault();
+                                    return;
+                                  }
                                   e.dataTransfer.setData('text/plain', index);
                                   const dragImage = document.createElement('div');
                                   dragImage.style.width = '40px';
@@ -593,6 +686,27 @@ export default function ExamPage() {
                                   document.body.appendChild(dragImage);
                                   e.dataTransfer.setDragImage(dragImage, 20, 20);
                                   setTimeout(() => document.body.removeChild(dragImage), 0);
+                                }}
+                                onClick={() => {
+                                  // only toggle pick on small mobile-touch screens
+                                  if (!isMobileTouch || finishedExam) return;
+
+                                  if (pickedIndex === index) {
+                                    // unpick
+                                    setPickedIndex(null);
+                                  } else {
+                                    setPickedIndex(index);
+                                  }
+                                }}
+                                role="button"
+                                aria-pressed={isPicked}
+                                tabIndex={0}
+                                onKeyDown={(e) => {
+                                  if ((e.key === 'Enter' || e.key === ' ') && isMobileTouch) {
+                                    e.preventDefault();
+                                    if (pickedIndex === index) setPickedIndex(null);
+                                    else setPickedIndex(index);
+                                  }
                                 }}
                               >
                                 {index + 1}
@@ -658,6 +772,12 @@ export default function ExamPage() {
                 
                 <div className="flex items-center gap-2 mt-4 text-gray-500 text-sm">
 
+                {isMobileTouch && currentQuestionData && currentQuestionData.type === 'drag_order' && !finishedExam && (
+                  <div className="text-sm text-gray-600">
+                    {pickedIndex === null ? 'Tik een item om te selecteren, tik daarna een cirkel om te plaatsen.' : `Tik een cirkel om te plaatsen of tik het item opnieuw om te annuleren.`}
+                  </div>
+                )}
+
                 {finishedExam && currentQuestionData && (
                   wrongAnswers.includes(currentQuestionData.id) ? (
                     <p className="text-red-500 font-bold">
@@ -668,7 +788,7 @@ export default function ExamPage() {
                             Juiste volgorde zie je in de afbeelding.
                             <br />
                             Jouw antwoord was:{' '}
-                            {Object.values(selectedAnswer?.data)
+                            {Object.values(selectedAnswer?.data || {})
                               .sort((a, b) => parseInt(a.order_index) - parseInt(b.order_index))
                               .map((item) => item.draggedItemId)
                               .join(', ')}
@@ -689,7 +809,9 @@ export default function ExamPage() {
 
                 {!finishedExam && (
                   <>
-                    <HelpCircleIcon className="w-4 h-4" />
+                    {!isMobileTouch && currentQuestionData && currentQuestionData.type != 'drag_order' &&
+                      <HelpCircleIcon className="w-4 h-4" />
+                    }
                     {currentQuestionData == null
                       ? "Kies het juiste antwoord"
                       : currentQuestionData.type === 'ja/nee'
@@ -699,7 +821,7 @@ export default function ExamPage() {
                       : currentQuestionData.type === 'multiple_choice_images'
                       ? "Selecteer één afbeelding om door te gaan"
                       : currentQuestionData.type === 'drag_order'
-                      ? "Kies de juiste volgorde door de items te slepen"
+                      ? (isMobileTouch ? "" : "Kies de juiste volgorde door de items te slepen")
                       : currentQuestionData.type === 'multiple_response'
                       ? "Selecteer één of meer antwoorden om door te gaan"
                       : "Kies het juiste antwoord"}
