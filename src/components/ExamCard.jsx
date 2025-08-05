@@ -4,7 +4,7 @@ import { CheckCircleIcon, ClipboardListIcon, PlayIcon } from 'lucide-react'
 export const ExamCard = ({ exam }) => {
   const cleanTitle = exam.title
   const formattedTitle = cleanTitle.toLowerCase().replace(/ /g, '_');
-  console.log('ExamCard ', exam)
+
   const getCurrentlyStarted = () => {
     const startedAt = exam.startedAt;
     if (!startedAt) return false;
@@ -50,8 +50,6 @@ export const ExamCard = ({ exam }) => {
         
         <div className="mt-auto flex flex-col justify-end gap-3 pt-4">
           {exam.exams.map((item, i) => {
-            console.log(exam.title)
-            console.log(item)
             const passed = typeof item.score === 'string' && item.score.includes(' ') && parseFloat(item.score.split(' ')[0]) >= 7
             return (
               <div className="w-full" key={i}>

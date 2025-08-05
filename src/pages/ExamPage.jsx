@@ -164,9 +164,7 @@ export default function ExamPage() {
   }
 
   const handleSelectAnswer = (type, data) => {
-    console.log("aa")
     if (finishedExam) return;
-    console.log("bbb")
     if (type === 'multiple_response') {
       // If multiple response, toggle the selection
       setSelectedAnswer(prev => {
@@ -206,7 +204,6 @@ export default function ExamPage() {
   }
 
   function updateAnswerInLocalStorage(answer) {
-    console.log("Updating answer in local storage", answer, currentQuestionData);
     const examData = JSON.parse(localStorage.getItem(`exam_${examId}`));
     const updatedAnswers = [...examData.answers];
 
@@ -235,7 +232,6 @@ export default function ExamPage() {
             let wrongAnswers = [];
 
             const correctAnswers = questions.reduce((count, question, index) => {
-              console.log(question)
               if (question.type === 'ja/nee' && question.answer === question.options[answers[index]?.data]) {
                 return count + 1;
               } else if (question.type === 'invulvraag' && question.answer.toLowerCase() === answers[index]?.data.toLowerCase()) {
