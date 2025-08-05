@@ -1,7 +1,36 @@
 [
   {
     "type": "drag_order",
-    "options": [],
+    "items": [
+      {
+        "id": "voetganger",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "30%",
+            "left": "10%"
+        }
+      },
+      {
+        "id": "motor",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "20%",
+            "left": "15%"
+        }
+      },
+      {
+        "id": "auto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "70%",
+            "left": "83%"
+        }
+      }
+    ],
+    "correct_order": ["auto", "motor", "voetganger"],
     "id": 1,
     "question": "Wat is de juiste volgorde?",
     "answer": [],

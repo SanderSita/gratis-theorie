@@ -98,7 +98,45 @@
   },
   {
     "type": "drag_order",
-    "options": [],
+    "items": [
+      {
+        "id": "brommer",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "50%",
+            "left": "5%"
+        }
+      },
+      {
+        "id": "voetganger",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "53%",
+            "left": "82%"
+        }
+      },
+      {
+        "id": "motor",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "20%",
+            "left": "42%"
+        }
+      },
+      {
+        "id": "lesauto",
+        "label": "",
+        "image": null,
+        "style": {
+            "top": "30%",
+            "left": "90%"
+        }
+      }
+    ],
+    "correct_order": ["brommer", "motor", "lesauto", "voetganger"],
     "id": 8,
     "question": "Wat is de juiste volgorde?",
     "answer": [],
