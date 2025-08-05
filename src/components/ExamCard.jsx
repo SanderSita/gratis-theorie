@@ -1,30 +1,31 @@
 import React from 'react'
 import { CheckCircleIcon, ClipboardListIcon, PlayIcon } from 'lucide-react'
 
-const getExamImage = (id) => {
-  const images = {
-    1: 'https://images.unsplash.com/photo-1621799754526-a0d52c49fad5?w=800&auto=format&fit=crop&q=60',
-    2: 'https://images.unsplash.com/photo-1577537500263-751957dbf7a3?w=800&auto=format&fit=crop&q=60',
-    3: 'https://images.unsplash.com/photo-1543465077-db45d34b88a5?w=800&auto=format&fit=crop&q=60',
-    4: 'https://images.unsplash.com/photo-1506521781263-d8422e82f27a?w=800&auto=format&fit=crop&q=60',
-    5: 'https://images.unsplash.com/photo-1606161290889-77950cfb67d3?w=800&auto=format&fit=crop&q=60',
-    6: 'https://images.unsplash.com/photo-1501999635878-b73fd0d53cd2?w=800&auto=format&fit=crop&q=60',
-    7: 'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&auto=format&fit=crop&q=60',
-    8: 'https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?w=800&auto=format&fit=crop&q=60',
-    9: 'https://images.unsplash.com/photo-1603176559162-b2c0c8cb7a92?w=800&auto=format&fit=crop&q=60',
-    10: 'https://images.unsplash.com/photo-1567449303183-ae0d6ed1498e?w=800&auto=format&fit=crop&q=60', // Alcohol
-  }
-  return images[id]
-}
-
 export const ExamCard = ({ exam }) => {
-  const cleanTitle = exam.title.replace(' ', '-').toLowerCase()
-  
+  const cleanTitle = exam.title
+  const formattedTitle = cleanTitle.toLowerCase().replace(/ /g, '_');
+  console.log('ExamCard ', exam)
+  const getCurrentlyStarted = () => {
+    const startedAt = exam.startedAt;
+    if (!startedAt) return false;
+    const now = new Date();
+    const timeDiff = now - startedAt;
+    const minutesDiff = Math.floor(timeDiff / 1000 / 60);
+    return minutesDiff < 40; // Check if started within the last 40 minutes
+  }
+
+  const currentlyStarted = getCurrentlyStarted()
+
+  const goToExam = (num) => {
+    if (!currentlyStarted || exam.completed) localStorage.removeItem('exam_' + formattedTitle + '_' + num); // Clear any previous exam data
+    window.location.assign('/examen/' + formattedTitle + '_' + num);
+  };
+
   return (
     <div className="bg-white rounded-lg shadow-md overflow-hidden border border-gray-100 flex flex-col">
       <div className="h-48 overflow-hidden">
         <img
-          src={'/assets/img/' + cleanTitle + '.jpg'}
+          src={'/data/questions/examen_' + formattedTitle + '_1/cover.jpg'}
           alt={exam.title}
           className="w-full h-full object-cover"
         />
@@ -47,18 +48,46 @@ export const ExamCard = ({ exam }) => {
           </div>
         )}
         
-        {/* Push buttons to bottom */}
-        <div className="mt-auto flex justify-end gap-3 pt-4">
-          {exam.completed && (
-            <button className="flex items-center bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-lg font-medium transition-colors">
-              <ClipboardListIcon size={18} className="mr-2" />
-              Bekijk Resultaten
-            </button>
-          )}
-          <button className="bg-[#FF7A30] text-white px-4 py-2 rounded-lg font-medium hover:bg-[#e66e29] transition-colors flex items-center">
-            <PlayIcon size={18} className="mr-2" />
-            Start Examen
-          </button>
+        <div className="mt-auto flex flex-col justify-end gap-3 pt-4">
+          {exam.exams.map((item, i) => {
+            console.log(exam.title)
+            console.log(item)
+            const passed = typeof item.score === 'string' && item.score.includes(' ') && parseFloat(item.score.split(' ')[0]) >= 7
+            return (
+              <div className="w-full" key={i}>
+                {item.completed ? (
+                  <div className="grid grid-cols-2">
+                    <button
+                      onClick={() => goToExam(i + 1)}
+                      className="bg-[#FF7A30] text-white px-4 py-2 rounded-l-lg font-medium hover:bg-[#e66e29] transition-colors flex items-center"
+                    >
+                      <PlayIcon size={18} className="mr-2" />
+                      Oefen vragen {i + 1}
+                    </button>
+                    <button
+                      onClick={() => window.location.assign('/examen/' + formattedTitle + '_' + (i+1) + '/resultaat')}
+                      className={`flex items-center px-4 py-2 rounded-r-lg font-medium transition-colors ${
+                        passed
+                          ? 'bg-green-100 hover:bg-green-200 text-green-800'
+                          : 'bg-red-100 hover:bg-red-200 text-red-800'
+                      }`}
+                    >
+                      <ClipboardListIcon size={18} className="mr-2" />
+                      Bekijk Resultaten
+                    </button>
+                  </div>
+                ) : (
+                  <button
+                    onClick={() => goToExam(i + 1)}
+                    className="bg-[#FF7A30] text-white w-full px-4 py-2 rounded-lg font-medium hover:bg-[#e66e29] transition-colors flex items-center"
+                  >
+                    <PlayIcon size={18} className="mr-2" />
+                    Oefen vragen {i + 1}
+                  </button>
+                )}
+              </div>
+            );
+          })}
         </div>
       </div>
     </div>
