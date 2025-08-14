@@ -1,9 +1,10 @@
 import React, { useState } from 'react'
 import { ExamList } from '../components/ExamList'
 import { Header } from '../components/Header'
+import DonateBottomRight from '../components/DonateBottomRight'
 
 export default function OverView() {
-  // make a list of pre-exams, dynamically from 1 to 10
+  const [showExams, setShowExams] = useState(true);
 
   const preExams = Array.from({ length: 12 }, (_, i) => ({
     id: i + 1,
@@ -67,17 +68,56 @@ export default function OverView() {
   
   return (
     <div className="bg-gray-50 min-h-screen">
+      <DonateBottomRight />
       <Header />
-      <main className="container mx-auto px-4 py-8">
-        <div className="mb-8 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-gray-800">Examens</h1>
+      <div className="sticky top-0 z-40 bg-gray-50">
+        <div className="w-full grid grid-cols-2">
+          <div
+            onClick={() => {
+              setShowExams(true)
+              window.scrollTo({ top: 0, behavior: 'smooth' })
+            }}
+            className={
+              'text-center p-2 border-b-2 hover:cursor-pointer ' +
+              (showExams
+                ? 'border-b-orange-500 bg-orange-500 text-white'
+                : 'border-b-gray-200')
+            }
+          >
+            <p>Examens</p>
+          </div>
+          <div
+            onClick={() => {
+              setShowExams(false)
+              window.scrollTo({ top: 0, behavior: 'smooth' })
+            }}
+            className={
+              'text-center p-2 border-b-2 hover:cursor-pointer ' +
+              (!showExams
+                ? 'border-b-orange-500 bg-orange-500 text-white'
+                : 'border-b-gray-200')
+            }
+          >
+            <p>Categorieën</p>
+          </div>
         </div>
-        <ExamList preExams={preExams} exams={exams} />
+      </div>
+      <main className="container mx-auto px-4">
+        {showExams &&
+          <div className="py-8">
+            <h1 className="text-2xl font-bold text-gray-800 mb-2">Examens</h1>
+            <p className="text-gray-500 text-md max-w-[600px]">
+              Elk examen bestaat uit 50 vragen. Je hebt 40 minuten om het examen te voltooien. Je kunt het examen onbeperkt opnieuw maken.
+            </p>
+          </div>
+        }
+        
+        <ExamList preExams={preExams} exams={exams} showExams={showExams} />
       </main>
       <div className="bg-gradient-to-br from-orange-500 via-orange-600 to-orange-700">
-        <div className="py-4 border-t border-white border-opacity-20">
+        <div className="p-4 border-t border-white border-opacity-20">
           <p className="text-orange-100 text-center text-sm">
-            © {new Date().getFullYear()} Gratis Auto Theorie — Toegankelijke theorie-oefening voor
+            © {new Date().getFullYear()} Auto Theorie Voor Niks — Toegankelijke theorie-oefening voor
             iedereen
           </p>
         </div>
