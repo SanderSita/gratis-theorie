@@ -49,7 +49,7 @@ export function Comparison() {
             {/* Our site */}
             <div className="p-10 bg-gradient-to-b from-orange-50 to-orange-25">
               <h3 className="text-2xl font-semibold text-orange-700 mb-8 text-center">
-                Gratis Auto Theorie
+                AutoTheorieVoorNiks.nl
               </h3>
               <div className="space-y-4">
                 <div className="flex items-center gap-4 p-4 bg-white rounded-xl shadow-sm">

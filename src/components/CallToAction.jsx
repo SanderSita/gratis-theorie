@@ -25,7 +25,7 @@ export function CallToAction() {
         </div>
         <div className="mt-16 pt-8 border-t border-white border-opacity-20">
           <p className="text-orange-100 font-light">
-            © {new Date().getFullYear()} Gratis Auto Theorie — Toegankelijke theorie-oefening voor
+            © {new Date().getFullYear()} Auto Theorie Voor Niks — Toegankelijke theorie oefeningen voor
             iedereen
           </p>
         </div>
