@@ -723,15 +723,14 @@
   {
     "type": "ja/nee",
     "options": [
-      "De bromfietser zal naar rechts uitwijken om ruimte te maken",
-      "De auto voor je zal remmen",
-      "Stilstaande voertuigen na de bocht"
+      "Ja",
+      "Nee"
     ],
     "id": 44,
-    "question": "Wat moet je verwachten dat er nu gaat gebeuren?",
-    "answer": "De auto voor je zal remmen",
+    "question": "Moet je hier een rijstrook naar rechts opschuiven?",
+    "answer": "Nee",
     "image": {
-      "url": "44.mp4"
+      "url": "44.jpg"
     }
   },
   {

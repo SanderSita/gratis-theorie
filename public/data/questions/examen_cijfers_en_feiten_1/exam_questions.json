@@ -4,7 +4,7 @@
     "id": 1,
     "question": "Hoeveel meter nog tot de spoorwegovergang?",
     "why": "Elke streep staat voor 80 meter. Je bent dus 240 meter van de spoorwegovergang verwijderd.",
-    "answer": [],
+    "answer": "240",
     "image": {
       "url": "1.jpg"
     }

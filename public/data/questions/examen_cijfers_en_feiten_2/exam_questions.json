@@ -17,7 +17,7 @@
     "id": 2,
     "question": "Hoeveel meter afstand zit er tussen hectometerpaaltjes?",
     "why": "Er zit 100 meter afstand tussen hectometerpaaltjes.",
-    "answer": [],
+    "answer": "100",
     "image": {
       "url": "2.jpg"
     }
@@ -67,7 +67,7 @@
     "id": 6,
     "question": "Hoeveel meter nog tot de spoorwegovergang?",
     "why": "Tussen het bord en de spoorwegovergang zit 80 meter. Elke rode streep staat voor 80 meter.",
-    "answer": [],
+    "answer": "80",
     "image": {
       "url": "6.jpg"
     }

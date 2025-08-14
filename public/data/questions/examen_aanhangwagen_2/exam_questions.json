@@ -87,7 +87,7 @@
     "id": 7,
     "question": "Wat is de maximale toegestane lengte in meters van een auto met aanhangwagen?",
     "why": "De maximale toegestane lengte van een auto met aanhangwagen is 18 meter.",
-    "answer": [],
+    "answer": "18",
     "image": {
       "url": "7.jpg"
     }
@@ -124,7 +124,7 @@
     "id": 10,
     "question": "Wat is de maximale toegestane hoogte van een aanhangwagen? Geef het antwoord in meters.",
     "why": "De maximale toegestane hoogte van een aanhangwagen of personenauto is 4 meter.",
-    "answer": [],
+    "answer": "4",
     "image": {
       "url": "10.jpg"
     }

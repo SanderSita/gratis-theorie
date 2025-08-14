@@ -42,7 +42,7 @@
     "id": 4,
     "question": "Wat is de maximumsnelheid voor een vrachtauto op een autosnelweg?",
     "why": "Een vrachtauto mag maximaal 80 km/u rijden. Het is handig om te weten hoe snel andere voertuigen rijden. Zo weet je beter wat kunt verwachten.",
-    "answer": [],
+    "answer": "80",
     "image": {
       "url": "4.jpg"
     }
@@ -66,7 +66,7 @@
     "id": 6,
     "question": "Hoeveel km/uur mag je rijden op een voorrangsweg buiten de bebouwde kom?",
     "why": "Op voorrangswegen buiten de bebouwde kom mag je 80 km/uur rijden, tenzij er een lagere maximumsnelheid wordt aangegeven.",
-    "answer": [],
+    "answer": "80",
     "image": {
       "url": "6.jpg"
     }
@@ -104,7 +104,7 @@
     "id": 9,
     "question": "Hoe snel moet een voertuig minimaal kunnen rijden om op een autoweg te mogen komen?",
     "why": "Voertuigen mogen op autowegen rijden als ze minimaal 50 km/uur kunnen en mogen rijden.",
-    "answer": [],
+    "answer": "50",
     "image": {
       "url": "9.jpg"
     }

@@ -112,14 +112,14 @@
   {
     "type": "ja/nee",
     "options": [
-      "Nee",
-      "Ja"
+      "Ja",
+      "Nee"
     ],
     "id": 9,
-    "question": "Moet je verwachten dat de auto voor je zal remmen?",
+    "question": "Moet je hier een rijstrook naar rechts opschuiven?",
     "answer": "Nee",
     "image": {
-      "url": "9.jpg"
+      "url": "8.jpg"
     }
   },
   {

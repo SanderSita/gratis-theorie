@@ -30,7 +30,7 @@
     "id": 3,
     "question": "Hoe ver mag deelbare lading aan de achterkant in centimeters uitsteken?",
     "why": "Deelbare lading mag niet meer dan 100 centimeter aan de achterkant uitsteken. Dat geldt voor zowel een auto als een aanhangwagen.",
-    "answer": [],
+    "answer": "100",
     "image": {
       "url": ""
     }
@@ -40,7 +40,7 @@
     "id": 4,
     "question": "Hoe ver mag ondeelbare lading maximaal aan weerszijden van de auto uitsteken? Geef het antwoord in centimeters.",
     "why": "Het juiste antwoord is 20 cm. Lading hoeft niet gemarkeerd te worden op een personenauto.",
-    "answer": [],
+    "answer": "20",
     "image": {
       "url": "4.jpg"
     }
@@ -63,7 +63,7 @@
     "id": 6,
     "question": "Hoeveel meter mag deelbare lading aan de voorkant van een auto uitsteken?",
     "why": "Deelbare lading mag nooit aan de voorkant uitsteken.",
-    "answer": [],
+    "answer": "0",
     "image": {
       "url": ""
     }

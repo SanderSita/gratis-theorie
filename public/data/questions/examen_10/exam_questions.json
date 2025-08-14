@@ -105,7 +105,7 @@
     "question": "Moet je hier een rijstrook naar rechts opschuiven?",
     "answer": "Nee",
     "image": {
-      "url": "8.mp4"
+      "url": "8.jpg"
     }
   },
   {
@@ -133,7 +133,7 @@
     "question": "Wat moet je verwachten dat er gaat gebeuren?",
     "answer": "Je kunt gewoon verder rijden",
     "image": {
-      "url": "10.mp4"
+      "url": "10.jpg"
     }
   },
   {
@@ -168,7 +168,7 @@
     "id": 13,
     "question": "Wat is de maximumsnelheid van een brommobiel?",
     "why": "De maximumsnelheid van een brommobiel is 45 km/uur. Een brommobiel moet op de rijbaan rijden en de regels van een personenauto volgen.",
-    "answer": [],
+    "answer": "45",
     "image": {
       "url": "13.jpg"
     }
@@ -191,7 +191,7 @@
     "id": 15,
     "question": "Hoeveel km/uur mag je hier rijden?",
     "why": "De maximumsnelheid op een autoweg is 100 km/uur. Maar met de aanhangwagen mag je niet sneller dan 90 km/uur rijden. De maximumsnelheid is 90 km/uur voor een voertuig die een aanhangwagen met een toegestane maximummassa van niet meer dan 3500 kg voortbeweegt.",
-    "answer": [],
+    "answer": "100",
     "image": {
       "url": "15.jpg"
     }
@@ -332,7 +332,7 @@
     "question": "Moet je verwachten dat de auto voor je zal stoppen?",
     "answer": "Ja",
     "image": {
-      "url": "25.mp4"
+      "url": "25.jpg"
     }
   },
   {
