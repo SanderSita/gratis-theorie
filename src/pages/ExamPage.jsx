@@ -7,6 +7,7 @@ import {
   HelpCircleIcon,
 } from 'lucide-react'
 import { FinishConfirm } from '../components/FinishConfirm'
+import DonateBottomRight from '../components/DonateBottomRight';
 
 export default function ExamPage() {
   const { examId } = useParams();
@@ -23,7 +24,6 @@ export default function ExamPage() {
   const [finishedExam, setFinishedExam] = useState(null);
   const [topQuestion, setTopQuestion] = useState(null);
   const [wrongAnswers, setWrongAnswers] = useState([]);
-  const [isCategory, setIsCategory] = useState(null);
 
   // New states for touch behavior
   const [pickedIndex, setPickedIndex] = useState(null);
@@ -75,7 +75,6 @@ export default function ExamPage() {
     // If examId is not a number, it means it's a category
     if (!examId || isNaN(examId)) {
       examPath = `/data/questions/examen_${examId}/exam_questions.json`;
-      setIsCategory(true);
     }
     
     fetch(examPath)
@@ -205,21 +204,6 @@ export default function ExamPage() {
     } else {
       setSelectedAnswer({"data": data})
       updateAnswerInLocalStorage({"data": data});
-    }
-  }
-
-  // Helper: remove any previous placement of itemIndex (so it cannot be in two places)
-  function removePreviousPlacement(itemIndex) {
-    const data = { ...(selectedAnswer?.data || {}) };
-    let changed = false;
-    for (const key of Object.keys(data)) {
-      if (data[key] && Number(data[key].order_index) === Number(itemIndex)) {
-        delete data[key];
-        changed = true;
-      }
-    }
-    if (changed) {
-      setSelectedAnswer({ data });
     }
   }
 
@@ -375,11 +359,11 @@ export default function ExamPage() {
           <div onClick={() => window.location.assign('/')} className="flex items-center gap-4 cursor-pointer">
             <img
               src="https://uploadthingy.s3.us-west-1.amazonaws.com/ekwuapqFGkAUsQe1QsFHqR/icon_%281%29.png"
-              alt="Gratis Auto Theorie Logo"
+              alt="Auto Theorie Voor Niks Logo"
               className="w-10 h-10 rounded-xl"
             />
-            <h1 className="text-xl font-semibold text-gray-800">
-              Auto Theorie Examen
+            <h1 className="text-xl font-light text-gray-800 ">
+              Auto Theorie Voor Niks
             </h1>
           </div>
           <div className="flex items-center gap-4 text-gray-600">
@@ -950,6 +934,10 @@ export default function ExamPage() {
           </div>
         </div>
       </div>
+      
+      {finishedExam &&
+        <DonateBottomRight />
+      }
     </div>
   )
 }

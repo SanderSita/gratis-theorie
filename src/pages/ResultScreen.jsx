@@ -1,5 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
+import DonateBottomRight from "../components/DonateBottomRight";
 
 export default function ResultScreen() {
   const { examId } = useParams();
@@ -20,7 +21,8 @@ export default function ResultScreen() {
   }
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 font-sans">
+    <div className="min-h-screen flex flex-col items-center justify-center font-sans bg-gradient-to-br from-orange-100 via-white to-blue-100">
+      <DonateBottomRight />
       <div className="bg-white rounded-[18px] shadow-md p-10 max-w-md w-full text-center">
         {/* Header */}
         <div className="flex items-center justify-center mb-6 relative">
@@ -63,15 +65,15 @@ export default function ResultScreen() {
         <div className="flex flex-col gap-3">
           <button
             className="bg-orange-600 hover:bg-orange-700 text-white font-semibold rounded-lg py-3 px-8 w-full transition-colors"
-            onClick={onRestart}
-          >
-            Opnieuw {passed ? 'oefenen' : 'proberen'}
-          </button>
-          <button
-            className="bg-gray-100 hover:bg-gray-200 text-gray-800 font-semibold rounded-lg py-3 px-8 w-full transition-colors"
             onClick={onReview}
           >
             Vragen bekijken
+          </button>
+          <button
+            className="bg-gray-100 hover:bg-gray-200 text-gray-800 font-semibold rounded-lg py-3 px-8 w-full transition-colors"
+            onClick={onRestart}
+          >
+            Opnieuw {passed ? 'oefenen' : 'proberen'}
           </button>
         </div>
         <div className="text-xs text-gray-500 mt-3">

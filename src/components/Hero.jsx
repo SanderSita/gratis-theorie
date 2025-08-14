@@ -9,7 +9,7 @@ export function Hero() {
         <div className="flex justify-center mb-8">
           <img
             src="/assets/svg/logo.svg"
-            alt="Gratis Auto Theorie Logo"
+            alt="Auto Theorie Voor Niks Logo"
             className="w-20 h-20 rounded-3xl shadow-xl p-2"
           />
         </div>

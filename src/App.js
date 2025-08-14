@@ -5,6 +5,7 @@ import NotFound from "./pages/NotFound";
 import ResultScreen from "./pages/ResultScreen";
 import OverView from "./pages/OverView";
 import { Analytics } from "@vercel/analytics/react";
+import DonatePage from "./pages/DonatePage";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <Route path="/overzicht" element={<OverView />} />
           <Route path="/examen/:examId" element={<ExamPage />} />
           <Route path="/examen/:examId/resultaat" element={<ResultScreen />} />
+          <Route path="/doneren" element={<DonatePage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Router>
