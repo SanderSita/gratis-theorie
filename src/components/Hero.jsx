@@ -3,7 +3,7 @@ import { CheckCircleIcon } from 'lucide-react';
 
 export function Hero() {
   return (
-    <div className="bg-gradient-to-br from-orange-100 via-white to-blue-100 py-20 px-4 sm:min-h-screen">
+    <div className="bg-gradient-to-br from-orange-100 via-white to-blue-100 md:py-20 py-10 px-4 sm:min-h-screen">
       <div className="max-w-5xl mx-auto text-center">
         {/* Logo */}
         <div className="flex justify-center mb-8">
@@ -30,7 +30,7 @@ export function Hero() {
         </p>
 
 
-          <div className="flex flex-wrap justify-center gap-4 sm:gap-6 mb-10">
+          <div className="sm:flex hidden flex-wrap justify-center gap-2 sm:gap-6 mb-10">
             {[
               'Onbeperkt oefenen',
               'Directe resultaten',

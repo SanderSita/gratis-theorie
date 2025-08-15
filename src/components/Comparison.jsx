@@ -12,11 +12,11 @@ export function Comparison() {
             Vergelijk onze aanpak met andere platforms
           </p>
         </div>
-        <div className="bg-white rounded-3xl shadow-2xl overflow-hidden border border-gray-100">
-          <div className="grid md:grid-cols-2">
+        <div className="bg-white rounded-3xl md:shadow-2xl shadow-sm overflow-hidden border border-gray-100">
+          <div className="grid md:grid-cols-2 grid-cols-1">
             {/* Other sites */}
-            <div className="p-10">
-              <h3 className="text-2xl font-semibold text-gray-700 mb-8 text-center">
+            <div className="md:p-10 p-4">
+              <h3 className="md:text-2xl text-xl font-semibold text-gray-700 mb-8 text-center">
                 Andere Platforms
               </h3>
               <div className="space-y-4">
@@ -47,8 +47,8 @@ export function Comparison() {
               </div>
             </div>
             {/* Our site */}
-            <div className="p-10 bg-gradient-to-b from-orange-50 to-orange-25">
-              <h3 className="text-2xl font-semibold text-orange-700 mb-8 text-center">
+            <div className="md:p-10 p-4 bg-gradient-to-b from-orange-50 to-orange-25">
+              <h3 className="md:text-2xl text-xl font-semibold text-orange-700 mb-8 text-center">
                 AutoTheorieVoorNiks.nl
               </h3>
               <div className="space-y-4">
