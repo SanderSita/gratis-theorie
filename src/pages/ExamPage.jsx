@@ -15,14 +15,14 @@ export default function ExamPage() {
   const [questions, setQuestions] = useState([]);
   const [currentQuestionData, setCurrentQuestionData] = useState(null);
   const [currentQuestion, setCurrentQuestion] = useState(1);
-  const [selectedAnswer, setSelectedAnswer] = useState({ data: {} });
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
 
   const [totalQuestions, setTotalQuestions] = useState(0);
   const [showConfirm, setShowConfirm] = useState(false);
   const [timeLeft, setTimeLeft] = useState("");
   const [startTime, setStartTime] = useState(null);
   const [finishedExam, setFinishedExam] = useState(null);
-  const [topQuestion, setTopQuestion] = useState(null);
+  const [topQuestion, setTopQuestion] = useState(1);
   const [wrongAnswers, setWrongAnswers] = useState([]);
 
   // New states for touch behavior
@@ -371,7 +371,7 @@ export default function ExamPage() {
               <div className="flex items-center gap-2">
                 <ClockIcon className="w-5 h-5 text-orange-500" />
                 <span>
-                  {timeLeft}
+                  {timeLeft || "--:--"}
                 </span>
               </div>
             }
