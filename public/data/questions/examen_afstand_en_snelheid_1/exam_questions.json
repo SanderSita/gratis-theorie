@@ -4,7 +4,7 @@
     "id": 1,
     "question": "Hoe snel moet een voertuig minimaal kunnen rijden om op een autosnelweg te mogen komen?",
     "why": "Voertuigen mogen op autosnelwegen rijden als ze minimaal 60 km/uur kunnen en mogen rijden.",
-    "answer": [],
+    "answer": "60",
     "image": {
       "url": "1.jpg"
     }
