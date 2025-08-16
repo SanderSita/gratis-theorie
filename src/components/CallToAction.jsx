@@ -28,6 +28,7 @@ export function CallToAction() {
             © {new Date().getFullYear()} Auto Theorie Voor Niks — Toegankelijke theorie oefeningen voor
             iedereen
           </p>
+          <p className='mt-1'>Vragen of suggesties? mail ons <a href="mailto:info@autotheorievoorniks.nl" className="text-blue-200 hover:underline hover:cursor-pointer">info@autotheorievoorniks.nl</a></p>
         </div>
       </div>
     </div>

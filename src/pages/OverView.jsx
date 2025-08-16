@@ -116,10 +116,11 @@ export default function OverView() {
       </main>
       <div className="bg-gradient-to-br from-orange-500 via-orange-600 to-orange-700">
         <div className="p-4 border-t border-white border-opacity-20">
-          <p className="text-orange-100 text-center text-sm">
+          <p className="text-orange-100 text-center">
             © {new Date().getFullYear()} Auto Theorie Voor Niks — Toegankelijke theorie-oefening voor
             iedereen
           </p>
+          <p className='mt-1 text-center'>Vragen of suggesties? mail ons <a href="mailto:info@autotheorievoorniks.nl" className="text-blue-200 hover:underline hover:cursor-pointer">info@autotheorievoorniks.nl</a></p>
         </div>
       </div>
     </div>
