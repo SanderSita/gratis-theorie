@@ -21,7 +21,7 @@ export function Hero() {
 
         {/* Subtitle */}
         <p className="text-xl sm:text-2xl md:text-3xl text-gray-600 font-light mb-4 max-w-3xl mx-auto leading-relaxed">
-          Bereidt je voor op je theorieexamen
+          Bereid je voor op je theorie-examen
         </p>
 
         {/* Subtext */}
